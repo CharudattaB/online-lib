@@ -11,16 +11,20 @@ datasource db {
 }
 
 model User {
-    id            String    @id @default(uuid())
-    name          String
-    email         String?   @unique
-    password      String?
-    emailVerified DateTime? @map("email_verified")
-    image         String?
-    createdAt     DateTime  @default(now())
-    updatedAt     DateTime  @updatedAt
-    accounts      Account[]
-    sessions      Session[]
+    id             String         @id @default(uuid())
+    name           String
+    email          String?        @unique
+    password       String?
+    emailVerified  DateTime?      @map("email_verified")
+    image          String?
+    college        College        @relation(fields: [collegeId], references: [id])
+    createdAt      DateTime       @default(now())
+    updatedAt      DateTime       @updatedAt
+    accounts       Account[]
+    sessions       Session[]
+    collegeId      String
+    assignedStock  StockHistory[] @relation("stockHistoryAllocatedTo")
+    allocatedStock StockHistory[] @relation("stockHistoryAllocatedBy")
 
     @@map("users")
 }
@@ -67,4 +71,93 @@ model VerificationRequest {
     updatedAt  DateTime @updatedAt
 
     @@unique([identifier, token])
+}
+
+model College {
+    id        String   @id @default(cuid())
+    name      String
+    address   String
+    location  Json?
+    createdAt DateTime @default(now())
+    updatedAt DateTime @updatedAt
+
+    users        User[]
+    stock        Stock[]
+    stockHistory StockHistory[]
+
+    @@map("colleges")
+}
+
+model Resource {
+    id              String       @id @default(cuid())
+    isbn            String       @unique
+    title           String
+    description     String?
+    author          String
+    publicationName String?
+    edition         String?
+    publishedYear   DateTime?
+    language        String
+    genre           String
+    type            ResourceType
+    isDigital       Boolean
+    meta            Json
+    tags            String[]
+    trendIndex      Int          @default(0)
+    coverImage      String?      @default("/default_book.png")
+    createdAt       DateTime     @default(now())
+    updatedAt       DateTime     @updatedAt
+
+    stockHistory StockHistory[]
+    stock        Stock[]
+
+    @@map("resources")
+}
+
+enum ResourceType {
+    Book
+    Pdf
+}
+
+model Stock {
+    id          String   @id @default(cuid())
+    resource    Resource @relation(fields: [resourceId], references: [id])
+    college     College  @relation(fields: [collegeId], references: [id])
+    libLocation String
+    quantity    Int
+    createdAt   DateTime @default(now())
+    updatedAt   DateTime @updatedAt
+
+    resourceId   String
+    collegeId    String
+    stockHistory StockHistory[]
+}
+
+model StockHistory {
+    id             String           @id @default(cuid())
+    stock          Stock            @relation(fields: [stockId], references: [id])
+    type           StockHistoryType
+    quantity       Int
+    startDate      DateTime?
+    endDate        DateTime?
+    otp            String?
+    allocatedTo    User             @relation("stockHistoryAllocatedTo", fields: [allocatedToId], references: [id])
+    allocatedBy    User             @relation("stockHistoryAllocatedBy", fields: [allocatedById], references: [id])
+    remark         String?
+    createdAt      DateTime         @default(now())
+    updatedAt      DateTime         @updatedAt
+    otpGeneratedAt DateTime?
+
+    allocatedToId String
+    allocatedById String
+    stockId       String
+    college       College?  @relation(fields: [collegeId], references: [id])
+    collegeId     String?
+    resource      Resource? @relation(fields: [resourceId], references: [id])
+    resourceId    String?
+}
+
+enum StockHistoryType {
+    In
+    Out
 }

@@ -1,0 +1,7377 @@
+[
+  {
+    "isbn": "0-07-460401-5",
+    "title": "Programming in ANSI C",
+    "quantity": 18
+  },
+  {
+    "isbn": "0-07-463285-X",
+    "title": "Electric machines",
+    "quantity": 4
+  },
+  {
+    "isbn": "0-07-044555-9",
+    "title": "Business correspondence and report writing: a practical approach to business and technical communication",
+    "quantity": 15
+  },
+  {
+    "isbn": "0-07-463880-7",
+    "title": "C++: The complete reference",
+    "quantity": 15
+  },
+  {
+    "isbn": "0-07-463215-9",
+    "title": "Engineering mechanics",
+    "quantity": 8
+  },
+  {
+    "isbn": "0-07-040211-6",
+    "title": "Object oriented programming with C++",
+    "quantity": 17
+  },
+  {
+    "isbn": "81-85623-22-8",
+    "title": "Object oriented programming in turbo C++",
+    "quantity": 9
+  },
+  {
+    "isbn": "0-07-043590-1",
+    "title": "Vector mechanics for engineers: dynamics & statics",
+    "quantity": 6
+  },
+  {
+    "isbn": "0-07-463039-3",
+    "title": "Concepts of modern physics",
+    "quantity": 5
+  },
+  {
+    "isbn": "0-07-463491-7",
+    "title": "Schaum's outline of theory and problems of programming with C",
+    "quantity": 20
+  },
+  {
+    "isbn": "0-07-044702-0",
+    "title": "Lesikar's basic business communication",
+    "quantity": 6
+  },
+  {
+    "isbn": "81-203-0599-X",
+    "title": "Electrical engineering fundamentals",
+    "quantity": 5
+  },
+  {
+    "isbn": "81-7722-199-X",
+    "title": "Starting out with C++",
+    "quantity": 2
+  },
+  {
+    "isbn": "81-7808-174-1",
+    "title": "Engineering mechanics: Statics",
+    "quantity": 12
+  },
+  {
+    "isbn": "81-7808-175-X",
+    "title": "Engineering mechanics: Dynamics",
+    "quantity": 12
+  },
+  {
+    "isbn": "9971-512-52-1",
+    "title": "Engineering mechanics:Statics",
+    "quantity": 5
+  },
+  {
+    "isbn": "9971-512-51-3",
+    "title": "Engineering mechanics: dynamics",
+    "quantity": 4
+  },
+  {
+    "isbn": "0-07-099061-1",
+    "title": "Schaum's outline of theory and problems of engineering mechanics: statics and dynamics",
+    "quantity": 16
+  },
+  {
+    "isbn": "9.79E+12",
+    "title": "Computer networking and the internet",
+    "quantity": 3689
+  },
+  {
+    "isbn": "981-4057-62-2",
+    "title": "First book of C++ from here to there",
+    "quantity": 4
+  },
+  {
+    "isbn": "981-240-240-3",
+    "title": "Computer science: a structured programming approach using C",
+    "quantity": 10
+  },
+  {
+    "isbn": "0-07-113489-1",
+    "title": "Modern business correspondence",
+    "quantity": 5
+  },
+  {
+    "isbn": "0-07-115689-5",
+    "title": "Beginner's guide to technical communication",
+    "quantity": 6
+  },
+  {
+    "isbn": "81-259-0091-0",
+    "title": "Fundamentals of engineering mechanics",
+    "quantity": 4
+  },
+  {
+    "isbn": "81-85617-80-5",
+    "title": "Workshop technology, part 1: An introductory course",
+    "quantity": 7
+  },
+  {
+    "isbn": "81-85617-81-3",
+    "title": "Workshop technology, part 2",
+    "quantity": 7
+  },
+  {
+    "isbn": "81-7366-176-6",
+    "title": "Beginning C++: the complete language",
+    "quantity": 6
+  },
+  {
+    "isbn": "81-7366-116-2",
+    "title": "Mastering algorithms with C",
+    "quantity": 11
+  },
+  {
+    "isbn": "81-7366-031-X",
+    "title": "Practical C++ programming",
+    "quantity": 15
+  },
+  {
+    "isbn": "81-7366-030-1",
+    "title": "Practical C programming",
+    "quantity": 11
+  },
+  {
+    "isbn": "81-7656-040-5",
+    "title": "Working with C",
+    "quantity": 5
+  },
+  {
+    "isbn": "81-7656-106-1",
+    "title": "Let us C++",
+    "quantity": 16
+  },
+  {
+    "isbn": "81-7409-115-7",
+    "title": "Higher engineering mathematics",
+    "quantity": 8
+  },
+  {
+    "isbn": "81-7409-101-7",
+    "title": "Engineering chemistry",
+    "quantity": 8
+  },
+  {
+    "isbn": "81-87433-17-5",
+    "title": "Engineering chemistry",
+    "quantity": 5
+  },
+  {
+    "isbn": "",
+    "title": "Internet of things for Architects",
+    "quantity": 16708
+  },
+  {
+    "isbn": "81-85842-84-1",
+    "title": "Environmental chemistry",
+    "quantity": 6
+  },
+  {
+    "isbn": "81-88114-01-4",
+    "title": "Engineering mechanics: statics & dynamics",
+    "quantity": 12
+  },
+  {
+    "isbn": "81-250-0426-2",
+    "title": "Written communication in english",
+    "quantity": 17
+  },
+  {
+    "isbn": "81-85825-10-6",
+    "title": "Text book of applied mathematics I",
+    "quantity": 15
+  },
+  {
+    "isbn": "81-85825-07-6",
+    "title": "Textbook of applied mathematics II",
+    "quantity": 17
+  },
+  {
+    "isbn": "81-85099-14-6",
+    "title": "Elements of workshop technology Vol I: Manufacturing processes",
+    "quantity": 8
+  },
+  {
+    "isbn": "81-85099-15-4",
+    "title": "Elements of workshop technology Vol II: Machine tools",
+    "quantity": 4
+  },
+  {
+    "isbn": "81-219-0651-2",
+    "title": "Textbook of engineering mechanics",
+    "quantity": 8
+  },
+  {
+    "isbn": "81-219-0359-9",
+    "title": "Text book of engineering chemistry",
+    "quantity": 6
+  },
+  {
+    "isbn": "81-7700-016-0",
+    "title": "Course in electrical and electronic measurements and instrumentation",
+    "quantity": 8
+  },
+  {
+    "isbn": "81-85594-05-8",
+    "title": "Machine drawing: in first angle projection methods",
+    "quantity": 14
+  },
+  {
+    "isbn": "81-219-0290-8",
+    "title": "Text book of electrical technology",
+    "quantity": 4
+  },
+  {
+    "isbn": "81-88045-15-2",
+    "title": "Basic electrical and electronics engineering with practicals",
+    "quantity": 16
+  },
+  {
+    "isbn": "0-85226-852-1",
+    "title": "Thyristors: theory & applications",
+    "quantity": 6
+  },
+  {
+    "isbn": "0-07-451853-4",
+    "title": "Functional electronics",
+    "quantity": 4
+  },
+  {
+    "isbn": "0-07-212204-8",
+    "quantity": 1,
+    "title": "Oracle 8i a beginer's guide"
+  },
+  {
+    "isbn": "0-07-213111-X",
+    "quantity": 1,
+    "title": "Web design virtual classroom"
+  },
+  {
+    "isbn": "0-07-1135713-0",
+    "quantity": 1,
+    "title": "Get your degree online"
+  },
+  {
+    "isbn": "0-07-882149-5",
+    "quantity": 1,
+    "title": "UNIX companion"
+  },
+  {
+    "isbn": "0-7357-0852-5",
+    "quantity": 1,
+    "title": "Linux essential reference"
+  },
+  {
+    "isbn": "0-672-31666-8",
+    "quantity": 1,
+    "title": "Teach yourself visual c++6online in web time"
+  },
+  {
+    "isbn": "0-07-882475-3",
+    "quantity": 1,
+    "title": "Oracle designer generation"
+  },
+  {
+    "isbn": "0-672-31607-2",
+    "quantity": 1,
+    "title": "Linux programming unleashed"
+  },
+  {
+    "isbn": "0-672-31563-7",
+    "quantity": 1,
+    "title": "Teach yourself database programming with visual inter der tm 6 in 21 days"
+  },
+  {
+    "isbn": "0-07-212378-8",
+    "quantity": 1,
+    "title": "MCSE windows 2000 directory services administration study guide (exam 70-217)"
+  },
+  {
+    "isbn": "0-07-212205-6",
+    "quantity": 1,
+    "title": "Windows 2000design & migration"
+  },
+  {
+    "isbn": "0-07-211932-2",
+    "quantity": 1,
+    "title": "Mcsd visual basic 6 distributed applications study guide (exam 70-176)"
+  },
+  {
+    "isbn": "0-07-211930-6",
+    "quantity": 1,
+    "title": "Mcsd visual basic 6 desktop applications study guide (exam 70-176)"
+  },
+  {
+    "isbn": "0-672-31045-7",
+    "quantity": 1,
+    "title": "Teach yourself transact sql in 21 days"
+  },
+  {
+    "isbn": "0-07-212601-9",
+    "quantity": 1,
+    "title": "Instant java server pages"
+  },
+  {
+    "isbn": "81-85825-64-5",
+    "title": "Engineering mathematics I",
+    "quantity": 7
+  },
+  {
+    "isbn": "81-85825-66-1",
+    "title": "Engineering mathematics II",
+    "quantity": 7
+  },
+  {
+    "isbn": "81-88045-09-8",
+    "title": "Text book of applied mathematics-I",
+    "quantity": 2
+  },
+  {
+    "isbn": "81-88045-13-6",
+    "title": "Textbook of applied mathematics-II",
+    "quantity": 9
+  },
+  {
+    "isbn": "0-07-044687-3",
+    "title": "Your UNIX: the ultimate guide",
+    "quantity": 5
+  },
+  {
+    "isbn": "0-07-463090-3",
+    "title": "UNIX: concepts and applications",
+    "quantity": 4
+  },
+  {
+    "isbn": "0-07-463271-X",
+    "quantity": 1,
+    "title": "Introducing unix system"
+  },
+  {
+    "isbn": "0-07-462353-2",
+    "title": "Programming in ANSI C",
+    "quantity": 5
+  },
+  {
+    "isbn": "0-07-463443-7",
+    "title": "Programming with C",
+    "quantity": 5
+  },
+  {
+    "isbn": "81-88045-16-0",
+    "title": "Computer programming- I: UNIX and C",
+    "quantity": 14
+  },
+  {
+    "isbn": "81-7656-532-6",
+    "title": "Let us C solutions",
+    "quantity": 5
+  },
+  {
+    "isbn": "0333 92919 5",
+    "quantity": 1,
+    "title": "Daveloping communications skills"
+  },
+  {
+    "isbn": "0-07-048291-8",
+    "title": "Communication skills",
+    "quantity": 14
+  },
+  {
+    "isbn": "81-88045-11-X",
+    "title": "Applied science I: applied physics I",
+    "quantity": 11
+  },
+  {
+    "isbn": "81-88045-22-5",
+    "title": "Applied sciences II: applied physics II",
+    "quantity": 10
+  },
+  {
+    "isbn": "81-88045-21-7",
+    "title": "Applied sciences II: applied chemistry II",
+    "quantity": 8
+  },
+  {
+    "isbn": "81-7515-377-6",
+    "quantity": 1,
+    "title": "Basics of engineering mechanics"
+  },
+  {
+    "isbn": "0-07-463685-5",
+    "title": "Introduction to mechanics",
+    "quantity": 6
+  },
+  {
+    "isbn": "81-88045-19-5",
+    "title": "Engineering drawing- I",
+    "quantity": 14
+  },
+  {
+    "isbn": "81-88045-20-9",
+    "title": "Engineering drawing - II",
+    "quantity": 14
+  },
+  {
+    "isbn": "81-85594-01-5",
+    "title": "Elementary engineering drawing: plane and solid geometry in first angle projection methods",
+    "quantity": 21
+  },
+  {
+    "isbn": "81-87575-35-2",
+    "quantity": 1,
+    "title": "Engineering drawing"
+  },
+  {
+    "isbn": "81-86555-",
+    "quantity": 1,
+    "title": "Problems & solutions in engineering drawing (plane & solid geometry ) engineering student series"
+  },
+  {
+    "isbn": "0-07-463454-2",
+    "title": "Mastering C++",
+    "quantity": 6
+  },
+  {
+    "isbn": "81-7515-269-9",
+    "quantity": 1,
+    "title": "Object oriented programming in C++"
+  },
+  {
+    "isbn": "9971-51-269-6",
+    "quantity": 1,
+    "title": "Computing concepts with c++ essentials"
+  },
+  {
+    "isbn": "0-201-47446-8",
+    "title": "Effective C++",
+    "quantity": 4
+  },
+  {
+    "isbn": "0-13-528910-6",
+    "quantity": 1,
+    "title": "C++: how to program"
+  },
+  {
+    "isbn": "81-219-0099-9",
+    "title": "Fundamentals of electrical engineering and electronics",
+    "quantity": 11
+  },
+  {
+    "isbn": "81-7722-056-X",
+    "quantity": 1,
+    "title": "Java 2swing, servets,jdbc & java beans programming black book"
+  },
+  {
+    "isbn": "81-203-1558-8",
+    "quantity": 1,
+    "title": "Using java 2 platform"
+  },
+  {
+    "isbn": "81-7808-343-4",
+    "quantity": 1,
+    "title": "Java how to program"
+  },
+  {
+    "isbn": "81-7635-304-3",
+    "quantity": 1,
+    "title": "Java 2 platform unleashed"
+  },
+  {
+    "isbn": "81-7808-018-4",
+    "title": "Core java: volume 2- advanced features",
+    "quantity": 2
+  },
+  {
+    "isbn": "81-7808-017-6",
+    "title": "Core java 12 volI fundamentals",
+    "quantity": 2
+  },
+  {
+    "isbn": "981-4035-30-0",
+    "quantity": 1,
+    "title": "Graphic java 12 mastering the JFC vol I AWT"
+  },
+  {
+    "isbn": "81-7029-881-4",
+    "title": "Mastering javabeans",
+    "quantity": 2
+  },
+  {
+    "isbn": "81-7808-330-2",
+    "quantity": 1,
+    "title": "Thinking in java"
+  },
+  {
+    "isbn": "81-900828-9-2",
+    "title": "Starting out with C++",
+    "quantity": 10
+  },
+  {
+    "isbn": "81-7808-360-4",
+    "title": "C++: how to program",
+    "quantity": 5
+  },
+  {
+    "isbn": "9971-51-287-4",
+    "quantity": 1,
+    "title": "Computing concepts with java 2 essentials"
+  },
+  {
+    "isbn": "9971-51-324-2",
+    "quantity": 1,
+    "title": "Architecture of computer hardware & systems software"
+  },
+  {
+    "isbn": "0-471-32208-3",
+    "quantity": 1,
+    "title": "Software engineering"
+  },
+  {
+    "isbn": "0-07-709233-3",
+    "quantity": 1,
+    "title": "Information systems development : methodologies, techniques & tools"
+  },
+  {
+    "isbn": "0-07-462403-2",
+    "quantity": 1,
+    "title": "Effective english communication"
+  },
+  {
+    "isbn": "81-203-1248-1",
+    "quantity": 1,
+    "title": "Business communication"
+  },
+  {
+    "isbn": "81-85989-36-2",
+    "quantity": 1,
+    "title": "Business communication"
+  },
+  {
+    "isbn": "81-203-0124-2",
+    "title": "Electronic devices and circuits: an introduction",
+    "quantity": 15
+  },
+  {
+    "isbn": "0-07-463732-0",
+    "quantity": 1,
+    "title": "Engineering graphics"
+  },
+  {
+    "isbn": "81-85749-62-0",
+    "quantity": 1,
+    "title": "Engineering drawings"
+  },
+  {
+    "isbn": "0-07-085811-X",
+    "title": "Engineering mechanics",
+    "quantity": 5
+  },
+  {
+    "isbn": "9971-51-340-4",
+    "quantity": 1,
+    "title": "Student solution manual to accompany advanced engineering mathematics"
+  },
+  {
+    "isbn": "81-81749-79-5",
+    "quantity": 1,
+    "title": "Text book of machine drawing"
+  },
+  {
+    "isbn": "0-07-451537-3",
+    "quantity": 1,
+    "title": "Mechanics & thermodynamics (tmg series in physics)"
+  },
+  {
+    "isbn": "0-07-451632-9",
+    "quantity": 1,
+    "title": "Basic electrical engineering"
+  },
+  {
+    "isbn": "81-224-1185-1",
+    "quantity": 1,
+    "title": "Machine drawing"
+  },
+  {
+    "isbn": "81-87433-51-5",
+    "quantity": 1,
+    "title": "Engineering mechanics 7th"
+  },
+  {
+    "isbn": "81-203-0836-0",
+    "quantity": 1,
+    "title": "Engineering mechanics of solids"
+  },
+  {
+    "isbn": "81- 203- 1127-",
+    "title": "Engineering mechanics: Statics and dynamics",
+    "quantity": 3
+  },
+  {
+    "isbn": "0-07-463115-2",
+    "quantity": 1,
+    "title": "User guide to the unix system"
+  },
+  {
+    "isbn": "0-07-047261-0",
+    "quantity": 1,
+    "title": "Oracle 9i SQL programming"
+  },
+  {
+    "isbn": "0-07-047377-3",
+    "title": "Schaum's outline of theory and problems of programming with C++",
+    "quantity": 10
+  },
+  {
+    "isbn": "81-7808-249-7",
+    "quantity": 1,
+    "title": "Algorithms in C++"
+  },
+  {
+    "isbn": "81-7635-114-8",
+    "quantity": 1,
+    "title": "Programming using turbo C++"
+  },
+  {
+    "isbn": "81-7808-032-X",
+    "quantity": 1,
+    "title": "Hughes electrical technology"
+  },
+  {
+    "isbn": "0-07-463870-X",
+    "quantity": 1,
+    "title": "Teach yourself C++"
+  },
+  {
+    "isbn": "81-7808-048-6",
+    "quantity": 1,
+    "title": "C++ primer"
+  },
+  {
+    "isbn": "81-7808-014-1",
+    "quantity": 1,
+    "title": "UNIX network programming V-1: networking API's: sockets and XTI"
+  },
+  {
+    "isbn": "81-7808-015-X",
+    "quantity": 1,
+    "title": "UNIX Network programming V-2: interprocess communications"
+  },
+  {
+    "isbn": "81-7656-541-5",
+    "quantity": 1,
+    "title": "Mastering oracle 8i"
+  },
+  {
+    "isbn": "0-07-047386-2",
+    "quantity": 1,
+    "title": "Oracle 9i xml handbook"
+  },
+  {
+    "isbn": "81-265-0210-X",
+    "quantity": 1,
+    "title": "Oracle 9i as portal bible"
+  },
+  {
+    "isbn": "81-7656-068-5",
+    "quantity": 1,
+    "title": "Oracle developer 2000 forms 50"
+  },
+  {
+    "isbn": "81-7808-383-3",
+    "title": "C: how to program",
+    "quantity": 3
+  },
+  {
+    "isbn": "81-7808-126-1",
+    "title": "C++ programming language",
+    "quantity": 7
+  },
+  {
+    "isbn": "0-07-041183-2",
+    "title": "C: the complete reference",
+    "quantity": 4
+  },
+  {
+    "isbn": "0-07-041167-0",
+    "title": "Oracle 8i: the complete reference",
+    "quantity": 2
+  },
+  {
+    "isbn": "981-240-219-5",
+    "quantity": 1,
+    "title": "Understanding programming"
+  },
+  {
+    "isbn": "81-203-1922-2",
+    "quantity": 1,
+    "title": "Microsoft access version 2002: step by step"
+  },
+  {
+    "isbn": "81-203-1926-5",
+    "quantity": 1,
+    "title": "Microsoft front page version 2002:step by step"
+  },
+  {
+    "isbn": "81-203-1946-X",
+    "quantity": 1,
+    "title": "Microsoft outlook version 2002: step by step"
+  },
+  {
+    "isbn": "81-203-1925-7",
+    "quantity": 1,
+    "title": "Microsoft powerpoint version 2002: step by step"
+  },
+  {
+    "isbn": "81-203-1969-9",
+    "quantity": 1,
+    "title": "Microsoft windows XP: step by step"
+  },
+  {
+    "isbn": "81-203-1927-3",
+    "quantity": 1,
+    "title": "Microsoft word version 2002: step by step"
+  },
+  {
+    "isbn": "81-203-1932-X",
+    "quantity": 1,
+    "title": "Microsoft access version 2002: inside out"
+  },
+  {
+    "isbn": "81-203-1889-7",
+    "quantity": 1,
+    "title": "Microsoft excel version 2002: inside out"
+  },
+  {
+    "isbn": "0-521-66282-6",
+    "quantity": 1,
+    "title": "Electronic concepts: an introduction"
+  },
+  {
+    "isbn": "0-07-043536-7",
+    "title": "Introduction to computer graphics",
+    "quantity": 5
+  },
+  {
+    "isbn": "817-808-052-4",
+    "quantity": 1,
+    "title": "Java script for the world wide web"
+  },
+  {
+    "isbn": "81-7808-577-1",
+    "title": "Digital design: Principles and practices",
+    "quantity": 4
+  },
+  {
+    "isbn": "81-203-2014-X",
+    "quantity": 1,
+    "title": "Visually learn PC"
+  },
+  {
+    "isbn": "81-203-1898-6",
+    "quantity": 1,
+    "title": "Create Microsoft powerpoint 2002 presentation"
+  },
+  {
+    "isbn": "81-203-1897-8",
+    "quantity": 1,
+    "title": "Create microsoft front page 2002 web page"
+  },
+  {
+    "isbn": "81-203-1018-7",
+    "title": "Optoelectronics: an Introduction",
+    "quantity": 6
+  },
+  {
+    "isbn": "0-07-462235-8",
+    "title": "Digital computer electronics",
+    "quantity": 15
+  },
+  {
+    "isbn": "0-07-047371-4",
+    "title": "Procedural elements for computer graphics",
+    "quantity": 5
+  },
+  {
+    "isbn": "0-534-95591-6",
+    "quantity": 1,
+    "title": "Using C++ an introduction to programming"
+  },
+  {
+    "isbn": "0-07-100602-8",
+    "title": "Electronic circuits discrete & integrated",
+    "quantity": 2
+  },
+  {
+    "isbn": "0-07-120413-X",
+    "title": "Database system concepts",
+    "quantity": 14
+  },
+  {
+    "isbn": "81-7808-450-3",
+    "quantity": 1,
+    "title": "XML: how to program"
+  },
+  {
+    "isbn": "81-7808-429-5",
+    "quantity": 1,
+    "title": "Discrete mathematics for computer scientists"
+  },
+  {
+    "isbn": "81-86062-31-9",
+    "quantity": 1,
+    "title": "Chamber's 21st century dictionary"
+  },
+  {
+    "isbn": "81-86062-25-4",
+    "quantity": 1,
+    "title": "Chamber's dictionary"
+  },
+  {
+    "isbn": "81-203-1853-6",
+    "quantity": 1,
+    "title": "Trouble shooting access database"
+  },
+  {
+    "isbn": "81-7808-590-9",
+    "title": "Electronic devices and circuit theory",
+    "quantity": 11
+  },
+  {
+    "isbn": "0-07-116892-3",
+    "quantity": 1,
+    "title": "Electronic principles & applications"
+  },
+  {
+    "isbn": "981-240-352-3",
+    "title": "Digital electronics",
+    "quantity": 13
+  },
+  {
+    "isbn": "81-203-2008-5",
+    "quantity": 1,
+    "title": "Microsoft visual Cnet step by step"
+  },
+  {
+    "isbn": "81-203-0749-6",
+    "title": "UNIX network programming",
+    "quantity": 2
+  },
+  {
+    "isbn": "81-203-0984-7",
+    "title": "Electronic communications",
+    "quantity": 2
+  },
+  {
+    "isbn": "81-203-1550-2",
+    "quantity": 1,
+    "title": "10 minute guide to UNIX"
+  },
+  {
+    "isbn": "81-7808-612-3",
+    "title": "Electronic communication systems: fundamentals through advanced",
+    "quantity": 14
+  },
+  {
+    "isbn": "0-521-75034-2",
+    "quantity": 1,
+    "title": "Numerical recipes example book (C++)"
+  },
+  {
+    "isbn": "0-521-64105-5",
+    "quantity": 1,
+    "title": "Measuring computer performance"
+  },
+  {
+    "isbn": "0-521-66065-3",
+    "title": "Practical algorithms for image analysis",
+    "quantity": 2
+  },
+  {
+    "isbn": "0-521-62950-0",
+    "quantity": 1,
+    "title": "Fundamentals of engineering programming with C & fortran"
+  },
+  {
+    "isbn": "0-521-47465-5",
+    "quantity": 1,
+    "title": "Randomized algorithms"
+  },
+  {
+    "isbn": "0-333-96675-9",
+    "quantity": 1,
+    "title": "McMillan english dictionary for advanced learners"
+  },
+  {
+    "isbn": "019-431-597-5",
+    "quantity": 1,
+    "title": "Oxford advanced learner's dictionary of current English"
+  },
+  {
+    "isbn": "0-07-463598-0",
+    "quantity": 1,
+    "title": "Vector mechanics for engineers: dynamics"
+  },
+  {
+    "isbn": "81-7808-102-4",
+    "title": "Data structures and algorithms",
+    "quantity": 13
+  },
+  {
+    "isbn": "81-7808-111-3",
+    "quantity": 1,
+    "title": "Art of computer programming fundamentals algorithms vol-I"
+  },
+  {
+    "isbn": "81-7808-113-X",
+    "quantity": 1,
+    "title": "Art of computer"
+  },
+  {
+    "isbn": "81-7808-296-9",
+    "quantity": 1,
+    "title": "Signals & systemscontinuous & discrete"
+  },
+  {
+    "isbn": "81-7808-137-7",
+    "title": "Fundamentals of database system",
+    "quantity": 16
+  },
+  {
+    "isbn": "81-7808-231-4",
+    "title": "Introduction to database systems",
+    "quantity": 7
+  },
+  {
+    "isbn": "81-7808-501-1",
+    "quantity": 1,
+    "title": "Op-amps and linear integrated circuits"
+  },
+  {
+    "isbn": "81-7224-781-8",
+    "quantity": 1,
+    "title": "Communication in organizations"
+  },
+  {
+    "isbn": "0-07-463311-2",
+    "title": "Numerical methods",
+    "quantity": 5
+  },
+  {
+    "isbn": "0-07-462456-3",
+    "title": "Principles of communication systems",
+    "quantity": 10
+  },
+  {
+    "isbn": "0-07-463113-6",
+    "title": "Discrete mathematical structures with applications to computer science",
+    "quantity": 15
+  },
+  {
+    "isbn": "81-85618-16-X",
+    "quantity": 1,
+    "title": "Numerical recipes in C"
+  },
+  {
+    "isbn": "0-07-463293-0",
+    "title": "Principles of interactive computer graphics",
+    "quantity": 11
+  },
+  {
+    "isbn": "0-07-463200-0",
+    "title": "Modern digital electronics",
+    "quantity": 19
+  },
+  {
+    "isbn": "0-07-460318-3",
+    "quantity": 1,
+    "title": "COBOL programming"
+  },
+  {
+    "isbn": "0-07-463682-0",
+    "title": "Electronic communication systems",
+    "quantity": 13
+  },
+  {
+    "isbn": "0-07-047276-9",
+    "title": "Multimedia: Making it work",
+    "quantity": 3
+  },
+  {
+    "isbn": "0-07-044580-X",
+    "title": "Engineering electromagnetics",
+    "quantity": 15
+  },
+  {
+    "isbn": "0-07-463558-1",
+    "title": "Information technology: a breaking wave",
+    "quantity": 4
+  },
+  {
+    "isbn": "0-07-463153-5",
+    "quantity": 1,
+    "title": "Microprocessors"
+  },
+  {
+    "isbn": "0-07-463555-7",
+    "quantity": 1,
+    "title": "Internet: an introduction"
+  },
+  {
+    "isbn": "0-07-463736-3",
+    "title": "Microelectronics",
+    "quantity": 13
+  },
+  {
+    "isbn": "0-07-043476-X",
+    "title": "Elements of discrete mathematics",
+    "quantity": 16
+  },
+  {
+    "isbn": "0-07-099208-8",
+    "quantity": 1,
+    "title": "Electronic engineering: materials and devices"
+  },
+  {
+    "isbn": "0-07-462243-9",
+    "title": "Electronic devices and circuits",
+    "quantity": 7
+  },
+  {
+    "isbn": "81-203-1254-6",
+    "title": "Computer organisation and design",
+    "quantity": 6
+  },
+  {
+    "isbn": "0-87692-121-7",
+    "quantity": 1,
+    "title": "COBOL for beginners"
+  },
+  {
+    "isbn": "81-203-0848-4",
+    "title": "Microprocessors: theory and applications",
+    "quantity": 2
+  },
+  {
+    "isbn": "81-203-1012-8",
+    "quantity": 1,
+    "title": "Managing with information"
+  },
+  {
+    "isbn": "81-7808-729-4",
+    "title": "Data structures using C and C++",
+    "quantity": 11
+  },
+  {
+    "isbn": "81-203-0932-4",
+    "quantity": 1,
+    "title": "Data structures using PASCAL"
+  },
+  {
+    "isbn": "81-203-0859-X",
+    "quantity": 1,
+    "title": "Computer programming in C"
+  },
+  {
+    "isbn": "81-203-1240-6",
+    "quantity": 1,
+    "title": "Data and computer communications"
+  },
+  {
+    "isbn": "81-203-0884-0",
+    "quantity": 1,
+    "title": "Data structures and program design in C"
+  },
+  {
+    "isbn": "81-203-0596-5",
+    "title": "The C programming language",
+    "quantity": 6
+  },
+  {
+    "isbn": "81-203-1118-3",
+    "title": "Data communications",
+    "quantity": 6
+  },
+  {
+    "isbn": "81-203-1353-4",
+    "title": "Introduction to algorithms",
+    "quantity": 5
+  },
+  {
+    "isbn": "81-203-0780-1",
+    "title": "Data networks",
+    "quantity": 6
+  },
+  {
+    "isbn": "81-203-0925-1",
+    "title": "Data communication and distributed networks",
+    "quantity": 6
+  },
+  {
+    "isbn": "81-203-2097-2",
+    "title": "Data structures and program design in C",
+    "quantity": 15
+  },
+  {
+    "isbn": "81-203-1618-5",
+    "title": "Digital image processing and analysis",
+    "quantity": 11
+  },
+  {
+    "isbn": "81-203-1155-8",
+    "title": "Computer organisation and architecture: designing for performance",
+    "quantity": 10
+  },
+  {
+    "isbn": "81-203-1050-0",
+    "quantity": 1,
+    "title": "Designing object oriented software"
+  },
+  {
+    "isbn": "81-203-0516-7",
+    "title": "Design of the UNIX operating system",
+    "quantity": 31
+  },
+  {
+    "isbn": "81-203-0417-9",
+    "title": "Digital logic and computer design",
+    "quantity": 15
+  },
+  {
+    "isbn": "81-203-0855-7",
+    "title": "Computer system architecture",
+    "quantity": 15
+  },
+  {
+    "isbn": "81-203-1443-3",
+    "title": "Data structures in C++",
+    "quantity": 4
+  },
+  {
+    "isbn": "80-203-0417-9",
+    "quantity": 1,
+    "title": "Digital design"
+  },
+  {
+    "isbn": "81-203-1131-0",
+    "title": "Fundamentals of algorithmics",
+    "quantity": 15
+  },
+  {
+    "isbn": "81-203-1465-4",
+    "title": "Database management and design",
+    "quantity": 3
+  },
+  {
+    "isbn": "81-203-2142-1",
+    "quantity": 1,
+    "title": "Introduction to graph theory"
+  },
+  {
+    "isbn": "81-203-1041-1",
+    "title": "Computer networks: protocols, standards and interfaces",
+    "quantity": 6
+  },
+  {
+    "isbn": "81-203-0499-3",
+    "title": "UNIX programming environment",
+    "quantity": 2
+  },
+  {
+    "isbn": "81-203-1468-9",
+    "quantity": 1,
+    "title": "UNIX system programming using C++"
+  },
+  {
+    "isbn": "81-203-0865-4",
+    "title": "Fundamentals of software engineering",
+    "quantity": 6
+  },
+  {
+    "isbn": "81-203-0145-5",
+    "title": "Graph theory with applications to engineering and computer science",
+    "quantity": 3
+  },
+  {
+    "isbn": "81-203-1745-9",
+    "quantity": 1,
+    "title": "Fundamentals of digital circuits"
+  },
+  {
+    "isbn": "81-203-1531-6",
+    "title": "Fundamentals of computer",
+    "quantity": 16
+  },
+  {
+    "isbn": "81-203-1004-7",
+    "title": "Introduction to digital computer design",
+    "quantity": 6
+  },
+  {
+    "isbn": "81-203-1565-0",
+    "quantity": 1,
+    "title": "10 minute guide to microsoft outlook 2000"
+  },
+  {
+    "isbn": "81-203-1257-0",
+    "title": "Object oriented database system: approaches and architecture",
+    "quantity": 6
+  },
+  {
+    "isbn": "81-203-1445-X",
+    "title": "Fundamentals of software engineering",
+    "quantity": 6
+  },
+  {
+    "isbn": "81-203-1595-2",
+    "quantity": 1,
+    "title": "Using microsoft outlook 2000"
+  },
+  {
+    "isbn": "81-203-1538-3",
+    "quantity": 1,
+    "title": "Using visual foxpro 6"
+  },
+  {
+    "isbn": "81-203-1651-7",
+    "quantity": 1,
+    "title": "Using SQL"
+  },
+  {
+    "isbn": "81-203-1537-5",
+    "quantity": 1,
+    "title": "Harley Hahn teaches the internet"
+  },
+  {
+    "isbn": "81-203-0951-0",
+    "title": "Local area networks and their applications",
+    "quantity": 6
+  },
+  {
+    "isbn": "81-203-1266-X",
+    "title": "Introductory methods of numerical analysis",
+    "quantity": 4
+  },
+  {
+    "isbn": "81-203-1685-1",
+    "quantity": 1,
+    "title": "Telecommunications network management"
+  },
+  {
+    "isbn": "81-203-1868-4",
+    "quantity": 1,
+    "title": "Microsoft web publishing: step by step"
+  },
+  {
+    "isbn": "81-203-1744-0",
+    "quantity": 1,
+    "title": "Engineering thermodynamics"
+  },
+  {
+    "isbn": "81-203-1180-9",
+    "title": "Management information systems",
+    "quantity": 3
+  },
+  {
+    "isbn": "81-203-1444-1",
+    "title": "Decision support system",
+    "quantity": 2
+  },
+  {
+    "isbn": "81-203-0054-8",
+    "title": "Electromagnetic waves and radiating systems",
+    "quantity": 2
+  },
+  {
+    "isbn": "81-203-0919-7",
+    "quantity": 1,
+    "title": "Expert systems"
+  },
+  {
+    "isbn": "81-203-0388-1",
+    "title": "How to solve it by computer",
+    "quantity": 2
+  },
+  {
+    "isbn": "81-203-1566-9",
+    "quantity": 1,
+    "title": "10 minute guide to microsoft office 2000"
+  },
+  {
+    "isbn": "81-203-0569-8",
+    "quantity": 1,
+    "title": "Algorithms + data structures = programs"
+  },
+  {
+    "isbn": "81-203-1553-7",
+    "title": "Structured computer organisation",
+    "quantity": 15
+  },
+  {
+    "isbn": "81-203-1165-5",
+    "quantity": 1,
+    "title": "Computer networks"
+  },
+  {
+    "isbn": "81-203-1256-2",
+    "quantity": 1,
+    "title": "Mathematical methods and programming"
+  },
+  {
+    "isbn": "81-203-1479-4",
+    "quantity": 1,
+    "title": "Microcomputers and microprocessors"
+  },
+  {
+    "isbn": "81-203-1051-9",
+    "quantity": 1,
+    "title": "Modern structured analysis"
+  },
+  {
+    "isbn": "81-203-1246-5",
+    "title": "Signals and systems",
+    "quantity": 15
+  },
+  {
+    "isbn": "81-203-0845-X",
+    "title": "Numerical methods for mathematical science and engineering",
+    "quantity": 13
+  },
+  {
+    "isbn": "81-203-0397-0",
+    "quantity": 1,
+    "title": "Information systems for modern management"
+  },
+  {
+    "isbn": "81-203-0811-5",
+    "title": "Engineering mathematics- II",
+    "quantity": 14
+  },
+  {
+    "isbn": "81-203-0944-8",
+    "title": "Computer graphics",
+    "quantity": 6
+  },
+  {
+    "isbn": "81-224-0472-3",
+    "quantity": 1,
+    "title": "Design of electronic circuits and computer aided design"
+  },
+  {
+    "isbn": "81-224-0307-7",
+    "title": "Linear integrated circuits",
+    "quantity": 15
+  },
+  {
+    "isbn": "81-7366-015-8",
+    "quantity": 1,
+    "title": "Internet in a nutshell"
+  },
+  {
+    "isbn": "81-224-0540-1",
+    "quantity": 1,
+    "title": "Numerical methods for scientific and engineering computation"
+  },
+  {
+    "isbn": "81-7224-040-6",
+    "quantity": 1,
+    "title": "Spirit of C"
+  },
+  {
+    "isbn": "81-900282-7-6",
+    "quantity": 1,
+    "title": "Microprocessor architecture: programming and applications with the 8085 4th"
+  },
+  {
+    "isbn": "81-7635-437-6",
+    "quantity": 1,
+    "title": "How the internet works"
+  },
+  {
+    "isbn": "81-7515-257-5",
+    "quantity": 1,
+    "title": "Fundamentals of computer algorithms"
+  },
+  {
+    "isbn": "81-7656-031-6",
+    "quantity": 1,
+    "title": "Mastering visual basic 6"
+  },
+  {
+    "isbn": "81-7656-083-9",
+    "quantity": 1,
+    "title": "Microsoft office 2000"
+  },
+  {
+    "isbn": "81-7635-319-1",
+    "quantity": 1,
+    "title": "Understanding data communications"
+  },
+  {
+    "isbn": "81-7635-321-3",
+    "title": "Peter Norton's inside the PC",
+    "quantity": 12
+  },
+  {
+    "isbn": "81-7029-644-7",
+    "quantity": 1,
+    "title": "Understanding SQL"
+  },
+  {
+    "isbn": "981-240-360-4",
+    "quantity": 1,
+    "title": "Guide to SQL"
+  },
+  {
+    "isbn": "981-240-359-0",
+    "quantity": 1,
+    "title": "Object oriented approach"
+  },
+  {
+    "isbn": "0-538-68997-8",
+    "quantity": 1,
+    "title": "Web page design"
+  },
+  {
+    "isbn": "0-7668-0964-1",
+    "quantity": 1,
+    "title": "Data voice and video cabling"
+  },
+  {
+    "isbn": "981-240-230-6",
+    "quantity": 1,
+    "title": "Programming in MATLAB"
+  },
+  {
+    "isbn": "0-534-37097-7",
+    "quantity": 1,
+    "title": "Circuits"
+  },
+  {
+    "isbn": "0-07-066354-8",
+    "quantity": 1,
+    "title": "Computer architecture & parallel processing"
+  },
+  {
+    "isbn": "0-07-113715-7",
+    "title": "Advanced microprocessors",
+    "quantity": 6
+  },
+  {
+    "isbn": "0-07-085047-X",
+    "title": "Perspectives of modern physics",
+    "quantity": 2
+  },
+  {
+    "isbn": "9971-51-388-9",
+    "title": "Operating system concepts",
+    "quantity": 3
+  },
+  {
+    "isbn": "0-07-100421-1",
+    "title": "Robotics: control, sensing, vision and intelligence",
+    "quantity": 6
+  },
+  {
+    "isbn": "0-07-100472-6",
+    "title": "Computer graphics: A programming approach",
+    "quantity": 5
+  },
+  {
+    "isbn": "0-07-115554-6",
+    "quantity": 1,
+    "title": "Artificial neural networks"
+  },
+  {
+    "isbn": "0-07-116592-4",
+    "quantity": 1,
+    "title": "Digital signal processing laboratory using MATLAB"
+  },
+  {
+    "isbn": "0-07-116204-6",
+    "quantity": 1,
+    "title": "Engineering design"
+  },
+  {
+    "isbn": "0-07-116898-2",
+    "title": "Database management systems",
+    "quantity": 10
+  },
+  {
+    "isbn": "0-07-112257-5",
+    "quantity": 1,
+    "title": "Construction planning, equipment and methods"
+  },
+  {
+    "isbn": "0-07-005489-4",
+    "quantity": 1,
+    "title": "Schaum's outline of theory and problems of graph theory"
+  },
+  {
+    "isbn": "9.78E+12",
+    "title": "Introduction to neural networks using MATLAB 60",
+    "quantity": 857
+  },
+  {
+    "isbn": "0-07-113296-1",
+    "quantity": 1,
+    "title": "TCP/IP and related protocols"
+  },
+  {
+    "isbn": "0-07-118457-0",
+    "title": "Data structures, algorithms and applications in C++",
+    "quantity": 4
+  },
+  {
+    "isbn": "0-07-118183-0",
+    "title": "Digital communications",
+    "quantity": 6
+  },
+  {
+    "isbn": "0-07-115997-5",
+    "title": "Computer architecture and organisation",
+    "quantity": 13
+  },
+  {
+    "isbn": "0-07-114065-4",
+    "title": "Complex variables and applications",
+    "quantity": 4
+  },
+  {
+    "isbn": "0-07-120407-5",
+    "quantity": 1,
+    "title": "Deploying optical networking components"
+  },
+  {
+    "isbn": "0-07-115766-2",
+    "quantity": 1,
+    "title": "Mobile communication engineering"
+  },
+  {
+    "isbn": "0-07-112642-2",
+    "title": "Technical writing and professional communication: for non-native speakers of English",
+    "quantity": 5
+  },
+  {
+    "isbn": "0-07-121028-8",
+    "title": "Communication systems",
+    "quantity": 6
+  },
+  {
+    "isbn": "0-07-116468-5",
+    "title": "Optical fiber communications",
+    "quantity": 6
+  },
+  {
+    "isbn": "9971-51-246-7",
+    "quantity": 1,
+    "title": "Structured COBOL programming 8th"
+  },
+  {
+    "isbn": "81-259-0789-0",
+    "title": "Fundamentals of information technology",
+    "quantity": 14
+  },
+  {
+    "isbn": "81-250-0530-8",
+    "title": "Internet for every one",
+    "quantity": 10
+  },
+  {
+    "isbn": "81-7301-256-3",
+    "quantity": 1,
+    "title": "Illustrated world of internet and e-commerce"
+  },
+  {
+    "isbn": "81-219-0681-4",
+    "title": "Integral calculus",
+    "quantity": 2
+  },
+  {
+    "isbn": "81-219-0687-3",
+    "title": "Text book of matrices",
+    "quantity": 12
+  },
+  {
+    "isbn": "81-219-0639-3",
+    "title": "Theory of functions of complex variables",
+    "quantity": 4
+  },
+  {
+    "isbn": "81-88045-01-2",
+    "title": "Logic circuits",
+    "quantity": 6
+  },
+  {
+    "isbn": "81-7808-556-9",
+    "title": "Discrete mathematical structures",
+    "quantity": 5
+  },
+  {
+    "isbn": "81-219-1723-9",
+    "title": "Principles of electronics",
+    "quantity": 5
+  },
+  {
+    "isbn": "0-7432-3031-0",
+    "quantity": 1,
+    "title": "GMAT 2003"
+  },
+  {
+    "isbn": "0-7432-3029-9",
+    "quantity": 1,
+    "title": "GRE exam 2003"
+  },
+  {
+    "isbn": "0-7432-3057-4",
+    "quantity": 1,
+    "title": "TOEFL CBT 2nd"
+  },
+  {
+    "isbn": "81-7199-027-4",
+    "quantity": 1,
+    "title": "Career's directory of engineering colleges in India"
+  },
+  {
+    "isbn": "81-86332-28-6",
+    "quantity": 1,
+    "title": "Guide to MAT"
+  },
+  {
+    "isbn": "81-7596-094-9",
+    "quantity": 1,
+    "title": "Cambridge preparation for the TOEFL test"
+  },
+  {
+    "isbn": "81-85623-85-6",
+    "quantity": 1,
+    "title": "CAT test for IIM"
+  },
+  {
+    "isbn": "81-7729-007-X",
+    "quantity": 1,
+    "title": "Super success course for MBA admission"
+  },
+  {
+    "isbn": "81-86332-45-6",
+    "quantity": 1,
+    "title": "MCA entrance examination guide"
+  },
+  {
+    "isbn": "0-07-043524-3",
+    "quantity": 1,
+    "title": "Objective chemistry for engineering and medical college entrance examinations"
+  },
+  {
+    "isbn": "0-07-463902-1",
+    "quantity": 1,
+    "title": "Objective mathematics for engineering college entrance examinations"
+  },
+  {
+    "isbn": "0-07-047400-1",
+    "quantity": 1,
+    "title": "General studies manual"
+  },
+  {
+    "isbn": "0-07-463626-X",
+    "quantity": 1,
+    "title": "Quantitative aptitude for competitive examinations"
+  },
+  {
+    "isbn": "0-07-047361-7",
+    "quantity": 1,
+    "title": "How to prepare for the GMAT CAT"
+  },
+  {
+    "isbn": "81-85716-14-5",
+    "quantity": 1,
+    "title": "MBA entrance examination"
+  },
+  {
+    "isbn": "0-375-76246-9",
+    "quantity": 1,
+    "title": "Cracking the SAT"
+  },
+  {
+    "isbn": "0-375-76551",
+    "title": "Cracking the GRE",
+    "quantity": 4
+  },
+  {
+    "isbn": "0-375-76250-7",
+    "quantity": 1,
+    "title": "Cracking the GMAT"
+  },
+  {
+    "isbn": "81-85386-05-6",
+    "title": "Business communication",
+    "quantity": 2
+  },
+  {
+    "isbn": "81-219-0289-4",
+    "quantity": 1,
+    "title": "Textbook of electrical technology"
+  },
+  {
+    "isbn": "81-203-1993-1",
+    "quantity": 1,
+    "title": "Microsoft visual basic programming"
+  },
+  {
+    "isbn": "81-203-2024-7",
+    "quantity": 1,
+    "title": "Microsoft C++ fast and easy, web development"
+  },
+  {
+    "isbn": "81-203-1995-8",
+    "title": "C++ programming for the absolute beginner",
+    "quantity": 3
+  },
+  {
+    "isbn": "81-203-1991-5",
+    "quantity": 1,
+    "title": "Java script programming"
+  },
+  {
+    "isbn": "981-240-057-5",
+    "title": "First course in digital systems design: an integrated approach",
+    "quantity": 6
+  },
+  {
+    "isbn": "981-240-062-1",
+    "title": "Digital logic: applications and design",
+    "quantity": 11
+  },
+  {
+    "isbn": "981-240-218-7",
+    "title": "Guide to unix using linux",
+    "quantity": 6
+  },
+  {
+    "isbn": "981-240-077-X",
+    "title": "Principles of web design",
+    "quantity": 5
+  },
+  {
+    "isbn": "81-259-1165-0",
+    "title": "Database management systems",
+    "quantity": 6
+  },
+  {
+    "isbn": "81-259-1219-3",
+    "title": "Strength of materials",
+    "quantity": 6
+  },
+  {
+    "isbn": "81-259-1058-1",
+    "title": "Computer laboratory manual: for first year engineering students",
+    "quantity": 4
+  },
+  {
+    "isbn": "81- 259- 0933-",
+    "title": "Programming in C",
+    "quantity": 6
+  },
+  {
+    "isbn": "0-07-048653-0",
+    "title": "Introduction to logic design",
+    "quantity": 13
+  },
+  {
+    "isbn": "0-06-350661-0",
+    "title": "Engineering mechanics: Statics and dynamics",
+    "quantity": 5
+  },
+  {
+    "isbn": "81-7656-621-7",
+    "title": "Let us C",
+    "quantity": 16
+  },
+  {
+    "isbn": "81-219-1431-0",
+    "title": "Textbook of engineering drawing: in first angle projection",
+    "quantity": 11
+  },
+  {
+    "isbn": "81-219-1142-7",
+    "title": "Textbook of electrical technology, vol 2:AC and DC machines",
+    "quantity": 5
+  },
+  {
+    "isbn": "81-219-0868-X",
+    "title": "Textbook of workshop technology: manufacturing processes",
+    "quantity": 6
+  },
+  {
+    "isbn": "81-219-2092-2",
+    "title": "Professional communication skills",
+    "quantity": 7
+  },
+  {
+    "isbn": "981-240-602-6",
+    "title": "Applied numerical methods for engineers using MATLAB and C",
+    "quantity": 11
+  },
+  {
+    "isbn": "0-07-047258-0",
+    "title": "Digital principles and applications",
+    "quantity": 10
+  },
+  {
+    "isbn": "0-07-048651-4",
+    "title": "Electronic circuit analysis and design",
+    "quantity": 12
+  },
+  {
+    "isbn": "81-7808-798-7",
+    "title": "Hughes electrical and electronic technology",
+    "quantity": 3
+  },
+  {
+    "isbn": "81-203-0156-0",
+    "title": "Network analysis",
+    "quantity": 15
+  },
+  {
+    "isbn": "0-07-047437-0",
+    "title": "Numerical methods for engineers: with software and programming applications",
+    "quantity": 10
+  },
+  {
+    "isbn": "81-7808-228-4",
+    "title": "Introduction to object oriented programming",
+    "quantity": 2
+  },
+  {
+    "isbn": "81-244-1192-4",
+    "title": "Control systems engineering",
+    "quantity": 12
+  },
+  {
+    "isbn": "9971-51-235-1",
+    "title": "Network analysis and synthesis",
+    "quantity": 12
+  },
+  {
+    "isbn": "81-7224-774-5",
+    "title": "Fundamentals of logic design",
+    "quantity": 2
+  },
+  {
+    "isbn": "81-7224-677-3",
+    "quantity": 1,
+    "title": "Engineering materials and their applications"
+  },
+  {
+    "isbn": "81-7224-533-5",
+    "title": "Basic circuit analysis",
+    "quantity": 2
+  },
+  {
+    "isbn": "9971-51-239-4",
+    "title": "Signals and systems",
+    "quantity": 11
+  },
+  {
+    "isbn": "0-07-462244-7",
+    "title": "Pulse digital and switching wareforms: devices and circuits for their generation and processing",
+    "quantity": 13
+  },
+  {
+    "isbn": "981-240-611-5",
+    "title": "Electronic communication systems",
+    "quantity": 17
+  },
+  {
+    "isbn": "0-07-048645-X",
+    "title": "Economics",
+    "quantity": 7
+  },
+  {
+    "isbn": "981-240-087-7",
+    "title": "Database system: Design implementation and management",
+    "quantity": 2
+  },
+  {
+    "isbn": "981-240-622-0",
+    "title": "Data structure a pseudocode approach with C",
+    "quantity": 9
+  },
+  {
+    "isbn": "0-07-049465-7",
+    "title": "Engineering mathematics",
+    "quantity": 9
+  },
+  {
+    "isbn": "0-07-460400-7",
+    "title": "Digital computer fundamentals",
+    "quantity": 15
+  },
+  {
+    "isbn": "0-07-060231-x",
+    "quantity": 1,
+    "title": "Schaum's outline of theory and problems of laplace transforms"
+  },
+  {
+    "isbn": "981-240-060-5",
+    "title": "Analog and digital signal processing",
+    "quantity": 12
+  },
+  {
+    "isbn": "9971-51-348-X",
+    "title": "Applied cryptography: protocols, algorithms and source code in C",
+    "quantity": 10
+  },
+  {
+    "isbn": "0-941413-35-7",
+    "title": "Signal processing and linear systems",
+    "quantity": 11
+  },
+  {
+    "isbn": "81-224-1337-4",
+    "title": "Foundations of information technology",
+    "quantity": 15
+  },
+  {
+    "isbn": "981-4040-30-4",
+    "title": "Microelectronic circuits: Analysis and design",
+    "quantity": 19
+  },
+  {
+    "isbn": "81-224-0120-1",
+    "title": "Foundations of discrete mathematics",
+    "quantity": 10
+  },
+  {
+    "isbn": "0-07-115722-0",
+    "title": "Design with operational amplifiers and analog integrated circuits",
+    "quantity": 5
+  },
+  {
+    "isbn": "0-07-120411-3",
+    "title": "Computer organisation",
+    "quantity": 15
+  },
+  {
+    "isbn": "81-7808-835-5",
+    "title": "Electronic devices",
+    "quantity": 11
+  },
+  {
+    "isbn": "0-07-463227-2",
+    "title": "Essentials of management",
+    "quantity": 11
+  },
+  {
+    "isbn": "0-07-047359-5",
+    "title": "Projects: planning, analysis, financing, implementation, and review",
+    "quantity": 10
+  },
+  {
+    "isbn": "0-07-053044-0",
+    "title": "Design with operational amplifiers and analog integrated circuits",
+    "quantity": 12
+  },
+  {
+    "isbn": "0-333-93719-8",
+    "title": "Marketing management  planning implementation and control: global perspective Indian context",
+    "quantity": 7
+  },
+  {
+    "isbn": "0-07-112554-X",
+    "title": "Computer architecture and logic design",
+    "quantity": 15
+  },
+  {
+    "isbn": "0-07-112690-2",
+    "title": "2000 solved problems in discrete mathematics",
+    "quantity": 11
+  },
+  {
+    "isbn": "81-7808-670-0",
+    "title": "Data structure and algorithm analysis in C++",
+    "quantity": 15
+  },
+  {
+    "isbn": "81-7808-328-0",
+    "title": "Digital and analog communication system",
+    "quantity": 13
+  },
+  {
+    "isbn": "0-07-047297-1",
+    "title": "Data communications and networks",
+    "quantity": 6
+  },
+  {
+    "isbn": "0-07-052904-3",
+    "title": "Local area network",
+    "quantity": 2
+  },
+  {
+    "isbn": "0-07-460040-0",
+    "title": "Electronic circuits and systems analog and digital",
+    "quantity": 3
+  },
+  {
+    "isbn": "0-07-462245-5",
+    "title": "Integrated electronics: analog and digital circuits and systems",
+    "quantity": 3
+  },
+  {
+    "isbn": "0-07-451965-4",
+    "title": "Basic electronics and linear circuits",
+    "quantity": 3
+  },
+  {
+    "isbn": "81-203-1253-8",
+    "title": "Artificial neural networks",
+    "quantity": 3
+  },
+  {
+    "isbn": "81-203-1483-2",
+    "title": "Electronic communications: Modulation and transmission",
+    "quantity": 7
+  },
+  {
+    "isbn": "81-203-2058-1",
+    "title": "Op-amps and linear integrated circuits",
+    "quantity": 16
+  },
+  {
+    "isbn": "81-203-1278-3",
+    "title": "Electronic devices and circuits",
+    "quantity": 5
+  },
+  {
+    "isbn": "81-203-0968-5",
+    "quantity": 1,
+    "title": "Automatic control systems"
+  },
+  {
+    "isbn": "81-203-0653-8",
+    "title": "Biomedical instrumentation and measurement",
+    "quantity": 5
+  },
+  {
+    "isbn": "81-203-0744-5",
+    "title": "Solid state pulse circuits",
+    "quantity": 5
+  },
+  {
+    "isbn": "81-203-0850-6",
+    "quantity": 1,
+    "title": "Analog and digital communication systems"
+  },
+  {
+    "isbn": "81-203-2158-8",
+    "title": "Intel microprocessors-8086/8088/80186/80188/80286/80486",
+    "quantity": 5
+  },
+  {
+    "isbn": "81-203-1287-2",
+    "title": "Elements of engineering electromagnetics",
+    "quantity": 5
+  },
+  {
+    "isbn": "81-203-1177-9",
+    "title": "Data structures using C and C++",
+    "quantity": 14
+  },
+  {
+    "isbn": "81-203-2067-0",
+    "title": "Data and computer communications",
+    "quantity": 5
+  },
+  {
+    "isbn": "81-203-2102-2",
+    "title": "Operating systems: internals and design principles",
+    "quantity": 2
+  },
+  {
+    "isbn": "81-203-2085-9",
+    "title": "Electronic devices and applications",
+    "quantity": 5
+  },
+  {
+    "isbn": "81-203-0786-0",
+    "title": "Computer oriented numerical methods",
+    "quantity": 5
+  },
+  {
+    "isbn": "81-203-2062-X",
+    "title": "UNIX Network programming V-2: interprocess communications",
+    "quantity": 5
+  },
+  {
+    "isbn": "81-203-0144-8",
+    "quantity": 1,
+    "title": "Digital circuits and logic design"
+  },
+  {
+    "isbn": "81-203-1502-2",
+    "title": "Discrete mathematics for computer scientists and mathematicians",
+    "quantity": 15
+  },
+  {
+    "isbn": "81-203-0834-4",
+    "title": "Optical communication systems",
+    "quantity": 5
+  },
+  {
+    "isbn": "81-203-2100-6",
+    "title": "Microcomputer and microprocessors: the 8080, 8085 and Z-80 programming interfacing and troubleshooting",
+    "quantity": 5
+  },
+  {
+    "isbn": "81-203-0971-5",
+    "title": "Basic circuit theory",
+    "quantity": 5
+  },
+  {
+    "isbn": "81-203-0409-8",
+    "title": "Microcomputer systems: the 8086, 8088, family architecture proramming and design",
+    "quantity": 5
+  },
+  {
+    "isbn": "81-203-0348-2",
+    "title": "Digital electronics: an introduction to theory and practice",
+    "quantity": 5
+  },
+  {
+    "isbn": "81-7808-785-5",
+    "title": "Computer networks",
+    "quantity": 24
+  },
+  {
+    "isbn": "81-7808-739-1",
+    "title": "Operating systems: design and implementation",
+    "quantity": 5
+  },
+  {
+    "isbn": "81-7808-447-3",
+    "title": "Modern operating systems",
+    "quantity": 5
+  },
+  {
+    "isbn": "81-203-1478-6",
+    "quantity": 1,
+    "title": "Biomedical digital signal processing: C-languae examples and laboratory experiments for the IBM PC"
+  },
+  {
+    "isbn": "81-203-0713-5",
+    "title": "Telecommunication switching systems and networks",
+    "quantity": 3
+  },
+  {
+    "isbn": "81-203-1813-7",
+    "title": "Numerical methods for scientists and engineers",
+    "quantity": 3
+  },
+  {
+    "isbn": "81-297-0084-0",
+    "title": "Digital signal processing: principles algorithms and applications",
+    "quantity": 15
+  },
+  {
+    "isbn": "81-203-0953-7",
+    "title": "Transducers and instrumentations",
+    "quantity": 5
+  },
+  {
+    "isbn": "81-203-1477-8",
+    "title": "Introduction to fiber optics",
+    "quantity": 5
+  },
+  {
+    "isbn": "81-203-1724-6",
+    "title": "Workbook on systems analysis and design",
+    "quantity": 5
+  },
+  {
+    "isbn": "81-203-0777-1",
+    "quantity": 1,
+    "title": "Introduction to artificial intelligence and expert systems"
+  },
+  {
+    "isbn": "81-203-0080-7",
+    "quantity": 1,
+    "title": "Electrical engineering materials"
+  },
+  {
+    "isbn": "81-203-0082-3",
+    "quantity": 1,
+    "title": "Electronic fundamentals and applications integrated and discrete system"
+  },
+  {
+    "isbn": "81-7808-730-8",
+    "title": "Power electronics circuits devices and applications",
+    "quantity": 3
+  },
+  {
+    "isbn": "81-203-0299-0",
+    "title": "Networks lines and fields",
+    "quantity": 5
+  },
+  {
+    "isbn": "81-203-0882-4",
+    "title": "Optical fiber communications: principles and practice",
+    "quantity": 11
+  },
+  {
+    "isbn": "81-7808-792-8",
+    "title": "Computer organisation and architecture: designing for performance",
+    "quantity": 5
+  },
+  {
+    "isbn": "81-7808-503-8",
+    "title": "Operating systems: internals and design principles",
+    "quantity": 8
+  },
+  {
+    "isbn": "81-203-1840-4",
+    "title": "Solid state electronic devices",
+    "quantity": 5
+  },
+  {
+    "isbn": "81-203-2061-1",
+    "title": "UNIX network programming V-1: networking API's: sockets and XTI",
+    "quantity": 5
+  },
+  {
+    "isbn": "81-203-0532-9",
+    "title": "Digital signal processing",
+    "quantity": 5
+  },
+  {
+    "isbn": "81-203-2065-4",
+    "title": "Internetworking with TCP/IP Vol-I principles, protocols and architecture",
+    "quantity": 5
+  },
+  {
+    "isbn": "81-203-0760-7",
+    "title": "Introduction to digital signal processing",
+    "quantity": 5
+  },
+  {
+    "isbn": "81-203-0804-2",
+    "title": "Engineering mathematics -I",
+    "quantity": 15
+  },
+  {
+    "isbn": "0-07-047376-5",
+    "title": "2000 solved problems in discrete mathematics",
+    "quantity": 4
+  },
+  {
+    "isbn": "81-250-1033-5",
+    "title": "Intermediate grammer usage and composition",
+    "quantity": 3
+  },
+  {
+    "isbn": "9971-51-321-8",
+    "title": "Introduction to information technology",
+    "quantity": 12
+  },
+  {
+    "isbn": "81--203-1811-0",
+    "title": "Industrial electronics and conrtrol",
+    "quantity": 5
+  },
+  {
+    "isbn": "81-203-1467-0",
+    "title": "Programming the 80286, 80386, 80486, and pentium based personal computer",
+    "quantity": 5
+  },
+  {
+    "isbn": "81-203-1679-7",
+    "title": "Fundamentals of telecommunication network management",
+    "quantity": 3
+  },
+  {
+    "isbn": "81-7808-731-6",
+    "title": "Design of the UNIX operating system",
+    "quantity": 4
+  },
+  {
+    "isbn": "81-203-0927-8",
+    "title": "Internetworking with TCP/IP",
+    "quantity": 5
+  },
+  {
+    "isbn": "81-7808-488-0",
+    "title": "Internet working with TCP/IP Vol-3: client server programming and applications 2nd",
+    "quantity": 5
+  },
+  {
+    "isbn": "81-203-0651-1",
+    "quantity": 1,
+    "title": "Engineering approach digital design"
+  },
+  {
+    "isbn": "81-203-0140-4",
+    "title": "System simulation",
+    "quantity": 10
+  },
+  {
+    "isbn": "81-203-0752-6",
+    "quantity": 1,
+    "title": "Modern electronic instrumentation and mearsurement techniques"
+  },
+  {
+    "isbn": "81-7808-844-4",
+    "title": "Process control instrumentation technology",
+    "quantity": 5
+  },
+  {
+    "isbn": "81-203-0699-6",
+    "title": "Microwave devices and circuits",
+    "quantity": 10
+  },
+  {
+    "isbn": "81-7808-555-0",
+    "title": "Digital design",
+    "quantity": 14
+  },
+  {
+    "isbn": "81-203-2117-0",
+    "title": "Modern electronic communication",
+    "quantity": 5
+  },
+  {
+    "isbn": "81-203-2045-X",
+    "title": "Modern control engineering",
+    "quantity": 30
+  },
+  {
+    "isbn": "81-7808-553-4",
+    "title": "Programming languages: design and implementation",
+    "quantity": 5
+  },
+  {
+    "isbn": "81-203-0986-3",
+    "title": "Basic VLSI design",
+    "quantity": 6
+  },
+  {
+    "isbn": "81-203-1271-6",
+    "title": "Theory of computer science: automata languages and computation",
+    "quantity": 5
+  },
+  {
+    "isbn": "0-534-38448-X",
+    "title": "Elements of data compression",
+    "quantity": 11
+  },
+  {
+    "isbn": "9814-12-688-8",
+    "title": "Introduction to the theory of error correcting codes",
+    "quantity": 12
+  },
+  {
+    "isbn": "981-240-080-X",
+    "quantity": 1,
+    "title": "Data structure and algorithms in java"
+  },
+  {
+    "isbn": "981-240-394-9",
+    "quantity": 1,
+    "title": "Expert systems: principles and programming"
+  },
+  {
+    "isbn": "81-259-1297-5",
+    "title": "Engineering graphics using autocad 2000",
+    "quantity": 5
+  },
+  {
+    "isbn": "981-240-388-4",
+    "title": "Concepts of database management",
+    "quantity": 3
+  },
+  {
+    "isbn": "981-240-215-2",
+    "title": "Digital signal processing using MATLAB",
+    "quantity": 3
+  },
+  {
+    "isbn": "981-240-061-3",
+    "title": "Image processing analysis and machine vision",
+    "quantity": 3
+  },
+  {
+    "isbn": "981-240-079-6",
+    "title": "Data structure and algorithms in C++",
+    "quantity": 3
+  },
+  {
+    "isbn": "981-240-247-0",
+    "title": "Guide to designing and implementing wireless LANs",
+    "quantity": 3
+  },
+  {
+    "isbn": "981-240-058-3",
+    "title": "Data and network communications",
+    "quantity": 3
+  },
+  {
+    "isbn": "981-240-395-7",
+    "title": "Electronic communications systems",
+    "quantity": 3
+  },
+  {
+    "isbn": "981-240-212-8",
+    "title": "Standard C++ with object-oriented programming",
+    "quantity": 3
+  },
+  {
+    "isbn": "981-240397-3",
+    "title": "Power electronics: principles and applications",
+    "quantity": 3
+  },
+  {
+    "isbn": "981-240-216-0",
+    "title": "Database driven websites",
+    "quantity": 3
+  },
+  {
+    "isbn": "981-240-376-0",
+    "title": "Neural network design",
+    "quantity": 10
+  },
+  {
+    "isbn": "0-7484-0878-9",
+    "title": "Control theory: Multivariable and non-linear methods",
+    "quantity": 3
+  },
+  {
+    "isbn": "81-219-1982-7",
+    "title": "DSP Processor fundamentals architectures and features",
+    "quantity": 2
+  },
+  {
+    "isbn": "81-219-1999-1",
+    "quantity": 1,
+    "title": "Principles of data conversion system design"
+  },
+  {
+    "isbn": "81-219-0476-5",
+    "title": "Principles of communication engineering",
+    "quantity": 2
+  },
+  {
+    "isbn": "81-219-1981-9",
+    "title": "Essence of logic circuits",
+    "quantity": 2
+  },
+  {
+    "isbn": "81-219-1983-5",
+    "title": "Introduction to optics and optical imaging",
+    "quantity": 2
+  },
+  {
+    "isbn": "81-7656-610-1",
+    "quantity": 1,
+    "title": "Modern IC data and substitution manual"
+  },
+  {
+    "isbn": "81-7029-970-5",
+    "quantity": 1,
+    "title": "Modern japanese transistor data & substitution manual"
+  },
+  {
+    "isbn": "81-265-0278-9",
+    "quantity": 1,
+    "title": "Local area network management, design and security : a practical approach"
+  },
+  {
+    "isbn": "81-7029-401-0",
+    "quantity": 1,
+    "title": "Japanese diode data manual"
+  },
+  {
+    "isbn": "81-7656-185-1",
+    "quantity": 1,
+    "title": "Microprocessor data handbook"
+  },
+  {
+    "isbn": "81-7224-778-8",
+    "title": "Operational amplifiers and linear integrated circuits: theory and applications",
+    "quantity": 13
+  },
+  {
+    "isbn": "0-07-099485-4",
+    "title": "Semiconductor circuit approximations an introduciton to transistors and integrated circuits",
+    "quantity": 5
+  },
+  {
+    "isbn": "0-07-463639-1",
+    "title": "Microprocessors and interfacing: programming and hardware",
+    "quantity": 10
+  },
+  {
+    "isbn": "0-07-048649-2",
+    "title": "Engineering circuit analysis",
+    "quantity": 13
+  },
+  {
+    "isbn": "0-07-099387-4",
+    "title": "Switching and finite automata theory",
+    "quantity": 3
+  },
+  {
+    "isbn": "0-07-460222-5",
+    "title": "Introduction to microprocessor",
+    "quantity": 6
+  },
+  {
+    "isbn": "0-07-047432-X",
+    "quantity": 1,
+    "title": "Fundamentals of digital logic with VHDL design"
+  },
+  {
+    "isbn": "81-203-0028-9",
+    "title": "System simulation with digital computer",
+    "quantity": 3
+  },
+  {
+    "isbn": "81-7558-168-6",
+    "title": "Digital image processing",
+    "quantity": 26
+  },
+  {
+    "isbn": "981-240-354-X",
+    "title": "Computer communications and networking technologies",
+    "quantity": 3
+  },
+  {
+    "isbn": "981-240-204-7",
+    "title": "Software quality: producing practical consistent software",
+    "quantity": 3
+  },
+  {
+    "isbn": "981-240-205-5",
+    "title": "Embedded microcomputer systems: real time interfacing",
+    "quantity": 2
+  },
+  {
+    "isbn": "0-07-463996-x",
+    "title": "Digital signal processing",
+    "quantity": 21
+  },
+  {
+    "isbn": "81-203-1709-2",
+    "title": "Effective business communication",
+    "quantity": 4
+  },
+  {
+    "isbn": "81-203-2068-9",
+    "title": "Data warehousing : concepts, techniques, products and applications",
+    "quantity": 3
+  },
+  {
+    "isbn": "81-203-0978-2",
+    "title": "0000-8085: Introduction to microprocessors for engineers and scientists",
+    "quantity": 3
+  },
+  {
+    "isbn": "0-07-053047-5",
+    "title": "Discrete mathematics and its applications",
+    "quantity": 8
+  },
+  {
+    "isbn": "0-07-047422-2",
+    "title": "Introduction to information system: essentials for the internet worked e-business enterprise",
+    "quantity": 8
+  },
+  {
+    "isbn": "0-07-043563-4",
+    "title": "Data communications and networking",
+    "quantity": 6
+  },
+  {
+    "isbn": "81-900828-3-3",
+    "title": "Elements of artificial neural networks",
+    "quantity": 3
+  },
+  {
+    "isbn": "981-240-050-8",
+    "title": "Understanding data communications and networks",
+    "quantity": 3
+  },
+  {
+    "isbn": "981-4057-60-6",
+    "title": "Programming java: an introduction to programming using JAVA",
+    "quantity": 3
+  },
+  {
+    "isbn": "81-7366-076-X",
+    "title": "Programming embedded systems in C and C++",
+    "quantity": 3
+  },
+  {
+    "isbn": "81-203-1874-9",
+    "title": "Classic data structure",
+    "quantity": 3
+  },
+  {
+    "isbn": "81-7366-375-0",
+    "title": "Web design in a nutshell a desktop quick reference",
+    "quantity": 3
+  },
+  {
+    "isbn": "0-7506-5-86-9",
+    "quantity": 1,
+    "title": "Data analysis for database design 3rd"
+  },
+  {
+    "isbn": "81-7800-013-X",
+    "title": "Network theory",
+    "quantity": 2
+  },
+  {
+    "isbn": "81-7800-024-5",
+    "title": "Power system dynamics: stability and control",
+    "quantity": 2
+  },
+  {
+    "isbn": "0-333-98776-4",
+    "title": "Satellite communication systems: design principles",
+    "quantity": 9
+  },
+  {
+    "isbn": "81-7800-015-6",
+    "title": "Communication systems",
+    "quantity": 2
+  },
+  {
+    "isbn": "81-7800-016-4",
+    "title": "Signals and systems and communication",
+    "quantity": 2
+  },
+  {
+    "isbn": "81-7800-011-3",
+    "title": "Verilog HDL synthesis a practical primer",
+    "quantity": 2
+  },
+  {
+    "isbn": "81-7800-014-8",
+    "title": "VHDL synthesis primer",
+    "quantity": 2
+  },
+  {
+    "isbn": "981-4057-58-4",
+    "title": "Designing interactive websites",
+    "quantity": 3
+  },
+  {
+    "isbn": "0-07-043577-4",
+    "title": "Business communication strategies",
+    "quantity": 3
+  },
+  {
+    "isbn": "0-07-040311-2",
+    "title": "E-security and you: electronic authentication and information systems security: the IT act 2000 explained",
+    "quantity": 3
+  },
+  {
+    "isbn": "0-07-041186-7",
+    "title": "Webdesign the complete reference",
+    "quantity": 3
+  },
+  {
+    "isbn": "81-7808-351-5",
+    "title": "Operational amplifiers and linear integrated circuits",
+    "quantity": 3
+  },
+  {
+    "isbn": "0-07-048694-8",
+    "title": "Basic business communication: skills for empowering the internet generation",
+    "quantity": 5
+  },
+  {
+    "isbn": "0-07-048677-8",
+    "title": "Mathematical elements for computer graphics",
+    "quantity": 5
+  },
+  {
+    "isbn": "0-07-047380-3",
+    "title": "Introduction to computer science: An algorithmic approach",
+    "quantity": 3
+  },
+  {
+    "isbn": "0-07-451701-5",
+    "title": "Digital electronics and microprocessors: problems and solutions",
+    "quantity": 4
+  },
+  {
+    "isbn": "0-07-460482-1",
+    "title": "Systems programming",
+    "quantity": 10
+  },
+  {
+    "isbn": "0-07-462129-7",
+    "title": "Operating systems",
+    "quantity": 3
+  },
+  {
+    "isbn": "0-07-048642-5",
+    "title": "Introduction to the design and analysis of algorithms",
+    "quantity": 3
+  },
+  {
+    "isbn": "0-07-463121-7",
+    "title": "Software engineering concepts",
+    "quantity": 3
+  },
+  {
+    "isbn": "0-07-648332-9",
+    "title": "Schaum's outline of operating systems",
+    "quantity": 5
+  },
+  {
+    "isbn": "0-07-048641-7",
+    "title": "Data structures, algorithms and object oriented programming",
+    "quantity": 3
+  },
+  {
+    "isbn": "0-07-044575-3",
+    "title": "Management information systems",
+    "quantity": 15
+  },
+  {
+    "isbn": "81-203-0889-1",
+    "title": "Object oriented programming in C++",
+    "quantity": 3
+  },
+  {
+    "isbn": "81-87972-03-3",
+    "title": "Serial port complete programming and circuits for RS-232 and RS485 links and networks",
+    "quantity": 3
+  },
+  {
+    "isbn": "0-07-048637-9",
+    "title": "Management information systems: managing information technology in the e-business enterprise",
+    "quantity": 3
+  },
+  {
+    "isbn": "81-7224-526-2",
+    "title": "Finance for non-finance managers",
+    "quantity": 13
+  },
+  {
+    "isbn": "81-250-1724-0",
+    "title": "Text book of english for engineers and technologists a skills approach",
+    "quantity": 10
+  },
+  {
+    "isbn": "81-88045-24-1",
+    "title": "Logic circuits and digital design with experiments",
+    "quantity": 8
+  },
+  {
+    "isbn": "981-240-232-2",
+    "title": "Op-amps and linear integrated circuits: theory and applications",
+    "quantity": 2
+  },
+  {
+    "isbn": "0-07-049549-1",
+    "title": "Schaum's outline of theory and problems of data structure",
+    "quantity": 2
+  },
+  {
+    "isbn": "0-07-047242-4",
+    "title": "Information technology for management",
+    "quantity": 3
+  },
+  {
+    "isbn": "0-07-463841-6",
+    "title": "Advanced microprocessors and peripherals: architecture programming and interfacing",
+    "quantity": 3
+  },
+  {
+    "isbn": "0-07-460081-8",
+    "title": "Artificial intelligence",
+    "quantity": 2
+  },
+  {
+    "isbn": "981-240-220-9",
+    "title": "First book of visual C++",
+    "quantity": 10
+  },
+  {
+    "isbn": "81-203-2205-3",
+    "title": "Elements of engineering electromagnetics",
+    "quantity": 9
+  },
+  {
+    "isbn": "981-240-398-1",
+    "title": "System architecture",
+    "quantity": 3
+  },
+  {
+    "isbn": "81-7808-787-1",
+    "title": "Computer networking: A top down approach featuring the internet",
+    "quantity": 5
+  },
+  {
+    "isbn": "0-07-451914-x",
+    "title": "Industrial instrumentation and control",
+    "quantity": 3
+  },
+  {
+    "isbn": "81-203-1620-7",
+    "title": "Object oriented programming with C++ and java",
+    "quantity": 2
+  },
+  {
+    "isbn": "981-243-126-8",
+    "title": "Concepts in enterprise resource planning",
+    "quantity": 3
+  },
+  {
+    "isbn": "981-240-081-8",
+    "quantity": 1,
+    "title": "Introduction to telecommunications"
+  },
+  {
+    "isbn": "0-07-044532-X",
+    "title": "E- commerce: strategy, technologies and applications",
+    "quantity": 5
+  },
+  {
+    "isbn": "981-240-075-3",
+    "title": "Java script comprehensive",
+    "quantity": 3
+  },
+  {
+    "isbn": "981-240-063-X",
+    "title": "Guide to programming logic and design comprehensive",
+    "quantity": 3
+  },
+  {
+    "isbn": "981-240-213-6",
+    "title": "Information technology project management",
+    "quantity": 3
+  },
+  {
+    "isbn": "0-07-116493-6",
+    "title": "Schaum's outline of theory and problems of introduction to probability and statistics",
+    "quantity": 3
+  },
+  {
+    "isbn": "0-07-463551-4",
+    "title": "Operating systems: a design oriented approach",
+    "quantity": 3
+  },
+  {
+    "isbn": "0-07-042140-4",
+    "title": "Programming and customizing the 8051 microcontroller",
+    "quantity": 10
+  },
+  {
+    "isbn": "0-07-044534-6",
+    "title": "Database: design, development and deployment using microsoft access",
+    "quantity": 3
+  },
+  {
+    "isbn": "0-07-463760-6",
+    "title": "UNIX: the complete reference",
+    "quantity": 5
+  },
+  {
+    "isbn": "0-07-049543-2",
+    "title": "Java 2: the complete reference",
+    "quantity": 12
+  },
+  {
+    "isbn": "0-07-463867-X",
+    "title": "Complete guide to java database programming",
+    "quantity": 2
+  },
+  {
+    "isbn": "0-07-047260-2",
+    "title": "Introduction to object oriented programming with java",
+    "quantity": 4
+  },
+  {
+    "isbn": "0-07-044539-7",
+    "title": "Systems analysis and design methods",
+    "quantity": 3
+  },
+  {
+    "isbn": "0-07-047416-8",
+    "title": "Networking the complete reference",
+    "quantity": 2
+  },
+  {
+    "isbn": "81-7808-347-7",
+    "title": "Introduction to automata theory, languages and computation",
+    "quantity": 5
+  },
+  {
+    "isbn": "0-19-514249-7",
+    "quantity": 1,
+    "title": "Design of feedback control systems"
+  },
+  {
+    "isbn": "0-07-099678-4",
+    "quantity": 1,
+    "title": "Industrial electronics: a text lab manual"
+  },
+  {
+    "isbn": "0-07-463529-8",
+    "title": "Neural network fundamentals with graph, algorithms and applications",
+    "quantity": 2
+  },
+  {
+    "isbn": "0-07-049551-3",
+    "title": "TCP/IP protocol suite",
+    "quantity": 3
+  },
+  {
+    "isbn": "0-07-047272-6",
+    "title": "Securtiy architecture: design deployment and operations",
+    "quantity": 3
+  },
+  {
+    "isbn": "0-07-049939-X",
+    "title": "Introduction to languages and the theory of computation",
+    "quantity": 20
+  },
+  {
+    "isbn": "0-07-043622-3",
+    "title": "Oracle 8i java component programming with EJB CORBA and JSP",
+    "quantity": 2
+  },
+  {
+    "isbn": "0-07-451826-7",
+    "title": "Microprocessors: principles and applications",
+    "quantity": 3
+  },
+  {
+    "isbn": "0-07-048680-8",
+    "title": "Oracle9i PL/SQL programming",
+    "quantity": 3
+  },
+  {
+    "isbn": "0-07-048652-2",
+    "title": "HTML: The complete reference",
+    "quantity": 5
+  },
+  {
+    "isbn": "0-07-040235-3",
+    "title": "Communication networks: fundamental concepts and key architectures",
+    "quantity": 6
+  },
+  {
+    "isbn": "0-07-463971-4",
+    "title": "World wide web design with HTML",
+    "quantity": 3
+  },
+  {
+    "isbn": "81-7319-458-0",
+    "title": "Analysis of algorithms: an active learning approach",
+    "quantity": 7
+  },
+  {
+    "isbn": "81-7319-287-1",
+    "title": "Programming in C++",
+    "quantity": 5
+  },
+  {
+    "isbn": "81-7319-100-X",
+    "title": "Computer architecture: piplined and parallel processor design",
+    "quantity": 4
+  },
+  {
+    "isbn": "81-7319-386-X",
+    "title": "Computer control of processes",
+    "quantity": 3
+  },
+  {
+    "isbn": "81-7319-102-6",
+    "title": "Computer systems and data analysis",
+    "quantity": 3
+  },
+  {
+    "isbn": "81-7319-379-7",
+    "title": "Design of information system: a modern approach",
+    "quantity": 4
+  },
+  {
+    "isbn": "81-7319-271-5",
+    "title": "Integrated approach to software engineering",
+    "quantity": 5
+  },
+  {
+    "isbn": "81-7319-123-9",
+    "quantity": 1,
+    "title": "Modelling of complex systems"
+  },
+  {
+    "isbn": "81-7319-280-4",
+    "title": "Multilayer channel routing complexity and algorithms",
+    "quantity": 2
+  },
+  {
+    "isbn": "81-7319-461-0",
+    "title": "Object oriented programming using C++",
+    "quantity": 5
+  },
+  {
+    "isbn": "81-7319-299-5",
+    "title": "C++ plus data structures",
+    "quantity": 5
+  },
+  {
+    "isbn": "81-7319-428-9",
+    "quantity": 1,
+    "title": "Fundamentals of electrical drives"
+  },
+  {
+    "isbn": "81-7319-145-X",
+    "title": "Optical communications: components and systems",
+    "quantity": 2
+  },
+  {
+    "isbn": "81-7319-443-2",
+    "quantity": 1,
+    "title": "Fuzzy Topology"
+  },
+  {
+    "isbn": "81-219-0531-1",
+    "title": "Modern economic theory",
+    "quantity": 10
+  },
+  {
+    "isbn": "981-240-052-4",
+    "title": "Digital system design using VHDL",
+    "quantity": 7
+  },
+  {
+    "isbn": "981-243-135-7",
+    "title": "Database system: design implementation & management",
+    "quantity": 8
+  },
+  {
+    "isbn": "81-219-1496-5",
+    "quantity": 1,
+    "title": "S Chand's general studies"
+  },
+  {
+    "isbn": "0-471-35490-2",
+    "quantity": 1,
+    "title": "Realtime systems and software"
+  },
+  {
+    "isbn": "9971-51-428-1",
+    "title": "Systems analysis and design: an object oriented approach with UML",
+    "quantity": 2
+  },
+  {
+    "isbn": "0-471-10426-4",
+    "quantity": 1,
+    "title": "Programming language concepts"
+  },
+  {
+    "isbn": "9814-12-646-2",
+    "quantity": 1,
+    "title": "Statistical digital signal processing and modeling"
+  },
+  {
+    "isbn": "9971-51-357-9",
+    "title": "Software engineering: principles and practice",
+    "quantity": 2
+  },
+  {
+    "isbn": "9971-51-205-x",
+    "title": "Digital communications",
+    "quantity": 10
+  },
+  {
+    "isbn": "9814-12-614-4",
+    "title": "Data warehouse toolkit",
+    "quantity": 2
+  },
+  {
+    "isbn": "81-7319-450-5",
+    "quantity": 1,
+    "title": "Solar energy: fundamentals, design, modeling and applications"
+  },
+  {
+    "isbn": "81-7366-284-3",
+    "title": "Java examples in a Nutshell",
+    "quantity": 2
+  },
+  {
+    "isbn": "81-7366-055-7",
+    "title": "Java foundation classes in a nutshell: a desktop quick reference",
+    "quantity": 2
+  },
+  {
+    "isbn": "81-7366-423-4",
+    "title": "Learning the unix operating system",
+    "quantity": 2
+  },
+  {
+    "isbn": "81-7366-063-8",
+    "title": "Creating effective java help",
+    "quantity": 2
+  },
+  {
+    "isbn": "81-7366-563-x",
+    "title": "Learning visual basicNet",
+    "quantity": 2
+  },
+  {
+    "isbn": "81-7366-367-X",
+    "title": "Java & XML",
+    "quantity": 2
+  },
+  {
+    "isbn": "81-7366-364-5",
+    "title": "COM+ programming with visual basic",
+    "quantity": 2
+  },
+  {
+    "isbn": "81-7366-410-2",
+    "title": "Enterprise java beans",
+    "quantity": 2
+  },
+  {
+    "isbn": "81-7366-412-9",
+    "title": "Java security",
+    "quantity": 2
+  },
+  {
+    "isbn": "81-7366-430-7",
+    "title": "Net framework essentials",
+    "quantity": 2
+  },
+  {
+    "isbn": "81-7366-178-2",
+    "title": "ASP in a nutshell: a desktop quick reference",
+    "quantity": 2
+  },
+  {
+    "isbn": "81-7808-845-2",
+    "title": "Natural language understanding",
+    "quantity": 3
+  },
+  {
+    "isbn": "81-7808-667-0",
+    "title": "Extreme programming explained embrace change",
+    "quantity": 2
+  },
+  {
+    "isbn": "81-7808-156-3",
+    "title": "Object oriented analysis and design with applications",
+    "quantity": 2
+  },
+  {
+    "isbn": "81-7808-547-X",
+    "title": "Object oriented analysis",
+    "quantity": 2
+  },
+  {
+    "isbn": "81-7808-846-0",
+    "title": "Core java2 Vol 2: advanced features",
+    "quantity": 2
+  },
+  {
+    "isbn": "81-7808-277-2",
+    "title": "Core Java2 Vol-1: advanced features",
+    "quantity": 2
+  },
+  {
+    "isbn": "81-7808-457-0",
+    "title": "Telecommunications switching, traffic and network",
+    "quantity": 11
+  },
+  {
+    "isbn": "81-7808-108-3",
+    "title": "Neural networks: algorithms applications and programming techniques",
+    "quantity": 2
+  },
+  {
+    "isbn": "81-7808-500-3",
+    "title": "Organisation development: behaviour science intervention for organisation improvement",
+    "quantity": 2
+  },
+  {
+    "isbn": "81-7808-532-1",
+    "title": "Multimedia communication: application network, protocols and standards",
+    "quantity": 2
+  },
+  {
+    "isbn": "81-7808-338-8",
+    "title": "ATM Networks' concepts, protocols, applications",
+    "quantity": 2
+  },
+  {
+    "isbn": "81-7808-300-0",
+    "title": "Neural Networks: a comprehensive foundation",
+    "quantity": 2
+  },
+  {
+    "isbn": "81-7808-982-3",
+    "title": "Introduction to geographical information systems",
+    "quantity": 2
+  },
+  {
+    "isbn": "81-7808-664-6",
+    "title": "Software project management in practice",
+    "quantity": 11
+  },
+  {
+    "isbn": "81-7808-790-1",
+    "quantity": 1,
+    "title": "Network security: private communication in a public world"
+  },
+  {
+    "isbn": "81-7808-147-4",
+    "quantity": 1,
+    "title": "Software testing in the real world: improving the process"
+  },
+  {
+    "isbn": "81-7808-604-2",
+    "title": "Fundamentals of embedded software: where C and assembly meet",
+    "quantity": 2
+  },
+  {
+    "isbn": "81-7808-487-2",
+    "quantity": 1,
+    "title": "Elements of the theory of computation"
+  },
+  {
+    "isbn": "981-235-902-8",
+    "quantity": 1,
+    "title": "Understanding digital signal processing"
+  },
+  {
+    "isbn": "81-7808-677-8",
+    "title": "Introduction to robotics: analysis systems applications",
+    "quantity": 7
+  },
+  {
+    "isbn": "81-7808-562-3",
+    "title": "Introduciton to C# using Net",
+    "quantity": 2
+  },
+  {
+    "isbn": "81-7808-646-8",
+    "quantity": 1,
+    "title": "Principles of wireless networks: a unified approach"
+  },
+  {
+    "isbn": "81-7808-454-6",
+    "title": "Writing unix device drivers",
+    "quantity": 2
+  },
+  {
+    "isbn": "81-7808-456-2",
+    "title": "Fiber optic communication",
+    "quantity": 2
+  },
+  {
+    "isbn": "81-7808-573-9",
+    "title": "Algorithms for statistical signal processing",
+    "quantity": 2
+  },
+  {
+    "isbn": "81-7808-610-7",
+    "title": "Communication systems engineering",
+    "quantity": 2
+  },
+  {
+    "isbn": "81-7808-088-5",
+    "quantity": 1,
+    "title": "University grammer of english"
+  },
+  {
+    "isbn": "81-297-0041-7",
+    "title": "Artificial intelligence: a modern approach",
+    "quantity": 13
+  },
+  {
+    "isbn": "81-7808-045-1",
+    "title": "Embedded software primer",
+    "quantity": 4
+  },
+  {
+    "isbn": "81-7808-373-6",
+    "title": "Digital communications: fundamentals and applications",
+    "quantity": 10
+  },
+  {
+    "isbn": "81-7808-497-X",
+    "title": "Software engineering",
+    "quantity": 4
+  },
+  {
+    "isbn": "81-7808-319-1",
+    "quantity": 1,
+    "title": "Multimedia: computing communications and applications"
+  },
+  {
+    "isbn": "81-203-0695-3",
+    "title": "Fuzzy sets, uncertainty and information",
+    "quantity": 5
+  },
+  {
+    "isbn": "81-7366-154-5",
+    "title": "Beginning java2 JDK",
+    "quantity": 2
+  },
+  {
+    "isbn": "81-7366-459-2",
+    "title": "Net compact framework",
+    "quantity": 2
+  },
+  {
+    "isbn": "81-7366-537-0",
+    "title": "Understanding the Net frame work",
+    "quantity": 2
+  },
+  {
+    "isbn": "0-07-048280-2",
+    "title": "Human resource and personnel management: text and cases",
+    "quantity": 2
+  },
+  {
+    "isbn": "0-07-047339-0",
+    "title": "Programming in C#",
+    "quantity": 5
+  },
+  {
+    "isbn": "0-07-460026-5",
+    "quantity": 1,
+    "title": "Workshop technology Vol-I"
+  },
+  {
+    "isbn": "0-07-053073-4",
+    "title": "Introduction to compiling techniques: a first course using ANSI C, LEX and YACC",
+    "quantity": 5
+  },
+  {
+    "isbn": "0-07-048297-7",
+    "title": "Information theory, coding and cryptography",
+    "quantity": 5
+  },
+  {
+    "isbn": "0-07-048294-2",
+    "title": "Operating systems: a concept based approach",
+    "quantity": 5
+  },
+  {
+    "isbn": "0-07-463579-4",
+    "title": "Systems programming and operating systems",
+    "quantity": 20
+  },
+  {
+    "isbn": "0-07-047298-x",
+    "title": "Web technologies: TCP/IP to internet application architectures",
+    "quantity": 25
+  },
+  {
+    "isbn": "0-07-047385-4",
+    "title": "Software  project management",
+    "quantity": 2
+  },
+  {
+    "isbn": "0-07-462239-0",
+    "quantity": 1,
+    "title": "Database management systems"
+  },
+  {
+    "isbn": "0-07-048644-1",
+    "title": "Database management systems: designing and building business applications",
+    "quantity": 2
+  },
+  {
+    "isbn": "0-07-049546-7",
+    "title": "Parallel computing: theory and practice",
+    "quantity": 2
+  },
+  {
+    "isbn": "0-07-047296-3",
+    "title": "Internet and web-technologies",
+    "quantity": 3
+  },
+  {
+    "isbn": "0-07-049488-6",
+    "title": "Programming with C++",
+    "quantity": 3
+  },
+  {
+    "isbn": "0-07-099542-7",
+    "title": "Introduction to modern physics",
+    "quantity": 3
+  },
+  {
+    "isbn": "0-07-049958-6",
+    "title": "Schaum's outline of theory and problems of computer graphics",
+    "quantity": 4
+  },
+  {
+    "isbn": "81-7224-280-8",
+    "title": "Learing C++: a hands on approach",
+    "quantity": 2
+  },
+  {
+    "isbn": "81-7224-650-1",
+    "title": "Introduction to artificial neural systems",
+    "quantity": 3
+  },
+  {
+    "isbn": "81-7496-468-1",
+    "quantity": 1,
+    "title": "Taxmann's deduction of tax at source with TDS on CD: as amended by finance act 2003"
+  },
+  {
+    "isbn": "81-88045-12-8",
+    "title": "Applied science I: applied chemistry I",
+    "quantity": 10
+  },
+  {
+    "isbn": "9812-53-010-X",
+    "title": "Modern control design with MATLAB & SIMULINK",
+    "quantity": 3
+  },
+  {
+    "isbn": "81-7867-121-2",
+    "title": "Computer networks: a systems approach",
+    "quantity": 3
+  },
+  {
+    "isbn": "9814-12620-9",
+    "title": "Digital image processing",
+    "quantity": 9
+  },
+  {
+    "isbn": "9971-51-430-3",
+    "title": "Digital signal processing",
+    "quantity": 6
+  },
+  {
+    "isbn": "81-7808-035-4",
+    "title": "Introduction to operating systems",
+    "quantity": 5
+  },
+  {
+    "isbn": "0-19-511009-9",
+    "title": "Modern digital and analog communication systems",
+    "quantity": 5
+  },
+  {
+    "isbn": "81-7867-056-9",
+    "title": "Enterprise XML clearly explained",
+    "quantity": 2
+  },
+  {
+    "isbn": "81-7867-116-6",
+    "title": "Parallel computer architecture: a hardware/ software approach",
+    "quantity": 2
+  },
+  {
+    "isbn": "81-7808-170-9",
+    "title": "Mobile communications",
+    "quantity": 14
+  },
+  {
+    "isbn": "81-7808-384-1",
+    "title": "Operating systems: A modern perspective",
+    "quantity": 4
+  },
+  {
+    "isbn": "81-7808-594-1",
+    "title": "Speech and language processing: An introduction to natural language processing computational linguistics and speech recognition",
+    "quantity": 11
+  },
+  {
+    "isbn": "81-7808-462-7",
+    "quantity": 1,
+    "title": "Distributed systems: concepts and design"
+  },
+  {
+    "isbn": "81-7808-451-1",
+    "quantity": 1,
+    "title": "Introduction to robotics: mechanics and control"
+  },
+  {
+    "isbn": "81-7808-332-9",
+    "quantity": 1,
+    "title": "Digital communications systems with satellite and fibre optics applications"
+  },
+  {
+    "isbn": "81-7808-086-9",
+    "title": "Computer networks and internets",
+    "quantity": 3
+  },
+  {
+    "isbn": "81-7808-645-X",
+    "quantity": 1,
+    "title": "Using C#"
+  },
+  {
+    "isbn": "81-7808-242-X",
+    "quantity": 1,
+    "title": "Web 101: making the net work for you"
+  },
+  {
+    "isbn": "81-7808-751-0",
+    "quantity": 1,
+    "title": "C++ network programming, vol I: mastering complexity with ACE and patterns"
+  },
+  {
+    "isbn": "81-7808-292-6",
+    "quantity": 1,
+    "title": "Bluetooth revealed"
+  },
+  {
+    "isbn": "81-7867-035-6",
+    "quantity": 1,
+    "title": "TCP/IP addressing: designing and optimizing your IP addressing scheme 2nd"
+  },
+  {
+    "isbn": "81-7808-802-9",
+    "quantity": 1,
+    "title": "ASPNET and VBNET web programming"
+  },
+  {
+    "isbn": "81-7808-367-1",
+    "quantity": 1,
+    "title": "Decision support systems and intelligent systems"
+  },
+  {
+    "isbn": "81-88045-26-8",
+    "quantity": 1,
+    "title": "Textbook of engineering mechanics: statics"
+  },
+  {
+    "isbn": "81-203-0976-6",
+    "quantity": 1,
+    "title": "Security analysis and portfolio management"
+  },
+  {
+    "isbn": "81-219-0817-5",
+    "title": "Textbook of engineering physics",
+    "quantity": 28
+  },
+  {
+    "isbn": "81-259-1276-2",
+    "quantity": 1,
+    "title": "Engineering mathematics"
+  },
+  {
+    "isbn": "0-52-31391-0",
+    "quantity": 1,
+    "title": "Solid state physics"
+  },
+  {
+    "isbn": "0-85226-467-4",
+    "quantity": 1,
+    "title": "Introduction to solid state physics"
+  },
+  {
+    "isbn": "81-7029-773-7",
+    "quantity": 1,
+    "title": "MCSE: NT workstation study guide(Xerox Copy)"
+  },
+  {
+    "isbn": "81-85273-09-X",
+    "quantity": 1,
+    "title": "Principles of telephony"
+  },
+  {
+    "isbn": "967-961-015-2",
+    "quantity": 1,
+    "title": "Pocket book of palm oil uses"
+  },
+  {
+    "isbn": "0-07-053243-5",
+    "title": "Antennas: for all applications",
+    "quantity": 6
+  },
+  {
+    "isbn": "0-07-462710-X",
+    "title": "Theory and problems of discrete mathematics",
+    "quantity": 7
+  },
+  {
+    "isbn": "0-07-048286-1",
+    "title": "IBM PC and clones: Hardware, troubleshooting and maintenance",
+    "quantity": 2
+  },
+  {
+    "isbn": "0-07-047367-6",
+    "title": "Troubleshooting, maintaining and repairing PC's",
+    "quantity": 2
+  },
+  {
+    "isbn": "0-07-460105-9",
+    "title": "Television and video engineering",
+    "quantity": 19
+  },
+  {
+    "isbn": "0-07-049950-0",
+    "title": "E-commerce: Framework, technologies and applications",
+    "quantity": 5
+  },
+  {
+    "isbn": "81-88045-28-4",
+    "quantity": 1,
+    "title": "Electronics-I with practicals"
+  },
+  {
+    "isbn": "81-219-1223-7",
+    "quantity": 1,
+    "title": "Experiments in engineering physics: a laboratory manual and workbook with viva voce"
+  },
+  {
+    "isbn": "0-07-463629-4",
+    "title": "Electronic instruments and systems: principles, maintenance and troubleshooting",
+    "quantity": 10
+  },
+  {
+    "isbn": "0-07-048397-3",
+    "title": "Schaum's outline of theory and problems of electromagnetics",
+    "quantity": 5
+  },
+  {
+    "isbn": "0-07-043623-1",
+    "title": "ASP 30: a beginner's guide",
+    "quantity": 3
+  },
+  {
+    "isbn": "0-07-053455-1",
+    "title": "Introduction to PC hardware and troubleshooting",
+    "quantity": 2
+  },
+  {
+    "isbn": "0-07-463272-8",
+    "title": "Operating systems: concepts and design",
+    "quantity": 2
+  },
+  {
+    "isbn": "0-07-118181-4",
+    "title": "Probability, random variables and random signal principles",
+    "quantity": 3
+  },
+  {
+    "isbn": "0-07-047428-1",
+    "title": "Probability, random variables and random signal principles",
+    "quantity": 7
+  },
+  {
+    "isbn": "0-07-052849-7",
+    "title": "LINUX: the complete reference",
+    "quantity": 3
+  },
+  {
+    "isbn": "0-07-044556-7",
+    "title": "Optical fiber communication: principles and systems",
+    "quantity": 5
+  },
+  {
+    "isbn": "0-07-047335-8",
+    "title": "Basic radio and television",
+    "quantity": 4
+  },
+  {
+    "isbn": "0-07-044533-8",
+    "title": "Introduction to radar systems",
+    "quantity": 4
+  },
+  {
+    "isbn": "0-07-463430-5",
+    "title": "Advanced microprocessors and IBM-PC assembly language programming",
+    "quantity": 5
+  },
+  {
+    "isbn": "0-07-049482-7",
+    "title": "Probability, statistics and random processes",
+    "quantity": 20
+  },
+  {
+    "isbn": "0-07-047334-X",
+    "title": "Digital signal processors: architecture, programming and applications",
+    "quantity": 5
+  },
+  {
+    "isbn": "981-235-966-4",
+    "title": "Datamining",
+    "quantity": 3
+  },
+  {
+    "isbn": "0-07-118458-9",
+    "title": "Software engineering: A practitioners approach",
+    "quantity": 6
+  },
+  {
+    "isbn": "81-203-2177-4",
+    "title": "Multimedia systems design",
+    "quantity": 21
+  },
+  {
+    "isbn": "81-203-2047-6",
+    "title": "Semiconductor optoelectronic devices",
+    "quantity": 2
+  },
+  {
+    "isbn": "81-203-2174-X",
+    "title": "Geographic information systems and environmental modeling",
+    "quantity": 3
+  },
+  {
+    "isbn": "81-203-1712-2",
+    "quantity": 1,
+    "title": "Understanding SONET/SDH and ATM: communications networks for the next millenium"
+  },
+  {
+    "isbn": "81-203-1136-1",
+    "title": "Fuzzy sets and fuzzy logic: theory and applications",
+    "quantity": 5
+  },
+  {
+    "isbn": "81-203-2145-6",
+    "title": "Multimedia communication systems: techniques, standards & networks",
+    "quantity": 4
+  },
+  {
+    "isbn": "81-203-3321-2",
+    "quantity": 1,
+    "title": "Business and information systems"
+  },
+  {
+    "isbn": "81-203-1046-2",
+    "quantity": 1,
+    "title": "Object oriented modeling and design"
+  },
+  {
+    "isbn": "81-203-2147-2",
+    "title": "Database systems using oracle: a simplified guide to SQL and PL/SQL",
+    "quantity": 2
+  },
+  {
+    "isbn": "81-203-2132-4",
+    "title": "Structured and object-oriented problem solving using C++",
+    "quantity": 4
+  },
+  {
+    "isbn": "81-203-0933-2",
+    "title": "8086/8088 family: design, programming and interfacing",
+    "quantity": 5
+  },
+  {
+    "isbn": "981-240-618-2",
+    "quantity": 1,
+    "title": "Datawarehousing"
+  },
+  {
+    "isbn": "981-240-226-8",
+    "title": "Introduction to theory of computation",
+    "quantity": 2
+  },
+  {
+    "isbn": "0-07-043448-4",
+    "title": "Advanced microprocessors and interfacing",
+    "quantity": 10
+  },
+  {
+    "isbn": "0-07-047379-X",
+    "title": "Practical object-oriented design with UML",
+    "quantity": 4
+  },
+  {
+    "isbn": "81-203-2130-8",
+    "title": "Introduction to computer networking",
+    "quantity": 3
+  },
+  {
+    "isbn": "0-07-118885-1",
+    "quantity": 1,
+    "title": "Schaum's outline of theory and problems of computer graphics"
+  },
+  {
+    "isbn": "0-07-053074-2",
+    "quantity": 1,
+    "title": "Communication networks: a first course"
+  },
+  {
+    "isbn": "0-07-053475-6",
+    "title": "UNIX: Concepts and applications",
+    "quantity": 2
+  },
+  {
+    "isbn": "0-07-116090-6",
+    "title": "Object oriented systems development",
+    "quantity": 20
+  },
+  {
+    "isbn": "0-07-116429-4",
+    "title": "Electromagnetics with applications",
+    "quantity": 5
+  },
+  {
+    "isbn": "0-07-048334-5",
+    "title": "Schaum's outline of computer architecture",
+    "quantity": 10
+  },
+  {
+    "isbn": "0-07-047277-7",
+    "title": "Object oriented analysis and design",
+    "quantity": 10
+  },
+  {
+    "isbn": "0-07-040204-3",
+    "title": "Windows 2000: the complete reference",
+    "quantity": 2
+  },
+  {
+    "isbn": "0-07-049921-7",
+    "title": "HTML and web design: tips and techniques",
+    "quantity": 22
+  },
+  {
+    "isbn": "0-07-463577-8",
+    "title": "Microwave engineering",
+    "quantity": 10
+  },
+  {
+    "isbn": "9971-51-233-5",
+    "title": "Antenna theory: analysis and design",
+    "quantity": 5
+  },
+  {
+    "isbn": "0-333-93920-4",
+    "title": "Operations research: theory and applications",
+    "quantity": 10
+  },
+  {
+    "isbn": "81-7319-460-2",
+    "title": "Introduction to formal languages and automata",
+    "quantity": 10
+  },
+  {
+    "isbn": "0-85226-340-6",
+    "title": "Monochrome and colour television",
+    "quantity": 5
+  },
+  {
+    "isbn": "81-7808-036-2",
+    "title": "System software: An introduction to systems programming",
+    "quantity": 2
+  },
+  {
+    "isbn": "81-7808-169-5",
+    "title": "Unified modeling language user guide",
+    "quantity": 10
+  },
+  {
+    "isbn": "81-7808-145-8",
+    "title": "Engineering approach to computer networking, the internet and the telephone network",
+    "quantity": 2
+  },
+  {
+    "isbn": "81-7808-149-0",
+    "title": "Developing e commerce sites: An integrated approach",
+    "quantity": 2
+  },
+  {
+    "isbn": "81-900828-4-1",
+    "title": "8051 microcontroller: Architecture, programming and applications",
+    "quantity": 2
+  },
+  {
+    "isbn": "81-900828-6-8",
+    "title": "8086 microprocessor: programming and interfacing the PC",
+    "quantity": 2
+  },
+  {
+    "isbn": "81-87972-09-2",
+    "title": "Microprocessor architecture, programming and applications with the 8085",
+    "quantity": 5
+  },
+  {
+    "isbn": "81-203-2235-5",
+    "title": "Operations research: an introduction",
+    "quantity": 8
+  },
+  {
+    "isbn": "0-07-463974-9",
+    "title": "Quantitative techniques in management",
+    "quantity": 3
+  },
+  {
+    "isbn": "0-07-048658-1",
+    "title": "Probability random variables and stochastic processes",
+    "quantity": 12
+  },
+  {
+    "isbn": "81-7366-285-1",
+    "title": "Java servlet programming",
+    "quantity": 5
+  },
+  {
+    "isbn": "81-7808-150-4",
+    "title": "Essential XML: beyond mark up",
+    "quantity": 2
+  },
+  {
+    "isbn": "981-240-369-8",
+    "title": "Applied probability models",
+    "quantity": 7
+  },
+  {
+    "isbn": "81-203-2353-X",
+    "title": "Management information systems: managing the digital firm",
+    "quantity": 2
+  },
+  {
+    "isbn": "81-203-2134-0",
+    "title": "Project management for business and technology",
+    "quantity": 8
+  },
+  {
+    "isbn": "81-203-2071-9",
+    "title": "Discrete event system stimulation",
+    "quantity": 3
+  },
+  {
+    "isbn": "81-203-2230-4",
+    "quantity": 1,
+    "title": "Concepts and techniques of geographic information systems"
+  },
+  {
+    "isbn": "0-07-040267-1",
+    "title": "Management information systems: conceptual foundations, structures and development 2nd",
+    "quantity": 2
+  },
+  {
+    "isbn": "0-07-048663-8",
+    "quantity": 1,
+    "title": "Principles of neurocomputing for science and engineering"
+  },
+  {
+    "isbn": "0-07-049552-1",
+    "quantity": 1,
+    "title": "Introduction to geographic information systems"
+  },
+  {
+    "isbn": "0-07-044616-4",
+    "quantity": 1,
+    "title": "RSA security's official guide to cryptography"
+  },
+  {
+    "isbn": "81-203-1047-0",
+    "title": "Fundamentals of robotics: Analysis and control",
+    "quantity": 7
+  },
+  {
+    "isbn": "81-203-0842-5",
+    "quantity": 1,
+    "title": "Robotic engineering: an integrated approach"
+  },
+  {
+    "isbn": "81-203-1621-5",
+    "title": "Parallel computers: Architecture and programming",
+    "quantity": 4
+  },
+  {
+    "isbn": "81-203-2215-0",
+    "title": "Distributed systems: principles and paradigms",
+    "quantity": 10
+  },
+  {
+    "isbn": "81-7808-906-8",
+    "title": "Fuzzy logic: Intelligence control and information",
+    "quantity": 2
+  },
+  {
+    "isbn": "81-219-0552-4",
+    "quantity": 1,
+    "title": "Modern approach to verbal reasoning"
+  },
+  {
+    "isbn": "81-219-0553-2",
+    "quantity": 1,
+    "title": "Modern approach to non-verbal reasoning"
+  },
+  {
+    "isbn": "81-219-1098-6",
+    "quantity": 1,
+    "title": "Shakespeare's hamlet"
+  },
+  {
+    "isbn": "81-219-0442-0",
+    "quantity": 1,
+    "title": "Shakespeare's as you like it"
+  },
+  {
+    "isbn": "81-219-1185-0",
+    "quantity": 1,
+    "title": "Shakespeare's the tempest"
+  },
+  {
+    "isbn": "81-219-1495-7",
+    "quantity": 1,
+    "title": "Shakespeare's Antony and Cleopatra"
+  },
+  {
+    "isbn": "81-219-0509-5",
+    "quantity": 1,
+    "title": "Shakespeare's Othello"
+  },
+  {
+    "isbn": "81-219-0897-3",
+    "quantity": 1,
+    "title": "Shakespeare's the merchant of Venice"
+  },
+  {
+    "isbn": "81-219-1184-2",
+    "quantity": 1,
+    "title": "Shakespeare's a mid summer night's dream"
+  },
+  {
+    "isbn": "81-219-0939-2",
+    "quantity": 1,
+    "title": "Shakespeare's Julius Caesar"
+  },
+  {
+    "isbn": "81-219-2197-X",
+    "title": "High school English grammar and composition",
+    "quantity": 4
+  },
+  {
+    "isbn": "81-7808-804-5",
+    "quantity": 1,
+    "title": "Modern database management"
+  },
+  {
+    "isbn": "81-7808-359-0",
+    "quantity": 1,
+    "title": "Internet and world wide web: how to program"
+  },
+  {
+    "isbn": "0-07-058271-8",
+    "title": "Modern communication circuits",
+    "quantity": 16
+  },
+  {
+    "isbn": "81-203-2390-4",
+    "quantity": 1,
+    "title": "Hacking: tools and techniques and incident handling"
+  },
+  {
+    "isbn": "81-297-0226-6",
+    "quantity": 1,
+    "title": "Embedded microcontrollers"
+  },
+  {
+    "isbn": "81-7867-034-8",
+    "title": "Multimedia communications: directions and innovations",
+    "quantity": 11
+  },
+  {
+    "isbn": "81-7808-674-3",
+    "quantity": 1,
+    "title": "Object oriented software engineering; conquering complex and changing systems"
+  },
+  {
+    "isbn": "81-7808-891-4",
+    "title": "Database systems: a practical approach to design implementation and management",
+    "quantity": 2
+  },
+  {
+    "isbn": "81-7808-788-3",
+    "title": "Hands-on networking: with internet technologies",
+    "quantity": 2
+  },
+  {
+    "isbn": "81-7808-281-0",
+    "title": "Basic communication skills for technology",
+    "quantity": 5
+  },
+  {
+    "isbn": "981-243-865-3",
+    "title": "Quality hand soldering and circuit board repair",
+    "quantity": 2
+  },
+  {
+    "isbn": "81-7808-244-6",
+    "title": "Discrete time signal processing",
+    "quantity": 4
+  },
+  {
+    "isbn": "981-243-694-4",
+    "title": "Compiler construction: Principles and practice",
+    "quantity": 2
+  },
+  {
+    "isbn": "81-7684-025-4",
+    "title": "Antenna and wave propagation",
+    "quantity": 12
+  },
+  {
+    "isbn": "81-85825-99-8",
+    "title": "Engineering mathematics- IV",
+    "quantity": 5
+  },
+  {
+    "isbn": "81-7722-086-1",
+    "title": "HTML black book",
+    "quantity": 2
+  },
+  {
+    "isbn": "81-203-0868-9",
+    "title": "Neural networks and fuzzy systems: a dynamical systems approach to machine intelligence",
+    "quantity": 20
+  },
+  {
+    "isbn": "81-203-1774-2",
+    "quantity": 1,
+    "title": "Microsoft commerce solutions"
+  },
+  {
+    "isbn": "0-07-463350-3",
+    "title": "Instrumentation devices and systems",
+    "quantity": 5
+  },
+  {
+    "isbn": "0-07-058291-2",
+    "title": "VLSI technology",
+    "quantity": 5
+  },
+  {
+    "isbn": "9812-53-028-2",
+    "title": "Passive and active filters: Theory and implementations",
+    "quantity": 4
+  },
+  {
+    "isbn": "81-7808-046-X",
+    "title": "Compilers: principles, techniques and tools",
+    "quantity": 8
+  },
+  {
+    "isbn": "9812-53-029-0",
+    "title": "Principles of active network synthesis and design",
+    "quantity": 5
+  },
+  {
+    "isbn": "81-7808-325-6",
+    "title": "Essential ASP for web professionals",
+    "quantity": 5
+  },
+  {
+    "isbn": "81-8054-004-9",
+    "title": "Fundamentals of mathematical statistics",
+    "quantity": 8
+  },
+  {
+    "isbn": "81-88057-12-6",
+    "title": "Internet and java programming",
+    "quantity": 5
+  },
+  {
+    "isbn": "81-7446-325-9",
+    "quantity": 1,
+    "title": "Medical electronics"
+  },
+  {
+    "isbn": "81-88057-07-X",
+    "title": "Computer applications",
+    "quantity": 5
+  },
+  {
+    "isbn": "81-88057-01-0",
+    "title": "Database management system",
+    "quantity": 5
+  },
+  {
+    "isbn": "81-88057-10-x",
+    "title": "Electronic instrumentation",
+    "quantity": 5
+  },
+  {
+    "isbn": "81-88057-11-8",
+    "title": "Digital control systems",
+    "quantity": 5
+  },
+  {
+    "isbn": "81-88057-06-1",
+    "title": "Data structures using C",
+    "quantity": 5
+  },
+  {
+    "isbn": "81-88057-00-2",
+    "title": "Computer installation and trouble shooting",
+    "quantity": 5
+  },
+  {
+    "isbn": "81-88057-03-7",
+    "title": "Computer communication networks",
+    "quantity": 15
+  },
+  {
+    "isbn": "81-88057-09-6",
+    "title": "Linear integrated circuits and applications",
+    "quantity": 5
+  },
+  {
+    "isbn": "81-88057-02-0",
+    "title": "Programming in C++",
+    "quantity": 5
+  },
+  {
+    "isbn": "81-7808-222-5",
+    "title": "Principles of CMOS VLSI design: a systems perspectives",
+    "quantity": 5
+  },
+  {
+    "isbn": "9971-51-266-1",
+    "title": "Physics of Semiconductor devices",
+    "quantity": 5
+  },
+  {
+    "isbn": "0-07-112519-1",
+    "title": "Active and passive analog filter design: an introduction",
+    "quantity": 4
+  },
+  {
+    "isbn": "0-470-84402-7",
+    "quantity": 1,
+    "title": "RFID handbook: fundamentals and applications in contactless smart cards and identification"
+  },
+  {
+    "isbn": "0-07-100727-X",
+    "title": "Introduction to VLSI design",
+    "quantity": 13
+  },
+  {
+    "isbn": "81-219-0345-9",
+    "title": "Advanced engineering mathematics",
+    "quantity": 3
+  },
+  {
+    "isbn": "81-219-0281-9",
+    "title": "Operations research",
+    "quantity": 7
+  },
+  {
+    "isbn": "9812-53-055-X",
+    "title": "Operating system concepts",
+    "quantity": 2
+  },
+  {
+    "isbn": "81-7808-902-5",
+    "title": "Cryptography and network security: principles and practices",
+    "quantity": 5
+  },
+  {
+    "isbn": "81-203-2364-5",
+    "title": "Laboratory manual for operational amplifiers and linear ICs",
+    "quantity": 3
+  },
+  {
+    "isbn": "81-203-2363-7",
+    "title": "Laboratory manual for electric circuits",
+    "quantity": 2
+  },
+  {
+    "isbn": "81-203-2493-5",
+    "title": "Basics of wireless communications",
+    "quantity": 2
+  },
+  {
+    "isbn": "81-203-2559-1",
+    "title": "Communication systems",
+    "quantity": 2
+  },
+  {
+    "isbn": "81-7808-738-3",
+    "title": "Object oriented modeling and design",
+    "quantity": 9
+  },
+  {
+    "isbn": "981-406624-9",
+    "title": "Advanced compiler design and implementation",
+    "quantity": 2
+  },
+  {
+    "isbn": "0-07-048707-3",
+    "title": "Object oriented and classical software engineering",
+    "quantity": 2
+  },
+  {
+    "isbn": "0-07-124083-7",
+    "title": "Software engineering: A practitioners approach",
+    "quantity": 18
+  },
+  {
+    "isbn": "981-254-261-2",
+    "title": "8051 microcontroller: Architecture, programming and applications",
+    "quantity": 4
+  },
+  {
+    "isbn": "81-297-0539-7",
+    "title": "Antennas and wave propagation",
+    "quantity": 9
+  },
+  {
+    "isbn": "0-07-059792-8",
+    "quantity": 1,
+    "title": "McGraw-Hill dictionary of computing and communications"
+  },
+  {
+    "isbn": "0-07-053077-7",
+    "title": "CMOS digital integrated circuits: analysis and design",
+    "quantity": 22
+  },
+  {
+    "isbn": "81-7800-012-1",
+    "quantity": 1,
+    "title": "VHDL primer"
+  },
+  {
+    "isbn": "81-219-2443-X",
+    "title": "Principles of environmental science and engineering",
+    "quantity": 2
+  },
+  {
+    "isbn": "81-219-1809-X",
+    "quantity": 1,
+    "title": "Atomic physics 7th ed"
+  },
+  {
+    "isbn": "373",
+    "quantity": 1,
+    "title": "VHDL primer"
+  },
+  {
+    "isbn": "81-8147-191-1",
+    "title": "Introduction to data compression",
+    "quantity": 2
+  },
+  {
+    "isbn": "81-203-1710-6",
+    "title": "Mobile and personal communication systems and services",
+    "quantity": 9
+  },
+  {
+    "isbn": "81-203-1461-1",
+    "title": "Microwave engineering : passive circuits",
+    "quantity": 15
+  },
+  {
+    "isbn": "81-203-2381-5",
+    "title": "Wireless communications: principles and practice",
+    "quantity": 20
+  },
+  {
+    "isbn": "981-254-893-9",
+    "title": "MATLAB programming for engineers",
+    "quantity": 2
+  },
+  {
+    "isbn": "0-521-67042-x",
+    "title": "Electromagnetic field theory fundamentals",
+    "quantity": 2
+  },
+  {
+    "isbn": "81-7409-081-9",
+    "title": "Radar systems and radio aids to navigation",
+    "quantity": 5
+  },
+  {
+    "isbn": "81-297-0203-7",
+    "title": "Management information systems: managing the digital firm",
+    "quantity": 3
+  },
+  {
+    "isbn": "81-7029-729-x",
+    "title": "Data compression book",
+    "quantity": 2
+  },
+  {
+    "isbn": "1-4039-4731-7",
+    "title": "Coding techniques: an introduction to compression and error control",
+    "quantity": 2
+  },
+  {
+    "isbn": "81-203-2-71-9",
+    "title": "Discrete-event systems simulation",
+    "quantity": 12
+  },
+  {
+    "isbn": "9812-53-012-6",
+    "title": "Data warehousing: Fundamentals for IT professionals",
+    "quantity": 12
+  },
+  {
+    "isbn": "81-7808-609-3",
+    "title": "Digital signal processing: a practical approach",
+    "quantity": 6
+  },
+  {
+    "isbn": "81-2970314-9",
+    "title": "Telecommunication networks; protocols, modeling and analysis",
+    "quantity": 2
+  },
+  {
+    "isbn": "81-7808-422-8",
+    "title": "ISDN and broadband ISDN with frame relay and ATM",
+    "quantity": 10
+  },
+  {
+    "isbn": "81-7635-398-1",
+    "title": "Designing flexible object-oriented systems with UML",
+    "quantity": 3
+  },
+  {
+    "isbn": "0-07-463512-3",
+    "title": "Digital filters; analysis, design and applications",
+    "quantity": 2
+  },
+  {
+    "isbn": "0-07-058290-4",
+    "title": "Simulation modeling and analysis",
+    "quantity": 4
+  },
+  {
+    "isbn": "0-07-044744-6",
+    "title": "Voice and data internetworking",
+    "quantity": 7
+  },
+  {
+    "isbn": "81-203-2386-6",
+    "title": "Wireless communications and networking",
+    "quantity": 2
+  },
+  {
+    "isbn": "0-07-058966-6",
+    "title": "Digital image processing using MATLAB",
+    "quantity": 4
+  },
+  {
+    "isbn": "9971-51-366-8",
+    "title": "Wireless and mobile networks architecture",
+    "quantity": 17
+  },
+  {
+    "isbn": "0-07-123525-6",
+    "title": "Simulation with arena",
+    "quantity": 5
+  },
+  {
+    "isbn": "0-07-114711-X",
+    "title": "Fuzzy logic with engineering applications",
+    "quantity": 7
+  },
+  {
+    "isbn": "81-297-0253-3",
+    "title": "Information systems: Foundations of e-business",
+    "quantity": 7
+  },
+  {
+    "isbn": "81-297-0025-5",
+    "title": "Mobile satellite communications; principles and trends",
+    "quantity": 7
+  },
+  {
+    "isbn": "817-808-001-x",
+    "title": "Enterprise javabeans: developing component-based distributed applications",
+    "quantity": 8
+  },
+  {
+    "isbn": "0-07-049940-3",
+    "title": "Management information systems: Solving business problems with information technology",
+    "quantity": 3
+  },
+  {
+    "isbn": "0-07-048293-4",
+    "title": "Robotics and control",
+    "quantity": 7
+  },
+  {
+    "isbn": "0-07-059388-4",
+    "title": "IT Project management: on track from start to finish",
+    "quantity": 7
+  },
+  {
+    "isbn": "0-07-058739-6",
+    "title": "Management information systems: Managing information technology in the business enterprise",
+    "quantity": 5
+  },
+  {
+    "isbn": "81-8147-190-3",
+    "title": "Artificial intelligence: a new synthesis",
+    "quantity": 5
+  },
+  {
+    "isbn": "81-7808-506-2",
+    "title": "Artificial intelligence",
+    "quantity": 5
+  },
+  {
+    "isbn": "81-7867-043-7",
+    "title": "Theory of modeling and simulation: integrating discrete event and continuous complex dynamic systems",
+    "quantity": 7
+  },
+  {
+    "isbn": "0-19-510539-7",
+    "title": "Software engineering fundamentals",
+    "quantity": 20
+  },
+  {
+    "isbn": "0-07-04684-0",
+    "title": "Decision support and data warehouse systems",
+    "quantity": 7
+  },
+  {
+    "isbn": "81-265-0271-1",
+    "title": "Building the data warehouse",
+    "quantity": 7
+  },
+  {
+    "isbn": "9812-53-033-9",
+    "title": "Wireless networks",
+    "quantity": 7
+  },
+  {
+    "isbn": "0-07-100442-4",
+    "title": "Industrial robotics: technology, programming and applications",
+    "quantity": 7
+  },
+  {
+    "isbn": "81-7808-257-8",
+    "title": "Prolog: programming for artificial intelligence",
+    "quantity": 3
+  },
+  {
+    "isbn": "81-297-0184-7",
+    "title": "Computer security: art and science",
+    "quantity": 6
+  },
+  {
+    "isbn": "0-07-058672-1",
+    "title": "Software project management",
+    "quantity": 7
+  },
+  {
+    "isbn": "0-333-93388-5",
+    "title": "Management information systems: managerial perspectives",
+    "quantity": 5
+  },
+  {
+    "isbn": "81-265-0425-0",
+    "title": "Effective project management",
+    "quantity": 7
+  },
+  {
+    "isbn": "81-7808-129-6",
+    "title": "Essential com",
+    "quantity": 7
+  },
+  {
+    "isbn": "81-297-0042-5",
+    "title": "Security in computing",
+    "quantity": 15
+  },
+  {
+    "isbn": "81-7867-025-9",
+    "title": "Systems analysis and modeling; a macro-to-micro approach with multidiciplinary applications",
+    "quantity": 7
+  },
+  {
+    "isbn": "0-07-047268-8",
+    "title": "Advanced concepts in operating systems; distributed, database, and multiprocessor operating systems",
+    "quantity": 11
+  },
+  {
+    "isbn": "81-7867-0 41-0",
+    "title": "Principles of multimedia database systems",
+    "quantity": 5
+  },
+  {
+    "isbn": "0-85226-858-0",
+    "title": "Basic microwave techniques and laboratory manual",
+    "quantity": 2
+  },
+  {
+    "isbn": "981-240-636-0",
+    "title": "Contemporary communication systems using MATLAB",
+    "quantity": 2
+  },
+  {
+    "isbn": "81-8147-049-4",
+    "title": "Data mining: concepts and techniques",
+    "quantity": 12
+  },
+  {
+    "isbn": "81-7808-996-3",
+    "title": "Data mining: introductory and advanced topics",
+    "quantity": 17
+  },
+  {
+    "isbn": "81-7808-312-4",
+    "title": "Introduction to intel family of microprocessors: a hands-on approach utilizing the 80X86 microprocessor family",
+    "quantity": 5
+  },
+  {
+    "isbn": "81-7853-001-5",
+    "quantity": 1,
+    "title": "Inside COM"
+  },
+  {
+    "isbn": "0-07-048295-0",
+    "quantity": 1,
+    "title": "Circuits and networks: analysis and synthesis"
+  },
+  {
+    "isbn": "81-203-2650-4",
+    "title": "Insight into wavelets: from theory to practice",
+    "quantity": 3
+  },
+  {
+    "isbn": "0-07-053415-2",
+    "title": "J2ME: the complete reference",
+    "quantity": 5
+  },
+  {
+    "isbn": "81-7554-201-2",
+    "title": "Brain teasers Volume- 1",
+    "quantity": 2
+  },
+  {
+    "isbn": "81-7554-202-0",
+    "quantity": 1,
+    "title": "Test your aptitude Volume- 1"
+  },
+  {
+    "isbn": "81-7554-203-9",
+    "quantity": 1,
+    "title": "Test your IQ Volume- 1"
+  },
+  {
+    "isbn": "0-07-463810-6",
+    "quantity": 1,
+    "title": "Visual C++ 6: the complete reference"
+  },
+  {
+    "isbn": "0-471-48553-5",
+    "quantity": 1,
+    "title": "Video codec design: developing image and video compresion systems"
+  },
+  {
+    "isbn": "81-88045-55-1",
+    "quantity": 1,
+    "title": "Image processing using MATLAB codes"
+  },
+  {
+    "isbn": "81-88045-48-9",
+    "quantity": 1,
+    "title": "Applied mathematics- 3"
+  },
+  {
+    "isbn": "81-88045-41-1",
+    "quantity": 1,
+    "title": "Applied sciences- I"
+  },
+  {
+    "isbn": "81-88045-49-7",
+    "quantity": 1,
+    "title": "Applied mathematics- III"
+  },
+  {
+    "isbn": "81-265-0204-5",
+    "quantity": 1,
+    "title": "COM+ and XML: ASPNET: on the edge"
+  },
+  {
+    "isbn": "81-7366-288-6",
+    "quantity": 1,
+    "title": "Building oracle XML applications"
+  },
+  {
+    "isbn": "81-7366-384-X",
+    "quantity": 1,
+    "title": "Programming ASPNET"
+  },
+  {
+    "isbn": "81-7029-937-3",
+    "quantity": 1,
+    "title": "Learn advanced javascript programming"
+  },
+  {
+    "isbn": "0-201-30998-X",
+    "quantity": 1,
+    "title": "Unified modeling language reference manual"
+  },
+  {
+    "isbn": "0-471-39065-8",
+    "quantity": 1,
+    "title": "Java 2 microedition"
+  },
+  {
+    "isbn": "81-7366-052-2",
+    "quantity": 1,
+    "title": "JAVA 2D graphics"
+  },
+  {
+    "isbn": "0-07-463665-0",
+    "quantity": 1,
+    "title": "Oracle jdeveloper"
+  },
+  {
+    "isbn": "81-7366-300-9",
+    "quantity": 1,
+    "title": "Professional java server programming J2EE edition Volume 1"
+  },
+  {
+    "isbn": "81-7366-229-0",
+    "quantity": 1,
+    "title": "XML applications"
+  },
+  {
+    "isbn": "81-265-0173-1",
+    "quantity": 1,
+    "title": "Palm OS (wireless + mobile) programming bible"
+  },
+  {
+    "isbn": "81-7366-402-1",
+    "quantity": 1,
+    "title": "Professional VB NET"
+  },
+  {
+    "isbn": "81-7635-624-7",
+    "quantity": 1,
+    "title": "Visual basic NET: by example"
+  },
+  {
+    "isbn": "81-7366-452-8",
+    "quantity": 1,
+    "title": "Professional C#"
+  },
+  {
+    "isbn": "81-7635-463-5",
+    "quantity": 1,
+    "title": "Understanding SOAP"
+  },
+  {
+    "isbn": "81-265-0055-7",
+    "quantity": 1,
+    "title": "Oracle8i DBA bible"
+  },
+  {
+    "isbn": "0-07-041185-9",
+    "quantity": 1,
+    "title": "Oracle8i web development"
+  },
+  {
+    "isbn": "81-7656-183-5",
+    "quantity": 1,
+    "title": "Visual basic developer's guide to COM and COM+"
+  },
+  {
+    "isbn": "81-7366-392-0",
+    "quantity": 1,
+    "title": "Practical postgreSQL"
+  },
+  {
+    "isbn": "81-7656-143-6",
+    "quantity": 1,
+    "title": "Mastering UML with rational rose"
+  },
+  {
+    "isbn": "0-619-00092-9",
+    "quantity": 1,
+    "title": "CCNA guide to cisco routing"
+  },
+  {
+    "isbn": "0-13-126484-2",
+    "quantity": 1,
+    "title": "Principles of inventory and materials management"
+  },
+  {
+    "isbn": "81-7656-327-7",
+    "quantity": 1,
+    "title": "RHCE: red hat certified engineer study guide"
+  },
+  {
+    "isbn": "81-7366-143-X",
+    "quantity": 1,
+    "title": "Beginning e-commerce with visual basic, ASP, SQL server 70 and MTS"
+  },
+  {
+    "isbn": "0-07-463582-4",
+    "quantity": 1,
+    "title": "Oracle8 design using UML object modeling"
+  },
+  {
+    "isbn": "81-7366-306-8",
+    "quantity": 1,
+    "title": "Professional XML databases"
+  },
+  {
+    "isbn": "81-7366-165-0",
+    "quantity": 1,
+    "title": "Beginning XML"
+  },
+  {
+    "isbn": "81-7808-246-2",
+    "quantity": 1,
+    "title": "Web business engineering: using offline activities to drive internet strategies"
+  },
+  {
+    "isbn": "0-07-047420-6",
+    "quantity": 1,
+    "title": "OCP introduction to oracle9i: SQL exam guide"
+  },
+  {
+    "isbn": "81-203-2346-7",
+    "quantity": 1,
+    "title": "Developing web applications with microsoft visual basicnet and microsoft visual C#net: exams 70-305 and 70-315"
+  },
+  {
+    "isbn": "0-471-49516-6",
+    "quantity": 1,
+    "title": "Voice over packet networks"
+  },
+  {
+    "isbn": "9-8141-2660-8",
+    "title": "Fiber optic communication systems",
+    "quantity": 2
+  },
+  {
+    "isbn": "0-470-02359-7",
+    "quantity": 1,
+    "title": "IP telephony: deploying voice - over - ip protocols"
+  },
+  {
+    "isbn": "81-297-0206-1",
+    "title": "Data and computer communicatins",
+    "quantity": 4
+  },
+  {
+    "isbn": "81-7808-317-5",
+    "title": "Fiber-optic communications technology",
+    "quantity": 4
+  },
+  {
+    "isbn": "0-07-120240-4",
+    "title": "Satellite communications",
+    "quantity": 3
+  },
+  {
+    "isbn": "81-8147-206-3",
+    "title": "Computer networks: a systems approach",
+    "quantity": 7
+  },
+  {
+    "isbn": "0-07-059425-2",
+    "title": "Oracle database 10g: the complete reference",
+    "quantity": 5
+  },
+  {
+    "isbn": "81-7991-181-0",
+    "quantity": 1,
+    "title": "Earth: discovery channel science collections"
+  },
+  {
+    "isbn": "81-7991-180-2",
+    "quantity": 1,
+    "title": "Universe: discovery channel science collections"
+  },
+  {
+    "isbn": "81-7991-179-9",
+    "quantity": 1,
+    "title": "Animals: Discovery channel science collections"
+  },
+  {
+    "isbn": "0-19-566747-6",
+    "title": "Compact Oxford dictionary, thesaurus and word power guide",
+    "quantity": 2
+  },
+  {
+    "isbn": "0-07-059501-1",
+    "title": "Communication networks: fundamental concepts and key architectures",
+    "quantity": 5
+  },
+  {
+    "isbn": "9971-51-415-X",
+    "title": "Data warehouse lifecyle toolkit",
+    "quantity": 5
+  },
+  {
+    "isbn": "81-297-1089-7",
+    "title": "Data mining: a tutorial based primer",
+    "quantity": 5
+  },
+  {
+    "isbn": "81-7656-199-1",
+    "title": "Mastering database programming with visual basic6",
+    "quantity": 2
+  },
+  {
+    "isbn": "0-540-08804-8",
+    "quantity": 1,
+    "title": "Philip's encyclopedia comprehensive edition"
+  },
+  {
+    "isbn": "81-7596-284-4",
+    "quantity": 1,
+    "title": "Nobel prize winners in pictures"
+  },
+  {
+    "isbn": "81-297-0173-1",
+    "title": "Wireless network evolution: 2G to 3G",
+    "quantity": 5
+  },
+  {
+    "isbn": "1-58053-313-2",
+    "quantity": 1,
+    "title": "Satellite broadcast system engineering"
+  },
+  {
+    "isbn": "0-89006-978-6",
+    "quantity": 1,
+    "title": "Guide to telecommunications transmission systems"
+  },
+  {
+    "isbn": "0-7506-4704-3",
+    "quantity": 1,
+    "title": "Cybermarketing: How to use the internet to market your goods and services"
+  },
+  {
+    "isbn": "0-521-84012-0",
+    "quantity": 1,
+    "title": "Principles of embedded networked systems design"
+  },
+  {
+    "isbn": "0-8493-2824-1",
+    "quantity": 1,
+    "title": "Embedded systems handbook"
+  },
+  {
+    "isbn": "81-312-0185-6",
+    "quantity": 1,
+    "title": "SQL: practical guide for developers"
+  },
+  {
+    "isbn": "81-312-0232-1",
+    "quantity": 1,
+    "title": "Semiconductor lasers II: materials and structures"
+  },
+  {
+    "isbn": "0-470-85322-0",
+    "quantity": 1,
+    "title": "All IP in 3G CDMA networks: the UMTS infrastucture and service platforms for future mobile systems"
+  },
+  {
+    "isbn": "0-470-84492-2",
+    "quantity": 1,
+    "title": "Microwave electronics: measurement and materials characterisation"
+  },
+  {
+    "isbn": "0-471-49184-5",
+    "quantity": 1,
+    "title": "CDMA: access and switching: for terrestrial and satellite networks"
+  },
+  {
+    "isbn": "0-471-17781-4",
+    "quantity": 1,
+    "title": "Intoduction to electromagnetic and microwave engineering"
+  },
+  {
+    "isbn": "0-471-49654-5",
+    "quantity": 1,
+    "title": "Satellite communications systems: systems, techniques and technology"
+  },
+  {
+    "isbn": "0-470-84793-X",
+    "quantity": 1,
+    "title": "Implementing service quality in IP networks"
+  },
+  {
+    "isbn": "0-471-72047-X",
+    "quantity": 1,
+    "title": "Mobile satellite communication networks"
+  },
+  {
+    "isbn": "0-470-84761-1",
+    "quantity": 1,
+    "title": "W- CDMA: mobile communications system"
+  },
+  {
+    "isbn": "0-470-09494-X",
+    "quantity": 1,
+    "title": "Advanced digital signal processing and noise reduction"
+  },
+  {
+    "isbn": "0-7923-7703-6",
+    "quantity": 1,
+    "title": "Wireless location in CDMA cellular radio systems"
+  },
+  {
+    "isbn": "81-240466-9",
+    "quantity": 1,
+    "title": "Principles of solid state"
+  },
+  {
+    "isbn": "81-7684-341-5",
+    "title": "GATE 2006: information technology",
+    "quantity": 2
+  },
+  {
+    "isbn": "81-7684-338-4",
+    "quantity": 1,
+    "title": "GATE 2006: electronics and communication engineering"
+  },
+  {
+    "isbn": "81-7684-340-7",
+    "quantity": 1,
+    "title": "GATE 2006: computer science and engineering"
+  },
+  {
+    "isbn": "81-8355-030-4",
+    "title": "GATE 2006: information technology",
+    "quantity": 2
+  },
+  {
+    "isbn": "81-8355-020-7",
+    "title": "GATE 2006: electronics and communication engineering",
+    "quantity": 2
+  },
+  {
+    "isbn": "81-8355-022-3",
+    "quantity": 1,
+    "title": "GATE 2006: computer science"
+  },
+  {
+    "isbn": "81-8274-141-6",
+    "title": "Nanoscope: encyclopedia of nanoscience and nanotechnology Vol VI",
+    "quantity": 6
+  },
+  {
+    "isbn": "81-7366-794-2",
+    "quantity": 1,
+    "title": "Operating system: concepts and principles"
+  },
+  {
+    "isbn": "0-387-23630-9",
+    "quantity": 1,
+    "title": "Design of embedded control systems"
+  },
+  {
+    "isbn": "81-88826-00-6",
+    "quantity": 1,
+    "title": "Biotechnology: fundamentals and applications"
+  },
+  {
+    "isbn": "81-8131-098-5",
+    "title": "Britannica ready reference encyclopedia",
+    "quantity": 10
+  },
+  {
+    "isbn": "81-7758-435-9",
+    "title": "Embedded linux: hardware, software and interfacing",
+    "quantity": 5
+  },
+  {
+    "isbn": "81-219-2498-7",
+    "title": "Quantitative aptitude: for competitive examinations",
+    "quantity": 11
+  },
+  {
+    "isbn": "81-219-2795-1",
+    "title": "Complete kit for MBA entrance examinations",
+    "quantity": 3
+  },
+  {
+    "isbn": "81-224-0052-3",
+    "quantity": 1,
+    "title": "Stripline-like transmission lines for microwave integrated circuits"
+  },
+  {
+    "isbn": "0-85226-856-4",
+    "title": "Microwave circuits and passive devices",
+    "quantity": 2
+  },
+  {
+    "isbn": "0-85226-346-5",
+    "title": "Microwaves",
+    "quantity": 4
+  },
+  {
+    "isbn": "81-224-1338-2",
+    "title": "Microwaves: Introduction to circuits devices and antennas",
+    "quantity": 2
+  },
+  {
+    "isbn": "81-222-0014-1",
+    "title": "Puzzles to puzzle you",
+    "quantity": 5
+  },
+  {
+    "isbn": "81-7224-221-2",
+    "title": "Great book of puzzles and teasers",
+    "quantity": 5
+  },
+  {
+    "isbn": "81-7515-448-9",
+    "title": "Graduate Record Examination",
+    "quantity": 5
+  },
+  {
+    "isbn": "1-4195-4191-9",
+    "title": "GRE Exam 2007 edition: premier program",
+    "quantity": 2
+  },
+  {
+    "isbn": "81-297-0272-X",
+    "title": "Digital processing of speech signals",
+    "quantity": 13
+  },
+  {
+    "isbn": "81-7515-520-5",
+    "title": "Barron's how to prepare for the TOEFL iBT: test of English language internet-based test",
+    "quantity": 3
+  },
+  {
+    "isbn": "81-265-0162-6",
+    "title": "Cliffs Test Prep TOEFL CBT: Computer based test of English as a foreign language",
+    "quantity": 3
+  },
+  {
+    "isbn": "81-219-1905-3",
+    "title": "Modern approach to logical reasoning",
+    "quantity": 2
+  },
+  {
+    "isbn": "1-4053-1654-3",
+    "quantity": 1,
+    "title": "DK illustrated Oxford dictionary"
+  },
+  {
+    "isbn": "0-7506-2255-5",
+    "title": "Instrument engineers handbook: Process control Vol II",
+    "quantity": 2
+  },
+  {
+    "isbn": "0-85226-205-1",
+    "quantity": 1,
+    "title": "Process control"
+  },
+  {
+    "isbn": "81-7758-765-X",
+    "title": "Computer graphics: C version",
+    "quantity": 15
+  },
+  {
+    "isbn": "81-7758-154-6",
+    "title": "Embedded software primer",
+    "quantity": 15
+  },
+  {
+    "isbn": "81-224-1607-1",
+    "title": "Monochrome and colour television",
+    "quantity": 5
+  },
+  {
+    "isbn": "81-315-0088-8",
+    "title": "8051 microcontroller: Achitecture programming and applications",
+    "quantity": 3
+  },
+  {
+    "isbn": "81-317-0304-5",
+    "title": "Operating systems: internals and design principles",
+    "quantity": 5
+  },
+  {
+    "isbn": "81-203-3029-3",
+    "title": "Process control instrumentation technology",
+    "quantity": 5
+  },
+  {
+    "isbn": "0-07-060185-2",
+    "title": "Antennas for all applications",
+    "quantity": 5
+  },
+  {
+    "isbn": "81-7758-555-X",
+    "title": "System software: an introduction to systems programming",
+    "quantity": 5
+  },
+  {
+    "isbn": "1403-92964-5",
+    "title": "Unofficial guide to ethical hacking",
+    "quantity": 4
+  },
+  {
+    "isbn": "0-07-124476-X",
+    "title": "Database system concepts",
+    "quantity": 14
+  },
+  {
+    "isbn": "0-07-061987-5",
+    "quantity": 1,
+    "title": "Real and complex analysis"
+  },
+  {
+    "isbn": "81-7758-657-2",
+    "title": "Essential XML: beyond markup",
+    "quantity": 8
+  },
+  {
+    "isbn": "81-7758-476-6",
+    "title": "Fundamentals of database systems",
+    "quantity": 15
+  },
+  {
+    "isbn": "81-7758-485-5",
+    "title": "Project management for business and technology: principles and practice",
+    "quantity": 5
+  },
+  {
+    "isbn": "81-224-0849-4",
+    "title": "Functional analysis",
+    "quantity": 2
+  },
+  {
+    "isbn": "0-85226-338-4",
+    "title": "University algebra",
+    "quantity": 2
+  },
+  {
+    "isbn": "81-317-0492-0",
+    "title": "Discrete time signal processing",
+    "quantity": 15
+  },
+  {
+    "isbn": "81-297-0472-2",
+    "title": "Object oriented programming with C++",
+    "quantity": 5
+  },
+  {
+    "isbn": "81-219-2437-5",
+    "title": "Textbook of electrical technology",
+    "quantity": 2
+  },
+  {
+    "isbn": "81-219-2667-X",
+    "title": "Textbook of electrical technology",
+    "quantity": 2
+  },
+  {
+    "isbn": "81-219-2474-X",
+    "title": "Fundamentals of microprocessors and its applications",
+    "quantity": 2
+  },
+  {
+    "isbn": "81-219-2467-7",
+    "quantity": 1,
+    "title": "Drawing machines: parts and assemblies"
+  },
+  {
+    "isbn": "81-904304-1-6",
+    "quantity": 1,
+    "title": "Textbook of engineering mechanics"
+  },
+  {
+    "isbn": "81-904304-0-8",
+    "quantity": 1,
+    "title": "Textbook of basic electrical engineering"
+  },
+  {
+    "isbn": "81-224-1545-8",
+    "quantity": 1,
+    "title": "Engineering drawing and graphics"
+  },
+  {
+    "isbn": "81-88045-56-X",
+    "quantity": 1,
+    "title": "Communication skills"
+  },
+  {
+    "isbn": "81-88045-43-8",
+    "quantity": 1,
+    "title": "Applied mathematics- 4: electronics and telecommunications"
+  },
+  {
+    "isbn": "81-88045-44-6",
+    "quantity": 1,
+    "title": "Applied mathematics- 4: computer engineering and information technology"
+  },
+  {
+    "isbn": "81-7660-115-2",
+    "quantity": 1,
+    "title": "Engineering mechanics: statics"
+  },
+  {
+    "isbn": "81-297-0626-1",
+    "title": "Engineering drawing",
+    "quantity": 11
+  },
+  {
+    "isbn": "81-7881-254-1",
+    "quantity": 1,
+    "title": "Data warehousing: Trends and perspectives"
+  },
+  {
+    "isbn": "81-7881-580-X",
+    "quantity": 1,
+    "title": "Data warehousing: process and industry applications"
+  },
+  {
+    "isbn": "81-7881-191-X",
+    "quantity": 1,
+    "title": "Data storage management V- 2: technological perspectives"
+  },
+  {
+    "isbn": "81-7881-509-5",
+    "quantity": 1,
+    "title": "Decision support systems: concepts and cases"
+  },
+  {
+    "isbn": "81-7881-265-7",
+    "quantity": 1,
+    "title": "E-learning and technology: new opportunities in training and development"
+  },
+  {
+    "isbn": "81-7881-179-0",
+    "quantity": 1,
+    "title": "Digital security: concepts and cases"
+  },
+  {
+    "isbn": "81-7881-484-6",
+    "quantity": 1,
+    "title": "Information security management: an introduction"
+  },
+  {
+    "isbn": "81-314-0118-9",
+    "quantity": 1,
+    "title": "Internet collaboration: an introduction"
+  },
+  {
+    "isbn": "81-314-0132-4",
+    "quantity": 1,
+    "title": "IT: perspectives and trends"
+  },
+  {
+    "isbn": "81-314-0131-6",
+    "quantity": 1,
+    "title": "IT: technologies and products"
+  },
+  {
+    "isbn": "81-7881-783-7",
+    "quantity": 1,
+    "title": "Information lifecycle management: emerging paradigms"
+  },
+  {
+    "isbn": "81-7881-449-8",
+    "quantity": 1,
+    "title": "IT enabled systems"
+  },
+  {
+    "isbn": "81-7881-553-2",
+    "quantity": 1,
+    "title": "IT enabled manufacturing"
+  },
+  {
+    "isbn": "81-7881-470-6",
+    "quantity": 1,
+    "title": "RFID: an introduction"
+  },
+  {
+    "isbn": "81-314-0066-2",
+    "quantity": 1,
+    "title": "Real time enterprise: an introduction"
+  },
+  {
+    "isbn": "81-7881-359-9",
+    "quantity": 1,
+    "title": "Web services: concepts and cases"
+  },
+  {
+    "isbn": "81-7881-538-9",
+    "quantity": 1,
+    "title": "Web services: industry applications"
+  },
+  {
+    "isbn": "81-7881-250-9",
+    "quantity": 1,
+    "title": "Wireless enterprise: concepts and cases"
+  },
+  {
+    "isbn": "81-7881-048-4",
+    "quantity": 1,
+    "title": "Software & services"
+  },
+  {
+    "isbn": "81-7881-349-1",
+    "quantity": 1,
+    "title": "Software project management"
+  },
+  {
+    "isbn": "81-314-0089-1",
+    "quantity": 1,
+    "title": "IT: careers and companies"
+  },
+  {
+    "isbn": "81-7881-114-6",
+    "quantity": 1,
+    "title": "Data mining V- 1"
+  },
+  {
+    "isbn": "81-7881-266-5",
+    "quantity": 1,
+    "title": "Data warehousing: design and development perspectives"
+  },
+  {
+    "isbn": "81-203-1539-1",
+    "quantity": 1,
+    "title": "Using HTML 4, XML, and java 12"
+  },
+  {
+    "isbn": "81-7635-238-1",
+    "quantity": 1,
+    "title": "HTML 4: unleashed"
+  },
+  {
+    "isbn": "81-8404-082-2",
+    "quantity": 1,
+    "title": "Head first HTML with CSS & XHTML"
+  },
+  {
+    "isbn": "81-317-0596-X",
+    "quantity": 1,
+    "title": "Firewall fundamentals"
+  },
+  {
+    "isbn": "81-265-0598-2",
+    "quantity": 1,
+    "title": "Professional javascript for web developers"
+  },
+  {
+    "isbn": "81-265-0522-2",
+    "quantity": 1,
+    "title": "Beginning javascript"
+  },
+  {
+    "isbn": "0-07-059027-3",
+    "quantity": 1,
+    "title": "Javascript: the complete reference"
+  },
+  {
+    "isbn": "81-203-2971-6",
+    "title": "Digital image processing: an algorithmic approach",
+    "quantity": 5
+  },
+  {
+    "isbn": "81-8398-135-6",
+    "quantity": 1,
+    "title": "Fundamentals of solid state physics"
+  },
+  {
+    "isbn": "0-07-053041-6",
+    "title": "Data network design",
+    "quantity": 15
+  },
+  {
+    "isbn": "9812-53-020-7",
+    "title": "Fundamentals of digital signal processing",
+    "quantity": 2
+  },
+  {
+    "isbn": "81-315-0155-8",
+    "title": "Principles of information security",
+    "quantity": 2
+  },
+  {
+    "isbn": "0-07-060173-9",
+    "title": "Electric circuits",
+    "quantity": 10
+  },
+  {
+    "isbn": "81-7409-173-4",
+    "title": "Electrical machinery: theory, performance and applications",
+    "quantity": 10
+  },
+  {
+    "isbn": "0-07-060651-X",
+    "title": "Basic electrical engineering",
+    "quantity": 20
+  },
+  {
+    "isbn": "0-471-49816-5",
+    "quantity": 1,
+    "title": "The GSM network: GPRS evolution: one step towards UMTS"
+  },
+  {
+    "isbn": "0-07-061727-9",
+    "title": "Circuits and networks: analysis and synthesis",
+    "quantity": 5
+  },
+  {
+    "isbn": "81-7758-899-0",
+    "title": "Hughes electrical and electronic technology",
+    "quantity": 5
+  },
+  {
+    "isbn": "0-85226-307-4",
+    "title": "Polymer science",
+    "quantity": 10
+  },
+  {
+    "isbn": "0-07-123254-0",
+    "title": "Essentials of negotiation",
+    "quantity": 2
+  },
+  {
+    "isbn": "0-7513-0400-X",
+    "title": "Essential managers manual",
+    "quantity": 2
+  },
+  {
+    "isbn": "0-07-059120-2",
+    "title": "Theory of machines",
+    "quantity": 15
+  },
+  {
+    "isbn": "81-7722-171-X",
+    "title": "Comdex computer course kit",
+    "quantity": 5
+  },
+  {
+    "isbn": "81-7758-875-3",
+    "title": "Artificial intelligence: structures and strategies for complex problem solving",
+    "quantity": 5
+  },
+  {
+    "isbn": "0-19-511398-5",
+    "quantity": 1,
+    "title": "Networks for computer scientists and engineers"
+  },
+  {
+    "isbn": "81-317-0936-1",
+    "title": "Computer vision: a modern approach",
+    "quantity": 4
+  },
+  {
+    "isbn": "81-317-0231-6",
+    "title": "Principles of wireless networks: a unified approach",
+    "quantity": 10
+  },
+  {
+    "isbn": "81-317-0973-6",
+    "title": "Wireless communications and networks",
+    "quantity": 23
+  },
+  {
+    "isbn": "81-7758-440-5",
+    "title": "Digital communications: fundamentals and applications",
+    "quantity": 10
+  },
+  {
+    "isbn": "81-317-0624-9",
+    "title": "Distributed systems: concepts and design",
+    "quantity": 5
+  },
+  {
+    "isbn": "81-7758-773-0",
+    "title": "Feedback control of dynamic systems",
+    "quantity": 10
+  },
+  {
+    "isbn": "81-7758-413-8",
+    "title": "Fundamentals of embedded software: where C and Assembly meet",
+    "quantity": 10
+  },
+  {
+    "isbn": "81-7758-263-1",
+    "title": "Mobile communications",
+    "quantity": 10
+  },
+  {
+    "isbn": "81-317-0113-1",
+    "title": "Security in computing",
+    "quantity": 5
+  },
+  {
+    "isbn": "81-317-0719-9",
+    "title": "Distributed systems: principles and paradigms",
+    "quantity": 10
+  },
+  {
+    "isbn": "81-297-0083-2",
+    "title": "Fundamentals of digital image processing",
+    "quantity": 10
+  },
+  {
+    "isbn": "81-203-1619-3",
+    "title": "Introduction to parallel processing",
+    "quantity": 10
+  },
+  {
+    "isbn": "81-315-0095-0",
+    "title": "Embedded C programming and the microchip PIC",
+    "quantity": 5
+  },
+  {
+    "isbn": "0-07-063414-9",
+    "title": "Data communications and networking",
+    "quantity": 10
+  },
+  {
+    "isbn": "0-07-060167-4",
+    "title": "Microprocessors and interfacing: programming and hardware",
+    "quantity": 10
+  },
+  {
+    "isbn": "0-07-058371-4",
+    "title": "Software engineering: principles and practice",
+    "quantity": 7
+  },
+  {
+    "isbn": "81-239-0874-1",
+    "title": "Theory of machines",
+    "quantity": 5
+  },
+  {
+    "isbn": "81-315-0180-9",
+    "quantity": 1,
+    "title": "8086 microprocessor: programming and interfacing the PC"
+  },
+  {
+    "isbn": "81-7758-568-1",
+    "title": "CMOS VLSI design: a circuits and systems perspective",
+    "quantity": 10
+  },
+  {
+    "isbn": "81-297-0519-2",
+    "title": "Electronic communications systems: fundamentals through advanced",
+    "quantity": 10
+  },
+  {
+    "isbn": "81-317-0314-2",
+    "title": "Electronic devices and circuit theory",
+    "quantity": 10
+  },
+  {
+    "isbn": "81-7808-162-8",
+    "quantity": 1,
+    "title": "Multimedia systems"
+  },
+  {
+    "isbn": "978-81-89866-64-8",
+    "title": "Applied physics- I",
+    "quantity": 10
+  },
+  {
+    "isbn": "978-81-7319-698-0",
+    "title": "Engineering physics",
+    "quantity": 10
+  },
+  {
+    "isbn": "978-81-7319-784-0",
+    "title": "Engineering chemistry: a textbook",
+    "quantity": 10
+  },
+  {
+    "isbn": "0-444-86027-4",
+    "quantity": 1,
+    "title": "Vaccum technology"
+  },
+  {
+    "isbn": "81-7319-473-4",
+    "title": "Operations research",
+    "quantity": 2
+  },
+  {
+    "isbn": "81-7319-658-3",
+    "title": "New engineering mathematics Volume- 1",
+    "quantity": 2
+  },
+  {
+    "isbn": "81-7319-659-1",
+    "title": "New engineering mathematics Volume- 2",
+    "quantity": 2
+  },
+  {
+    "isbn": "81-7319-660-5",
+    "title": "New engineering mathematics Volume- 3",
+    "quantity": 2
+  },
+  {
+    "isbn": "978-81-7319-712-3",
+    "title": "Electrical engineering materials",
+    "quantity": 2
+  },
+  {
+    "isbn": "81-7319-557-9",
+    "title": "Modern physics: concepts and applications",
+    "quantity": 2
+  },
+  {
+    "isbn": "978-81-7319-847-2",
+    "title": "Principles of modern physics",
+    "quantity": 2
+  },
+  {
+    "isbn": "978-81-7319-426-9",
+    "title": "Biophysics",
+    "quantity": 5
+  },
+  {
+    "isbn": "81-265-0823-X",
+    "title": "Fundamentals of physics: extended",
+    "quantity": 10
+  },
+  {
+    "isbn": "978-81-7319-817-5",
+    "title": "Introduction to microcontrollers and their applications",
+    "quantity": 2
+  },
+  {
+    "isbn": "978-81-7319-759-8",
+    "title": "Microprocessor microcomputer and their applications",
+    "quantity": 2
+  },
+  {
+    "isbn": "81-7319-554-4",
+    "title": "Control systems",
+    "quantity": 2
+  },
+  {
+    "isbn": "81-7319-480-7",
+    "title": "Electronic devices and circuits",
+    "quantity": 3
+  },
+  {
+    "isbn": "81-7319-679-6",
+    "title": "Electromagnetic field theory and wave propagation",
+    "quantity": 2
+  },
+  {
+    "isbn": "81-7319-687-7",
+    "title": "Electronics: circuits and analysis",
+    "quantity": 2
+  },
+  {
+    "isbn": "978-81-7319-724-6",
+    "title": "Modern digital processing: an introduction",
+    "quantity": 2
+  },
+  {
+    "isbn": "81-7319-179-4",
+    "title": "Introduction to data communications: a practical approach",
+    "quantity": 2
+  },
+  {
+    "isbn": "978-81-7319-834-2",
+    "title": "Java web development illuminated",
+    "quantity": 2
+  },
+  {
+    "isbn": "81-7319-616-8",
+    "title": "Introduction to cryptography with Java Applets",
+    "quantity": 2
+  },
+  {
+    "isbn": "978-81-7319-841-0",
+    "title": "Computer science illuminated",
+    "quantity": 2
+  },
+  {
+    "isbn": "81-7319-663-X",
+    "title": "Discrete structures and automata theory",
+    "quantity": 2
+  },
+  {
+    "isbn": "81-7319-562-5",
+    "title": "Discrete structures, logic and computability",
+    "quantity": 2
+  },
+  {
+    "isbn": "81-7319-674-5",
+    "title": "Foundations of algorithms using C++ pseudocode",
+    "quantity": 2
+  },
+  {
+    "isbn": "8130903091",
+    "title": "Handbook of communications systems management",
+    "quantity": 2
+  },
+  {
+    "isbn": "818743354X",
+    "title": "Strength of materials",
+    "quantity": 10
+  },
+  {
+    "isbn": "9.78E+11",
+    "title": "Principles of cell biology",
+    "quantity": 32
+  },
+  {
+    "isbn": "8130903067",
+    "title": "Handbook of electronic messaging",
+    "quantity": 2
+  },
+  {
+    "isbn": "8176490970",
+    "title": "Handbook of technology management",
+    "quantity": 2
+  },
+  {
+    "isbn": "8130903083",
+    "title": "Handbook of data management",
+    "quantity": 2
+  },
+  {
+    "isbn": "0-1430-6302-2",
+    "quantity": 1,
+    "title": "Dorling kindersley illustrated family encyclopedia"
+  },
+  {
+    "isbn": "81-309-0975-8",
+    "title": "JavaServer pages illuminated",
+    "quantity": 2
+  },
+  {
+    "isbn": "81-309-0976-6",
+    "title": "Computer networking illuminated",
+    "quantity": 2
+  },
+  {
+    "isbn": "81-309-0972-3",
+    "title": "Managing software projects",
+    "quantity": 2
+  },
+  {
+    "isbn": "81-309-0974-X",
+    "title": "Generating software from specifications",
+    "quantity": 2
+  },
+  {
+    "isbn": "81-309-0973-1",
+    "title": "C# Net illuminated",
+    "quantity": 2
+  },
+  {
+    "isbn": "81-312-0841-9",
+    "title": "Digital signal processing: system level design using LabVIEW",
+    "quantity": 2
+  },
+  {
+    "isbn": "81-312-0842-7",
+    "title": "Implementing 80211 with microcontrollers: wireless networking for embedded systems designers",
+    "quantity": 2
+  },
+  {
+    "isbn": "81-7867-268-5",
+    "title": "Digital logic design",
+    "quantity": 3
+  },
+  {
+    "isbn": "81-312-0810-9",
+    "quantity": 1,
+    "title": "Modern recording techniques"
+  },
+  {
+    "isbn": "81-312-0837-0",
+    "title": "Embedded multitasking",
+    "quantity": 2
+  },
+  {
+    "isbn": "81-312-0835-4",
+    "quantity": 1,
+    "title": "Data conversion handbook"
+  },
+  {
+    "isbn": "81-312-0839-7",
+    "title": "Fibre optic essentials",
+    "quantity": 2
+  },
+  {
+    "isbn": "81-224-2009-5",
+    "title": "Nanomaterials",
+    "quantity": 2
+  },
+  {
+    "isbn": "81-224-1996-8",
+    "title": "Liquid crystals: nature's delicate phase of matter",
+    "quantity": 2
+  },
+  {
+    "isbn": "81-224-0324-7",
+    "title": "Lasers and non-linear optics",
+    "quantity": 2
+  },
+  {
+    "isbn": "81-224-0871-0",
+    "title": "Science of engineering materials",
+    "quantity": 2
+  },
+  {
+    "isbn": "81-224-0469-3",
+    "title": "Fundamentals of fibre optics in telecommunication and sensor systems",
+    "quantity": 2
+  },
+  {
+    "isbn": "978-0-07-066033-5",
+    "quantity": 1,
+    "title": "Complete chemistry for All India Engineering Entrance Examination (AIEEE) 2008"
+  },
+  {
+    "isbn": "8177583255",
+    "title": "Calculus and analytic geometry",
+    "quantity": 5
+  },
+  {
+    "isbn": "8131501728",
+    "title": "Linear algebra and its applications",
+    "quantity": 5
+  },
+  {
+    "isbn": "8177583565",
+    "title": "Probability and random processes with applications to signal processing",
+    "quantity": 5
+  },
+  {
+    "isbn": "8177581848",
+    "title": "Miller and Freund's probability and statistics for engineers",
+    "quantity": 5
+  },
+  {
+    "isbn": "8131711242",
+    "title": "Advanced modern engineering mathematics",
+    "quantity": 5
+  },
+  {
+    "isbn": "8126509864",
+    "title": "Algorithm design: foundations, analysis and internet examples",
+    "quantity": 10
+  },
+  {
+    "isbn": "8126509147",
+    "title": "Digital and analog communication systems",
+    "quantity": 15
+  },
+  {
+    "isbn": "8126511036",
+    "title": "Circuit devices and systems",
+    "quantity": 9
+  },
+  {
+    "isbn": "8122420678",
+    "title": "Practical approach to data structures and algorithms",
+    "quantity": 10
+  },
+  {
+    "isbn": "8126511982",
+    "title": "Computer architecture and organisation: an integrated approach",
+    "quantity": 10
+  },
+  {
+    "isbn": "981253220X",
+    "title": "Digital design",
+    "quantity": 8
+  },
+  {
+    "isbn": "8177587633",
+    "title": "Digital fundamentals",
+    "quantity": 12
+  },
+  {
+    "isbn": "8131703886",
+    "title": "Electromagnetic waves and radiating systems",
+    "quantity": 2
+  },
+  {
+    "isbn": "70647755",
+    "title": "Fundamentals of digital logic design with VHDL",
+    "quantity": 2
+  },
+  {
+    "isbn": "8131712117",
+    "title": "Elements of electronic instrumentation and measurement",
+    "quantity": 2
+  },
+  {
+    "isbn": "8131500438",
+    "title": "Fundamentals of logic design",
+    "quantity": 2
+  },
+  {
+    "isbn": "981253038X",
+    "quantity": 1,
+    "title": "Instrumentation for engineering measurements"
+  },
+  {
+    "isbn": "8131708888",
+    "title": "Modern electronic instrumentation and measurement techniques",
+    "quantity": 12
+  },
+  {
+    "isbn": "81-8501-80-5",
+    "quantity": 1,
+    "title": "University chemistry"
+  },
+  {
+    "isbn": "81-7319-202-2",
+    "quantity": 1,
+    "title": "Science and technology of ultrasonics"
+  },
+  {
+    "isbn": "978-81-7319-874-8",
+    "quantity": 1,
+    "title": "Applied mathematics"
+  },
+  {
+    "isbn": "81-85015-63-5",
+    "quantity": 1,
+    "title": "University physics"
+  },
+  {
+    "isbn": "978-81-7319-630-0",
+    "quantity": 1,
+    "title": "Atoms, molecules and lasers"
+  },
+  {
+    "isbn": "978-81-85015-82-8",
+    "quantity": 1,
+    "title": "Feynman lectures on physics volume 1: mechanics radiation and heat"
+  },
+  {
+    "isbn": "81-85015-83-X",
+    "quantity": 1,
+    "title": "Feynman lectures on physics volume 2: electromagnetism and matter"
+  },
+  {
+    "isbn": "978-81-85015-84-2",
+    "quantity": 1,
+    "title": "Feynman lectures on physics volume 3: quantum mechanics"
+  },
+  {
+    "isbn": "978-81-7319-733-8",
+    "title": "Fuzzy logic and its application in technology and management",
+    "quantity": 3
+  },
+  {
+    "isbn": "978-81-7319-631-7",
+    "title": "Classical mechanics",
+    "quantity": 3
+  },
+  {
+    "isbn": "81-7319-389-4",
+    "title": "Engineering graphics",
+    "quantity": 3
+  },
+  {
+    "isbn": "978-81-7319-681-2",
+    "quantity": 1,
+    "title": "Analytical chemistry of macrocyclic and supramolecular compounds"
+  },
+  {
+    "isbn": "978-81-7319-828-1",
+    "quantity": 1,
+    "title": "Advanced methods of mathematical physics"
+  },
+  {
+    "isbn": "978-81-7319-523-5",
+    "title": "Green chemistry: environment friendly alternatives",
+    "quantity": 2
+  },
+  {
+    "isbn": "81-85015-96-1",
+    "title": "Introduction to automata theory, languages, and computation",
+    "quantity": 5
+  },
+  {
+    "isbn": "81-85015-61-9",
+    "title": "Principles of compiler design",
+    "quantity": 2
+  },
+  {
+    "isbn": "978-81-7319-713-0",
+    "title": "Discrete mathematical structures for computer scientists and engineers",
+    "quantity": 2
+  },
+  {
+    "isbn": "978-81-7319-781-9",
+    "title": "Introduction to formal languages and automata",
+    "quantity": 2
+  },
+  {
+    "isbn": "81-85198-29-2",
+    "title": "Principles of artificial intelligence",
+    "quantity": 2
+  },
+  {
+    "isbn": "81-7319-626-5",
+    "quantity": 1,
+    "title": "Biomaterials"
+  },
+  {
+    "isbn": "97881-256-0969-0",
+    "title": "Begning Ajax With ASPNET",
+    "quantity": 2
+  },
+  {
+    "isbn": "978-81-265-1571-4",
+    "title": "Begning linux programming",
+    "quantity": 2
+  },
+  {
+    "isbn": "978-81-265-1663-6",
+    "title": "Beginning Microsoft Visual Basic 2008",
+    "quantity": 2
+  },
+  {
+    "isbn": "978-81-265-0621-7",
+    "title": "Beginning Python",
+    "quantity": 2
+  },
+  {
+    "isbn": "978-81-265-0920-1",
+    "title": "Big C++",
+    "quantity": 2
+  },
+  {
+    "isbn": "978-81-265-1369-9",
+    "title": "Bioinstrumentation",
+    "quantity": 2
+  },
+  {
+    "isbn": "978-81-265-1260-7",
+    "title": "Data structure and algorithms in C++",
+    "quantity": 2
+  },
+  {
+    "isbn": "978-81-7722-461-0",
+    "title": "Embedded realtime systems: Concepts design and programming: Black Book",
+    "quantity": 15
+  },
+  {
+    "isbn": "978-81-265-1525-7",
+    "title": "Fields And Waves In Communication Electronics",
+    "quantity": 2
+  },
+  {
+    "isbn": "978-81-265-1528-8",
+    "title": "Foundations for microwave engineering",
+    "quantity": 2
+  },
+  {
+    "isbn": "978-0-470-86267-X",
+    "quantity": 1,
+    "title": "Fundamentals of Cellular Network Planning and Optimisation : 2G/2-SG/3GEvolution To 4G"
+  },
+  {
+    "isbn": "978-81-265-1099-3",
+    "quantity": 1,
+    "title": "Introduction to nanotechnology"
+  },
+  {
+    "isbn": "978-81-265-0682-8",
+    "quantity": 1,
+    "title": "LPIC-1 : Linux Professional Institute CertificationStudy Guide"
+  },
+  {
+    "isbn": "978-81-265-1394-2",
+    "quantity": 1,
+    "title": "Matlab : An Introduction With applications"
+  },
+  {
+    "isbn": "978-1-4020-7373-1",
+    "quantity": 1,
+    "title": "Microstrip Patch antennas : A Designer's Guide"
+  },
+  {
+    "isbn": "978-81-265-0767-2",
+    "title": "Mobile Satellite Communication Networks",
+    "quantity": 2
+  },
+  {
+    "isbn": "978-0-7506-3447-2",
+    "quantity": 1,
+    "title": "Practical Radio-Frequency Handbook"
+  },
+  {
+    "isbn": "978-81-265-0669-9",
+    "title": "Professional ASPNET 20",
+    "quantity": 2
+  },
+  {
+    "isbn": "978-81-265-1622-3",
+    "title": "Professional ASPNET 35 In C# and VB",
+    "quantity": 2
+  },
+  {
+    "isbn": "978-81-265-1204-1",
+    "quantity": 1,
+    "title": "Professional Linux Programming"
+  },
+  {
+    "isbn": "978-81-5265-0563-0",
+    "quantity": 1,
+    "title": "Professional PHP5"
+  },
+  {
+    "isbn": "978-81-265-1665-0",
+    "title": "Professional Visual Basic 2008",
+    "quantity": 2
+  },
+  {
+    "isbn": "978-81-265-0833-4",
+    "quantity": 1,
+    "title": "Satillite Communications"
+  },
+  {
+    "isbn": "978-81-265-0835-8",
+    "title": "Software Engineering Project Management",
+    "quantity": 2
+  },
+  {
+    "isbn": "978-81-7722-639-3",
+    "quantity": 1,
+    "title": "SQL Server 2005 : Reporting Services Black Book"
+  },
+  {
+    "isbn": "978-81-7722-109-1",
+    "quantity": 1,
+    "title": "Software Project Management : From Concept To Development Black Book"
+  },
+  {
+    "isbn": "978-0-7506-6082-2",
+    "quantity": 1,
+    "title": "UTMS Network Planning And Development : Design And Implementation Of The 3G CDMA Infrastructure"
+  },
+  {
+    "isbn": "978-81-265-1362",
+    "title": "Visual Basic Project 2005",
+    "quantity": 2
+  },
+  {
+    "isbn": "978-0471-48687-9",
+    "quantity": 1,
+    "title": "WCDMA For UMTS : Radio Access For Third Generation Mobile Communications"
+  },
+  {
+    "isbn": "978-81-265-1560-8",
+    "title": "Wireless and mobile network architectures",
+    "quantity": 2
+  },
+  {
+    "isbn": "978-81-265-1056-6",
+    "title": "Wireless Communications",
+    "quantity": 17
+  },
+  {
+    "isbn": "978-81-265-1678-0",
+    "quantity": 1,
+    "title": "XSLT 20 And Xpath 20 : Programmer's Reference"
+  },
+  {
+    "isbn": "978-81-7722-740-6",
+    "title": "Net Programming (Visual Studio 2005) Covering C#2005, Visual Basic 2005 ASPNET And Net Framework:Black Book",
+    "quantity": 2
+  },
+  {
+    "isbn": "978-81-265-1304-8",
+    "title": "Beginning Java Script",
+    "quantity": 2
+  },
+  {
+    "isbn": "978-81-265-1697-1",
+    "title": "Beginning web programming with HTML,XHTML and CSS",
+    "quantity": 2
+  },
+  {
+    "isbn": "978-81-265-0765-8",
+    "title": "Data Communications And Networks : An Engineering Approach",
+    "quantity": 2
+  },
+  {
+    "isbn": "978-81-265-0776-4",
+    "title": "Data Mining Methods And Models",
+    "quantity": 2
+  },
+  {
+    "isbn": "978-81-265-1288-1",
+    "title": "Developing Web Applications",
+    "quantity": 5
+  },
+  {
+    "isbn": "978-81-265-1469-4",
+    "title": "E-commerce: Fundamentals and applications",
+    "quantity": 18
+  },
+  {
+    "isbn": "978-81-7722-655-3",
+    "title": "Java 2 (JDK 5 edition) : AWT, Swing,Generics,XML,Sound,Animation,JDBC,Servlets,RMI,Threading,Sockets,Networking And Java Beans Programming: Black Book",
+    "quantity": 2
+  },
+  {
+    "isbn": "978-81-7722-736-9",
+    "title": "Java6 Programming : Black Book",
+    "quantity": 2
+  },
+  {
+    "isbn": "978-81-7722-837-3",
+    "title": "JDBC, Servlets And JSP(Includes JSF And Design Patterns): Black Book",
+    "quantity": 2
+  },
+  {
+    "isbn": "978-81-265-0793-4",
+    "title": "Professional  NET Framework 20",
+    "quantity": 2
+  },
+  {
+    "isbn": "978-81-265-1150-6",
+    "title": "Professional Java JDK",
+    "quantity": 2
+  },
+  {
+    "isbn": "978-81-265-1225-6",
+    "title": "Professional XML",
+    "quantity": 2
+  },
+  {
+    "isbn": "978-81-265-1491-5",
+    "title": "VB Script Programmer's Reference",
+    "quantity": 2
+  },
+  {
+    "isbn": "978-81-7722-609-6",
+    "title": "Visual BasicNet Programming : Black Book",
+    "quantity": 2
+  },
+  {
+    "isbn": "978-81-265-0803-7",
+    "title": "Web applications: Concepts and real world design",
+    "quantity": 5
+  },
+  {
+    "isbn": "978-81-265-0821-1",
+    "title": "Algorithms for VSLI design automation",
+    "quantity": 2
+  },
+  {
+    "isbn": "978-81-265-1569-1",
+    "title": "Analysis and design of analog integrated circuits",
+    "quantity": 2
+  },
+  {
+    "isbn": "978-81-265-1470-0",
+    "title": "Basic Engineering Circuit Analysis",
+    "quantity": 2
+  },
+  {
+    "isbn": "978-81-265-1258-4",
+    "title": "Digital logic design principles",
+    "quantity": 15
+  },
+  {
+    "isbn": "978-81-265-1390-x",
+    "title": "Digital speech : Coding for low bit rate communications systems",
+    "quantity": 2
+  },
+  {
+    "isbn": "978-81-265-1090-0",
+    "title": "Power Electronics : Converts, Applications, And Design",
+    "quantity": 2
+  },
+  {
+    "isbn": "978-81-265-0822-8",
+    "title": "Speach And Audio Signal Processing : Processing And Perception Of Speech And Music",
+    "quantity": 2
+  },
+  {
+    "isbn": "978-81-265-1664-3",
+    "title": "Beginning Microsoft Visual C# 2008",
+    "quantity": 2
+  },
+  {
+    "isbn": "978-81-265-0581-4",
+    "title": "Beginning SQL Server 2005 Administration",
+    "quantity": 4
+  },
+  {
+    "isbn": "978812650563x",
+    "title": "Professional PHP 5",
+    "quantity": 2
+  },
+  {
+    "isbn": "9.88E+12",
+    "quantity": 1,
+    "title": "Satellite Communications"
+  },
+  {
+    "isbn": "8188152153",
+    "quantity": 1,
+    "title": "Electronic Project Vol 20"
+  },
+  {
+    "isbn": "8188152161",
+    "quantity": 1,
+    "title": "Electronic Project Vol 21"
+  },
+  {
+    "isbn": "97812531947",
+    "quantity": 1,
+    "title": "Antenna theory and design"
+  },
+  {
+    "isbn": "9.79E+13",
+    "title": "Fundamentals of machining and machine tools",
+    "quantity": 40
+  },
+  {
+    "isbn": "9.79E+11",
+    "title": "Fundamentals of computer security",
+    "quantity": 80
+  },
+  {
+    "isbn": "978812651101X",
+    "title": "Principles of electric machines and power electronics",
+    "quantity": 2
+  },
+  {
+    "isbn": "978007465751-7",
+    "title": "Effective english communication",
+    "quantity": 20
+  },
+  {
+    "isbn": "8189866133",
+    "title": "Applied physics- II",
+    "quantity": 20
+  },
+  {
+    "isbn": "9.71E+12",
+    "title": "Design of microprocessor based systems",
+    "quantity": 5
+  },
+  {
+    "isbn": "70146071",
+    "title": "Data structures with java",
+    "quantity": 17
+  },
+  {
+    "isbn": "9971511835",
+    "title": "Principles of unit operations",
+    "quantity": 6
+  },
+  {
+    "isbn": "007-124710-6",
+    "title": "Unit operations of chemical engineering",
+    "quantity": 3
+  },
+  {
+    "isbn": "0-07-066615-6",
+    "title": "Mass transfer operations",
+    "quantity": 2
+  },
+  {
+    "isbn": "8126504420",
+    "title": "Java programming with CORBA :advanced techniques for building distributed applications",
+    "quantity": 10
+  },
+  {
+    "isbn": "817833044X",
+    "title": "Modern technology of pulp paper and paper conversion industries",
+    "quantity": 16
+  },
+  {
+    "isbn": "8178330431",
+    "title": "Complete technology book on pulp and paper industries",
+    "quantity": 16
+  },
+  {
+    "isbn": "8178330768",
+    "title": "Polymers and plastics technology handbook",
+    "quantity": 38
+  },
+  {
+    "isbn": "1569903638",
+    "title": "Extrusion control: Machine process product",
+    "quantity": 2
+  },
+  {
+    "isbn": "8178330520",
+    "title": "Complete book on printing technology",
+    "quantity": 22
+  },
+  {
+    "isbn": "8178330822",
+    "title": "Modern technology of printing and writing inks",
+    "quantity": 16
+  },
+  {
+    "isbn": "8178330482",
+    "title": "Complete technology book on printing inks",
+    "quantity": 21
+  },
+  {
+    "isbn": "8178330539",
+    "title": "Screen printing technology handbook",
+    "quantity": 21
+  },
+  {
+    "isbn": "8186623221",
+    "title": "Modern printing technology",
+    "quantity": 26
+  },
+  {
+    "isbn": "8172247680",
+    "quantity": 1,
+    "title": "Handbook of environmental health and safety Vol1"
+  },
+  {
+    "isbn": "185617431X",
+    "quantity": 1,
+    "title": "Plastic product material and process selection handbook"
+  },
+  {
+    "isbn": "076682232X",
+    "quantity": 1,
+    "title": "Printing technology"
+  },
+  {
+    "isbn": "751401676",
+    "title": "Packaging of pharmaceuticals and healthcare products",
+    "quantity": 2
+  },
+  {
+    "isbn": "824707087",
+    "quantity": 1,
+    "title": "Handbook of plastics analysis"
+  },
+  {
+    "isbn": "8178330776",
+    "title": "Modern technology of plastic and polymer processing industries",
+    "quantity": 13
+  },
+  {
+    "isbn": "1884207979",
+    "quantity": 1,
+    "title": "Permeability properties of plastics and elastomers: A guide to packaging and barrier materials"
+  },
+  {
+    "isbn": "1884207944",
+    "quantity": 1,
+    "title": "Film properties of plastics and elastomers: A guide to non-wovens in packaging applications"
+  },
+  {
+    "isbn": "1859575277",
+    "quantity": 1,
+    "title": "Assessing food safety of polymer packaging"
+  },
+  {
+    "isbn": "1930268270",
+    "quantity": 1,
+    "title": "Illustrated glossary of packaging terminology"
+  },
+  {
+    "isbn": "1930268289",
+    "quantity": 1,
+    "title": "Fundamentals of packaging technology"
+  },
+  {
+    "isbn": "8180521419",
+    "title": "Industrial biotechnology",
+    "quantity": 3
+  },
+  {
+    "isbn": "8180521583",
+    "title": "Instant biochemistry",
+    "quantity": 5
+  },
+  {
+    "isbn": "1555811787",
+    "quantity": 1,
+    "title": "Biotechnology explorations: Applying the fundamentals"
+  },
+  {
+    "isbn": "812391542X",
+    "title": "Biotechnology: Science for the new millennium",
+    "quantity": 3
+  },
+  {
+    "isbn": "8123910878",
+    "quantity": 1,
+    "title": "Microbiology and biotechnology for sustainable development"
+  },
+  {
+    "isbn": "123116325",
+    "title": "Innovations in food packaging",
+    "quantity": 2
+  },
+  {
+    "isbn": "1855737418",
+    "quantity": 1,
+    "title": "Adhesive bonding: Science, technology and applications"
+  },
+  {
+    "isbn": "8180940446",
+    "title": "Science and technology of printing materials",
+    "quantity": 8
+  },
+  {
+    "isbn": "81-297-0004-2",
+    "title": "Microwave devices and circuits",
+    "quantity": 2
+  },
+  {
+    "isbn": "978-81-265-0819-8",
+    "title": "Antenna theory and design",
+    "quantity": 2
+  },
+  {
+    "isbn": "8175543531",
+    "title": "Retailing logistics and fresh food packaging: Managing change in the supply chain",
+    "quantity": 6
+  },
+  {
+    "isbn": "749419881",
+    "quantity": 1,
+    "title": "Packaging as an effective marketing tool"
+  },
+  {
+    "isbn": "2940361673",
+    "quantity": 1,
+    "title": "Colour management for packaging"
+  },
+  {
+    "isbn": "2888931362",
+    "quantity": 1,
+    "title": "Print formats and finishes: Designer illustrated guide to brochures, catalogs, bags, labels, packaging and promotion"
+  },
+  {
+    "isbn": "1592536034",
+    "quantity": 1,
+    "title": "Packaging essentials: 100 design principles for creating packages"
+  },
+  {
+    "isbn": "849370396",
+    "quantity": 1,
+    "title": "Plastrics technology handbook"
+  },
+  {
+    "isbn": "8131403769",
+    "quantity": 1,
+    "title": "Product and packaging design"
+  },
+  {
+    "isbn": "471231517",
+    "quantity": 1,
+    "title": "Industrial design of plastics products"
+  },
+  {
+    "isbn": "471139068",
+    "quantity": 1,
+    "title": "Coloring of plastics: Funadamentals"
+  },
+  {
+    "isbn": "8173712247",
+    "quantity": 1,
+    "title": "Tricky business letters: Persuasive tactics on paper"
+  },
+  {
+    "isbn": "333918339",
+    "title": "Solid state physics",
+    "quantity": 11
+  },
+  {
+    "isbn": "1403932069",
+    "quantity": 1,
+    "title": "Good grief good grammar"
+  },
+  {
+    "isbn": "1403911134",
+    "quantity": 1,
+    "title": "Effective english for engineering students"
+  },
+  {
+    "isbn": "8173715068",
+    "quantity": 1,
+    "title": "College practical chemistry"
+  },
+  {
+    "isbn": "333925548",
+    "quantity": 1,
+    "title": "Statistical methods in business and social sciences"
+  },
+  {
+    "isbn": "230636608",
+    "quantity": 1,
+    "title": "Elements of numerical analysis"
+  },
+  {
+    "isbn": "230638856",
+    "quantity": 1,
+    "title": "Operations research"
+  },
+  {
+    "isbn": "023063625X",
+    "quantity": 1,
+    "title": "Quick solutions to common errors in english"
+  },
+  {
+    "isbn": "230632971",
+    "quantity": 1,
+    "title": "Business communication"
+  },
+  {
+    "isbn": "8173712395",
+    "quantity": 1,
+    "title": "Introduction to metallurgy"
+  },
+  {
+    "isbn": "8173715947",
+    "quantity": 1,
+    "title": "Chemical process calculations"
+  },
+  {
+    "isbn": "8173715432",
+    "quantity": 1,
+    "title": "Engineering mechanics"
+  },
+  {
+    "isbn": "817371388X",
+    "quantity": 1,
+    "title": "Thermodynamics"
+  },
+  {
+    "isbn": "8173716102",
+    "title": "Compendium of e governance initiatives in India",
+    "quantity": 5
+  },
+  {
+    "isbn": "8173715963",
+    "quantity": 1,
+    "title": "E governance: Case studies"
+  },
+  {
+    "isbn": "230328873",
+    "quantity": 1,
+    "title": "Step ahead: Complete guide to mastering computer"
+  },
+  {
+    "isbn": "1403910332",
+    "quantity": 1,
+    "title": "Programming and problem solving through C language"
+  },
+  {
+    "isbn": "817371391X",
+    "quantity": 1,
+    "title": "Natural language processing and knowledge representation: Language for knowledge and knowledge for language"
+  },
+  {
+    "isbn": "8173715238",
+    "quantity": 1,
+    "title": "Data structures algorithms and applications in java"
+  },
+  {
+    "isbn": "8173716129",
+    "title": "Fundamentals of computer algorithms",
+    "quantity": 6
+  },
+  {
+    "isbn": "1403927456",
+    "quantity": 1,
+    "title": "Textbook of enterprise resource planning"
+  },
+  {
+    "isbn": "1403930880",
+    "quantity": 1,
+    "title": "Network security: A hackers perspective"
+  },
+  {
+    "isbn": "1403928509",
+    "quantity": 1,
+    "title": "Ethical guide to hacking mobile phones"
+  },
+  {
+    "isbn": "70454825",
+    "quantity": 1,
+    "title": "McGraw Hill concise encyclopedia of science and technology"
+  },
+  {
+    "isbn": "02303308X",
+    "quantity": 1,
+    "title": "From Galileo to gell mann"
+  },
+  {
+    "isbn": "230328717",
+    "quantity": 1,
+    "title": "Quantitative methods: Theory and applications"
+  },
+  {
+    "isbn": "70704821",
+    "quantity": 1,
+    "title": "How to prepare for verbal ability and reading comprehension for the CAT"
+  },
+  {
+    "isbn": "230330606",
+    "quantity": 1,
+    "title": "Macmillans general knowledge manual 2011"
+  },
+  {
+    "isbn": "1403924740",
+    "quantity": 1,
+    "title": "Verbal and non verbal reasoning"
+  },
+  {
+    "isbn": "8121905516",
+    "title": "Modern approach to verbal and non verbal reasoning",
+    "quantity": 21
+  },
+  {
+    "isbn": "333926595",
+    "quantity": 1,
+    "title": "Digital electronics: Principles and practice"
+  },
+  {
+    "isbn": "1403929521",
+    "quantity": 1,
+    "title": "Textbook of operational amplifier and linear integrated circuits"
+  },
+  {
+    "isbn": "1441923500",
+    "quantity": 1,
+    "title": "Healthcare information management systems"
+  },
+  {
+    "isbn": "471498297",
+    "quantity": 1,
+    "title": "UMTS mobile communications for the future"
+  },
+  {
+    "isbn": "470018224",
+    "quantity": 1,
+    "title": "Communication systems: Fundamentals and design methods"
+  },
+  {
+    "isbn": "470866942",
+    "quantity": 1,
+    "title": "GSM GPRS and edge performance: Evolution towards 3G/UMTS"
+  },
+  {
+    "isbn": "470849495",
+    "quantity": 1,
+    "title": "Wireless data technologies"
+  },
+  {
+    "isbn": "471387258",
+    "quantity": 1,
+    "title": "Cellular radio handbook: A reference for cellular system operation"
+  },
+  {
+    "isbn": "121197921",
+    "quantity": 1,
+    "title": "Handbook of image and video processing"
+  },
+  {
+    "isbn": "632055324",
+    "quantity": 1,
+    "title": "Technology of reduced additive foods"
+  },
+  {
+    "isbn": "1841271160",
+    "quantity": 1,
+    "title": "Materials and development of plastics packaging for the consumer market"
+  },
+  {
+    "isbn": "70146802",
+    "title": "Business communication : Making connections in a digital world",
+    "quantity": 9
+  },
+  {
+    "isbn": "978-0750657594",
+    "quantity": 1,
+    "title": "8051 Microcontrollers: An applications based introduction"
+  },
+  {
+    "isbn": "3446228489",
+    "quantity": 1,
+    "title": "Thermoplastic foam extrusion: An introduction"
+  },
+  {
+    "isbn": "3446217665",
+    "quantity": 1,
+    "title": "Troubleshooting the extrusion process: A systematic approach to solving plastic extrusion problems"
+  },
+  {
+    "isbn": "3446226745",
+    "title": "Design formulas for plastics engineers",
+    "quantity": 2
+  },
+  {
+    "isbn": "849305853",
+    "title": "Composites manufacturing: Materials, product, and process engineering",
+    "quantity": 5
+  },
+  {
+    "isbn": "71004726",
+    "title": "Computer graphics: A programming approach",
+    "quantity": 5
+  },
+  {
+    "isbn": "195686772",
+    "title": "Mobile computing",
+    "quantity": 5
+  },
+  {
+    "isbn": "978-0-14306596-8",
+    "quantity": 1,
+    "title": "Whitaker's World of Fact"
+  },
+  {
+    "isbn": "8120301455",
+    "quantity": 1,
+    "title": "Graph theory with application to engineering and computer science"
+  },
+  {
+    "isbn": "74630067",
+    "title": "Introduction to physical metallurgy",
+    "quantity": 6
+  },
+  {
+    "isbn": "70992193",
+    "title": "Introduction to solids",
+    "quantity": 4
+  },
+  {
+    "isbn": "70667187",
+    "title": "Food microbiology",
+    "quantity": 6
+  },
+  {
+    "isbn": "8183550207",
+    "quantity": 1,
+    "title": "GATE 2012: Electronics and communication engineering"
+  },
+  {
+    "isbn": "8183550223",
+    "quantity": 1,
+    "title": "GATE 2012: Computer science and information technology"
+  },
+  {
+    "isbn": "70668809",
+    "quantity": 1,
+    "title": "Digital control and state variable methods: Conventional and intelligent control systems"
+  },
+  {
+    "isbn": "70964432",
+    "title": "Production technology",
+    "quantity": 17
+  },
+  {
+    "isbn": "71069674",
+    "title": "Heat transfer",
+    "quantity": 10
+  },
+  {
+    "isbn": "70669112",
+    "title": "Modern digital electronics",
+    "quantity": 26
+  },
+  {
+    "isbn": "849374758",
+    "quantity": 1,
+    "title": "Software testing: A craftsmans approach"
+  },
+  {
+    "isbn": "70680736",
+    "title": "Jigs and fixtures",
+    "quantity": 12
+  },
+  {
+    "isbn": "70621055",
+    "quantity": 1,
+    "title": "Project management handbook"
+  },
+  {
+    "isbn": "71289399",
+    "quantity": 1,
+    "title": "Organizational behavior: An evidence based approach"
+  },
+  {
+    "isbn": "8126509406",
+    "title": "Project management: Core textbook",
+    "quantity": 6
+  },
+  {
+    "isbn": "70495394",
+    "title": "Wastewater engineering: Treatment and reuse",
+    "quantity": 5
+  },
+  {
+    "isbn": "70187754",
+    "quantity": 1,
+    "title": "Effective business communication"
+  },
+  {
+    "isbn": "70260621",
+    "title": "Engineering thermodynamics",
+    "quantity": 9
+  },
+  {
+    "isbn": "70700338",
+    "title": "Strength of materials",
+    "quantity": 4
+  },
+  {
+    "isbn": "8178001128",
+    "quantity": 1,
+    "title": "Textbook of remote sensing and geographical information systems"
+  },
+  {
+    "isbn": "70616809",
+    "quantity": 1,
+    "title": "Engineering mechanics"
+  },
+  {
+    "isbn": "70702411",
+    "quantity": 1,
+    "title": "Theory of elastic stability"
+  },
+  {
+    "isbn": "8131504352",
+    "quantity": 1,
+    "title": "Personality development"
+  },
+  {
+    "isbn": "8173713944",
+    "quantity": 1,
+    "title": "Global electronic commerce: Theory and case studies"
+  },
+  {
+    "isbn": "70707022",
+    "title": "Turbines compressors and fans",
+    "quantity": 9
+  },
+  {
+    "isbn": "8185617813",
+    "title": "Workshop technology: Part II",
+    "quantity": 3
+  },
+  {
+    "isbn": "8185099146",
+    "quantity": 1,
+    "title": "Elements of workshop technology VolI: Manufacturing processes"
+  },
+  {
+    "isbn": "8185099154",
+    "title": "Elements of workshop technology Vol II: Machine tools",
+    "quantity": 2
+  },
+  {
+    "isbn": "198070772",
+    "title": "Machine drawing: Includes AutoCAD supplements",
+    "quantity": 5
+  },
+  {
+    "isbn": "70648379",
+    "quantity": 1,
+    "title": "Engineering drawing with an introduction to AutoCAD"
+  },
+  {
+    "isbn": "8121906547",
+    "title": "Steam tables with mollier diagram in SI units",
+    "quantity": 80
+  },
+  {
+    "isbn": "8122414478",
+    "title": "Microwave active devices vacuum and solid state",
+    "quantity": 15
+  },
+  {
+    "isbn": "198066228",
+    "title": "Web technologies",
+    "quantity": 10
+  },
+  {
+    "isbn": "8122412157",
+    "title": "Introductory course on theory and practice of mechanical vibrations",
+    "quantity": 10
+  },
+  {
+    "isbn": "8121902819",
+    "title": "Operations research",
+    "quantity": 5
+  },
+  {
+    "isbn": "8121912466",
+    "title": "Mathematical statistics",
+    "quantity": 15
+  },
+  {
+    "isbn": "8178330350",
+    "title": "Complete book on plastics and polymers: Recent developments, properties, analysis, maerials and processes",
+    "quantity": 10
+  },
+  {
+    "isbn": "8178330377",
+    "title": "Paints pigments varnishes and enamels technology handbook",
+    "quantity": 20
+  },
+  {
+    "isbn": "8178330148",
+    "title": "Complete book on adhesives glues and resins technology",
+    "quantity": 15
+  },
+  {
+    "isbn": "8178330873",
+    "title": "Handbook on printing technology: Offset flexo gravure screen",
+    "quantity": 25
+  },
+  {
+    "isbn": "8186623078",
+    "title": "Detailed project profiles on hi tech plastic products",
+    "quantity": 5
+  },
+  {
+    "isbn": "8186623531",
+    "title": "Handbook on biodegradable plastics: Eco friendly plastics",
+    "quantity": 17
+  },
+  {
+    "isbn": "8178330008",
+    "title": "Complete book on medical plastics",
+    "quantity": 10
+  },
+  {
+    "isbn": "8186623426",
+    "title": "Modern technology of plastic processing industries",
+    "quantity": 10
+  },
+  {
+    "isbn": "198085567",
+    "title": "Art and print production",
+    "quantity": 20
+  },
+  {
+    "isbn": "9788118742",
+    "title": "Electric circuits",
+    "quantity": 10
+  },
+  {
+    "isbn": "8121924405",
+    "title": "Textbook of electrical technology Vol1: Basic electrical engineering",
+    "quantity": 5
+  },
+  {
+    "isbn": "198096348",
+    "title": "Basic electrical and electronics engineering",
+    "quantity": 30
+  },
+  {
+    "isbn": "084931657x",
+    "quantity": 1,
+    "title": "Signal processing for mobile communications handbook"
+  },
+  {
+    "isbn": "471486671",
+    "quantity": 1,
+    "title": "Next generation network services"
+  },
+  {
+    "isbn": "849350913",
+    "quantity": 1,
+    "title": "Signal and image processing for remote sensing"
+  },
+  {
+    "isbn": "704733358",
+    "quantity": 1,
+    "title": "Basic radio and television"
+  },
+  {
+    "isbn": "9788105335",
+    "title": "E-commerce: Strategy technology and implementation",
+    "quantity": 7
+  },
+  {
+    "isbn": "333926242",
+    "quantity": 1,
+    "title": "Total project management: The Indian context"
+  },
+  {
+    "isbn": "812241835x",
+    "title": "Environmental pollution control engineering",
+    "quantity": 10
+  },
+  {
+    "isbn": "1855736756",
+    "quantity": 1,
+    "title": "Novel food packaging techniques"
+  },
+  {
+    "isbn": "60834099",
+    "quantity": 1,
+    "title": "Big book of business cards"
+  },
+  {
+    "isbn": "849308526",
+    "quantity": 1,
+    "title": "Food labelling"
+  },
+  {
+    "isbn": "8123910002",
+    "quantity": 1,
+    "title": "Handbook of plastic technology Vol I : Plastic processing operations"
+  },
+  {
+    "isbn": "8123910193",
+    "quantity": 1,
+    "title": "Handbook of plastic technology Vol 2 : Identification testing and recycling of plastics"
+  },
+  {
+    "isbn": "70656940",
+    "quantity": 1,
+    "title": "Adhesives and coatings technology"
+  },
+  {
+    "isbn": "1569903700",
+    "quantity": 1,
+    "title": "Design forumulas for plastics engineers"
+  },
+  {
+    "isbn": "9780748060",
+    "quantity": 1,
+    "title": "Cleanroom technology: Fundamentals of design testing and operation"
+  },
+  {
+    "isbn": "198082169",
+    "title": "Unix and shell programming",
+    "quantity": 15
+  },
+  {
+    "isbn": "007014589x",
+    "title": "Introduction to embedded systems",
+    "quantity": 10
+  },
+  {
+    "isbn": "007058950x",
+    "title": "Probability random variables and random processes (Schaums outlines theory and problems of)",
+    "quantity": 20
+  },
+  {
+    "isbn": "70707766",
+    "title": "Digital communication",
+    "quantity": 20
+  },
+  {
+    "isbn": "9339204425",
+    "title": "Contemporary communication systems",
+    "quantity": 20
+  },
+  {
+    "isbn": "7072039",
+    "title": "Operating systems",
+    "quantity": 30
+  },
+  {
+    "isbn": "70702446",
+    "title": "Power plant technology",
+    "quantity": 10
+  },
+  {
+    "isbn": "71078134",
+    "title": "Managing soft skills for personality development",
+    "quantity": 30
+  },
+  {
+    "isbn": "751400106",
+    "quantity": 1,
+    "title": "Aseptic processing and packaging of particulate foods"
+  },
+  {
+    "isbn": "9780834212374",
+    "quantity": 1,
+    "title": "Confectionery packaging equipment"
+  },
+  {
+    "isbn": "198060165",
+    "title": "Mechatronics: Integrated technologies forintelligent machines",
+    "quantity": 10
+  },
+  {
+    "isbn": "198086342",
+    "title": "Professional ethics",
+    "quantity": 10
+  },
+  {
+    "isbn": "198082878",
+    "title": "Principles of operating systems",
+    "quantity": 10
+  },
+  {
+    "isbn": "8123914822",
+    "title": "Bioinformatics: Concepts, skills and applications",
+    "quantity": 10
+  },
+  {
+    "isbn": "8187972319",
+    "title": "Engineering heat transfer",
+    "quantity": 12
+  },
+  {
+    "isbn": "8189757202",
+    "title": "Textbook of power plant engineering",
+    "quantity": 10
+  },
+  {
+    "isbn": "9783540781738",
+    "quantity": 1,
+    "title": "Product life cycle management"
+  },
+  {
+    "isbn": "1856174506",
+    "quantity": 1,
+    "title": "Reinforced plastics handbook"
+  },
+  {
+    "isbn": "3445132643",
+    "quantity": 1,
+    "title": "Polymer degradation: Principles and applications"
+  },
+  {
+    "isbn": "815513372",
+    "quantity": 1,
+    "title": "Handbook of deposition technologies for films and coatings: Science technology and applications"
+  },
+  {
+    "isbn": "815512651",
+    "quantity": 1,
+    "title": "Plastic wastes: Management control recycling and disposal"
+  },
+  {
+    "isbn": "471547166",
+    "quantity": 1,
+    "title": "Development of plastics processing machinery and methods"
+  },
+  {
+    "isbn": "9789389845426",
+    "title": "Machine learning for beginners",
+    "quantity": 5
+  }
+]
