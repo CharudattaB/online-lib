@@ -60,5 +60,5 @@ export async function GET(req: NextRequest, { params }: Params) {
     });
   }
 }
-export async function PATCH(response: NextRequest) {}
-export async function DELETE(response: NextRequest) {}
+// export async function PATCH(response: NextRequest) {}
+// export async function DELETE(response: NextRequest) {}

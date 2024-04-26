@@ -28,4 +28,4 @@ export async function GET(request: NextRequest) {
     genres,
   });
 }
-export async function POST(request: NextRequest) {}
+// export async function POST(request: NextRequest) {}

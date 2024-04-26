@@ -19,4 +19,4 @@ export async function GET() {
 
   return Response.json({ college });
 }
-export async function POST(request: NextRequest) {}
+// export async function POST(request: NextRequest) {}
