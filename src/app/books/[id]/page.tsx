@@ -13,9 +13,18 @@ import {
   TableFooter,
   Table,
 } from "@/components/ui/table";
-import { College, Resource, Stock } from "@prisma/client";
-import { useQuery } from "@tanstack/react-query";
+import { useToast } from "@/components/ui/use-toast";
+import {
+  College,
+  Resource,
+  Stock,
+  StockAllocation,
+  StockAllocationHistory,
+  StockAllocationStatus,
+} from "@prisma/client";
+import { useMutation, useQuery } from "@tanstack/react-query";
 import { useParams } from "next/navigation";
+import { title } from "process";
 import { Book2 } from "tabler-icons-react";
 
 const availableList = [
@@ -35,14 +44,40 @@ const availableList = [
 
 const Page = () => {
   const { id } = useParams<{ id: string }>();
-
-  const { data, isLoading } = useQuery({
+  const { toast } = useToast();
+  const { data, isLoading, refetch } = useQuery({
     queryKey: ["books", id],
     queryFn: async () => {
       const res = await fetch("/api/resources/" + id);
       return res.json() as Promise<{
-        resource: Resource & { stock: Array<Stock & { college: College }> };
+        resource: Resource & {
+          stockHistory: Array<StockAllocation>;
+          stock: Array<Stock & { college: College }>;
+        };
       }>;
+    },
+  });
+
+  const { mutate, isPending } = useMutation({
+    mutationKey: ["books/register", id],
+    mutationFn: async (id: string) => {
+      // post to /api/resources/:id/register
+      const res = await fetch("/api/resources/" + id + "/actions/register", {
+        method: "POST",
+        headers: {
+          Accept: "application/json",
+          "Content-Type": "application/json",
+        },
+        body: "{}",
+      });
+      return res.json();
+    },
+    onSuccess: () => {
+      toast({
+        title: "Book Reserved",
+        description: "Collect book from library",
+      });
+      refetch();
     },
   });
 
@@ -52,6 +87,8 @@ const Page = () => {
 
   const isAvailable =
     (resource?.stock?.reduce((acc, curr) => acc + curr.quantity, 0) || 0) > 0;
+
+  const alreadyHaveBook = (resource?.stockHistory?.length || 0) > 0;
 
   return (
     <div className="container">
@@ -70,7 +107,26 @@ const Page = () => {
             {resource?.genre}
           </Badge>
           <Separator className="my-4" />
-          {isAvailable ? <Button>Reserve</Button> : <Button>Notify </Button>}
+          {isAvailable ? (
+            <>
+              <Button
+                disabled={alreadyHaveBook || isPending}
+                onClick={() => !alreadyHaveBook && mutate(id)}
+              >
+                {isPending ? "Reserving..." : "Reserve"}
+              </Button>
+              <div className="my-2 text-orange-500">
+                {alreadyHaveBook
+                  ? resource?.stockHistory?.at(0)?.status ===
+                    StockAllocationStatus.Registered
+                    ? "You already register for this book"
+                    : "You already have this book"
+                  : null}
+              </div>
+            </>
+          ) : (
+            <Button>Notify </Button>
+          )}
           <Separator className="my-4" />
           <h1 className="mb-1">ISBN</h1>
           <p className="font-medium"># {resource?.isbn}</p>

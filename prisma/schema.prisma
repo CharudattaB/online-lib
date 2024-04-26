@@ -11,20 +11,20 @@ datasource db {
 }
 
 model User {
-    id             String         @id @default(uuid())
+    id             String            @id @default(uuid())
     name           String
-    email          String?        @unique
+    email          String?           @unique
     password       String?
-    emailVerified  DateTime?      @map("email_verified")
+    emailVerified  DateTime?         @map("email_verified")
     image          String?
-    college        College        @relation(fields: [collegeId], references: [id])
-    createdAt      DateTime       @default(now())
-    updatedAt      DateTime       @updatedAt
+    college        College           @relation(fields: [collegeId], references: [id])
+    createdAt      DateTime          @default(now())
+    updatedAt      DateTime          @updatedAt
     accounts       Account[]
     sessions       Session[]
     collegeId      String
-    assignedStock  StockHistory[] @relation("stockHistoryAllocatedTo")
-    allocatedStock StockHistory[] @relation("stockHistoryAllocatedBy")
+    assignedStock  StockAllocation[] @relation("stockHistoryAllocatedTo")
+    allocatedStock StockAllocation[] @relation("stockHistoryAllocatedBy")
 
     @@map("users")
 }
@@ -83,7 +83,7 @@ model College {
 
     users        User[]
     stock        Stock[]
-    stockHistory StockHistory[]
+    stockHistory StockAllocation[]
 
     @@map("colleges")
 }
@@ -108,7 +108,7 @@ model Resource {
     createdAt       DateTime     @default(now())
     updatedAt       DateTime     @updatedAt
 
-    stockHistory StockHistory[]
+    stockHistory StockAllocation[]
     stock        Stock[]
 
     @@map("resources")
@@ -128,36 +128,57 @@ model Stock {
     createdAt   DateTime @default(now())
     updatedAt   DateTime @updatedAt
 
-    resourceId   String
-    collegeId    String
-    stockHistory StockHistory[]
+    resourceId      String
+    collegeId       String
+    stockAllocation StockAllocation[]
 }
 
-model StockHistory {
-    id             String           @id @default(cuid())
-    stock          Stock            @relation(fields: [stockId], references: [id])
-    type           StockHistoryType
+model StockAllocation {
+    id             String                @id @default(cuid())
+    stock          Stock                 @relation(fields: [stockId], references: [id])
+    status         StockAllocationStatus
     quantity       Int
     startDate      DateTime?
     endDate        DateTime?
     otp            String?
-    allocatedTo    User             @relation("stockHistoryAllocatedTo", fields: [allocatedToId], references: [id])
-    allocatedBy    User             @relation("stockHistoryAllocatedBy", fields: [allocatedById], references: [id])
+    allocatedTo    User                  @relation("stockHistoryAllocatedTo", fields: [allocatedToId], references: [id])
+    allocatedBy    User?                 @relation("stockHistoryAllocatedBy", fields: [allocatedById], references: [id])
     remark         String?
-    createdAt      DateTime         @default(now())
-    updatedAt      DateTime         @updatedAt
+    createdAt      DateTime              @default(now())
+    updatedAt      DateTime              @updatedAt
     otpGeneratedAt DateTime?
 
-    allocatedToId String
-    allocatedById String
-    stockId       String
-    college       College?  @relation(fields: [collegeId], references: [id])
-    collegeId     String?
-    resource      Resource? @relation(fields: [resourceId], references: [id])
-    resourceId    String?
+    allocatedToId          String
+    allocatedById          String?
+    stockId                String
+    college                College?                 @relation(fields: [collegeId], references: [id])
+    collegeId              String?
+    resource               Resource?                @relation(fields: [resourceId], references: [id])
+    resourceId             String?
+    StockAllocationHistory StockAllocationHistory[]
+
+    @@map("stockAllocation")
+}
+
+model StockAllocationHistory {
+    id              String                @id @default(cuid())
+    action          StockAllocationStatus
+    stockAllocation StockAllocation       @relation(fields: [stockAllocationId], references: [id])
+    createdAt       DateTime              @default(now())
+    updatedAt       DateTime              @updatedAt
+
+    stockAllocationId String
 }
 
 enum StockHistoryType {
     In
     Out
+}
+
+enum StockAllocationStatus {
+    Registered
+    Approved
+    Rejected
+    Returned
+    Overdue
 }

@@ -7,26 +7,25 @@ import { NextRequest, NextResponse } from "next/server";
 import { NextParams } from "../../type";
 import { StockAllocationStatus } from "@prisma/client";
 import { prisma } from "@/lib/prisma";
-
+// type -> assign
 export async function POST(req: NextRequest, p: NextParams) {
   // remark
-  // create stock history type IN
   const token = await getToken({ req });
   const userId = token?.id as string;
   const { body, params } = await parseRequest(req, p);
 
-  const { remark, otp, stockAllocationId } = body;
-
+  const bookId = params.id;
+  const { remark, stockAllocationId } = body;
+  // set startDate and endDate as null
+  console.log({ body });
   const updatedHistory = await prisma.stockAllocation.update({
     where: {
       id: stockAllocationId,
-      otp,
-      status: {
-        in: [StockAllocationStatus.Overdue, StockAllocationStatus.Approved],
-      },
+      // resourceId: bookId,
+      status: StockAllocationStatus.Registered,
     },
     data: {
-      status: StockAllocationStatus.Returned,
+      status: StockAllocationStatus.Rejected,
       remark,
     },
   });
@@ -35,29 +34,20 @@ export async function POST(req: NextRequest, p: NextParams) {
     return NextResponse.json({
       status: 400,
       body: {
-        error: "Book not found",
+        error: "OTP does not match or Book not available",
       },
       success: false,
     });
   }
 
-  await prisma.stock.update({
-    where: {
-      id: updatedHistory.stockId,
-    },
-    data: {
-      quantity: {
-        increment: 1,
-      },
-    },
-  });
-
   await prisma.stockAllocationHistory.create({
     data: {
-      action: StockAllocationStatus.Returned,
+      action: StockAllocationStatus.Rejected,
       stockAllocationId: updatedHistory.id,
     },
   });
 
-  return NextResponse.json({ success: true });
+  return NextResponse.json({
+    success: true,
+  });
 }

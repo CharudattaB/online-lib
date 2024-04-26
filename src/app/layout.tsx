@@ -23,8 +23,8 @@ export default function RootLayout({
         <QueryClientProvider client={queryClient}>
           <ThemeProvider
             attribute="class"
-            // defaultTheme="light"
-            enableSystem={false}
+            // defaultTheme="dark"
+            enableSystem={true}
           >
             <NextAuthSessionProvider>{children}</NextAuthSessionProvider>
             <Toaster />
