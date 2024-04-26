@@ -10,6 +10,7 @@ import { BookTable } from "./BooksTable";
 import { Button } from "@/components/ui/button";
 import { Paginate } from "@/components/Pagination";
 import Link from "next/link";
+import { Suspense } from "react";
 
 const Page = () => {
   const [sort, setSort] = useRouterQueryState("sort", "default");
@@ -29,54 +30,56 @@ const Page = () => {
     },
   });
   return (
-    <TabsContent value="books">
-      <div className="container">
-        <div className="grid grid-cols-8">
-          <div className="col-span-2 p-4 sticky top-0 left-0 items-stretch">
-            {isLoading ? (
-              <Loader2 className="animate-spin text-center" />
-            ) : (
-              <>
-                <BookFilter
-                  data={data.filters}
-                  value={{
-                    genre,
-                    author,
-                    language,
-                    s,
-                  }}
-                  onChange={{
-                    genre: setGenre,
-                    author: setAuthor,
-                    language: setLanguage,
-                    s: setS,
-                  }}
-                />
-                <div className="mt-8 w-full">
-                  <Paginate data={data?.pagination} />
-                </div>
-              </>
-            )}
-          </div>
-          <div className="col-span-6">
-            <div className="flex gap-4 justify-between items-center py-4">
-              <h1>Books</h1>
-              <div className="flex gap-4 items-center">
-                <Link href="/admin/approvals">Approvals</Link>
-                <Link href="/admin/books/new">
-                  <Button>New</Button>
-                </Link>
-              </div>
+    <Suspense fallback={<h1>Loading...</h1>}>
+      <TabsContent value="books">
+        <div className="container">
+          <div className="grid grid-cols-8">
+            <div className="col-span-2 p-4 sticky top-0 left-0 items-stretch">
+              {isLoading ? (
+                <Loader2 className="animate-spin text-center" />
+              ) : (
+                <>
+                  <BookFilter
+                    data={data.filters}
+                    value={{
+                      genre,
+                      author,
+                      language,
+                      s,
+                    }}
+                    onChange={{
+                      genre: setGenre,
+                      author: setAuthor,
+                      language: setLanguage,
+                      s: setS,
+                    }}
+                  />
+                  <div className="mt-8 w-full">
+                    <Paginate data={data?.pagination} />
+                  </div>
+                </>
+              )}
             </div>
-            {isLoading ? (
-              <Loader2 className="animate-spin text-center" />
-            ) : (
-              <BookTable data={data?.books} />
-            )}
+            <div className="col-span-6">
+              <div className="flex gap-4 justify-between items-center py-4">
+                <h1>Books</h1>
+                <div className="flex gap-4 items-center">
+                  <Link href="/admin/approvals">Approvals</Link>
+                  <Link href="/admin/books/new">
+                    <Button>New</Button>
+                  </Link>
+                </div>
+              </div>
+              {isLoading ? (
+                <Loader2 className="animate-spin text-center" />
+              ) : (
+                <BookTable data={data?.books} />
+              )}
+            </div>
           </div>
         </div>
-      </div>
-    </TabsContent>
+      </TabsContent>
+    </Suspense>
   );
 };
 

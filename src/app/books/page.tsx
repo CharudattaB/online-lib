@@ -8,6 +8,7 @@ import { useQuery } from "@tanstack/react-query";
 import { Loader2 } from "lucide-react";
 import { useRouterQueryState } from "@/lib/hooks/useQueryState";
 import { useSearchParams } from "next/navigation";
+import { Suspense } from "react";
 
 const filterMap = {
   genre: {
@@ -43,52 +44,54 @@ const Page = () => {
   });
 
   return (
-    <section className="container pb-12">
-      <div className="sticky top-0 left-0 flex items-end gap-2 justify-between bg-background pt-12 pb-8 z-10">
-        <h1 className="text-xl font-bold py-2">
-          {data?.pagination?.total} Results
-        </h1>
-        <div className="flex items-center gap-2">
-          <SortMenu onChange={setSort} value={sort} />
-          <ResultPerPage onChange={setLimit} value={limit} />
+    <Suspense fallback={<h1>Loading..</h1>}>
+      <section className="container pb-12">
+        <div className="sticky top-0 left-0 flex items-end gap-2 justify-between bg-background pt-12 pb-8 z-10">
+          <h1 className="text-xl font-bold py-2">
+            {data?.pagination?.total} Results
+          </h1>
+          <div className="flex items-center gap-2">
+            <SortMenu onChange={setSort} value={sort} />
+            <ResultPerPage onChange={setLimit} value={limit} />
+          </div>
         </div>
-      </div>
-      <div className="grid grid-cols-7 gap-8 pb-12">
-        <div className="col-span-2">
-          {isLoading ? (
-            <Loader2 className="animate-spin text-center" />
-          ) : (
-            <BookFilter
-              data={data.filters}
-              value={{
-                genre,
-                author,
-                language,
-                s,
-              }}
-              onChange={{
-                genre: setGenre,
-                author: setAuthor,
-                language: setLanguage,
-                s: setS,
-              }}
-            />
-          )}
+        <div className="grid grid-cols-7 gap-8 pb-12">
+          <div className="col-span-2">
+            {isLoading ? (
+              <Loader2 className="animate-spin text-center" />
+            ) : (
+              <BookFilter
+                data={data.filters}
+                value={{
+                  genre,
+                  author,
+                  language,
+                  s,
+                }}
+                onChange={{
+                  genre: setGenre,
+                  author: setAuthor,
+                  language: setLanguage,
+                  s: setS,
+                }}
+              />
+            )}
+          </div>
+          <div className="col-span-5">
+            {isLoading ? (
+              <Loader2 className="animate-spin" />
+            ) : (
+              <>
+                <BookList data={data?.books} />
+                <div className="mt-8 w-full">
+                  <Paginate data={data?.pagination} />
+                </div>
+              </>
+            )}
+          </div>
         </div>
-        <div className="col-span-5">
-          {isLoading ? (
-            <Loader2 className="animate-spin" />
-          ) : (
-            <>
-              <BookList data={data?.books} />
-              <div className="mt-8 w-full">
-                <Paginate data={data?.pagination} />
-              </div>
-            </>
-          )}
-        </div>
-      </div>
-    </section>
+      </section>
+    </Suspense>
   );
 };
 export default Page;

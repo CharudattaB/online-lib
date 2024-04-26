@@ -1,5 +1,5 @@
 "use client";
-import { useState } from "react";
+import { Suspense, useState } from "react";
 import { ApprovalTables } from "./ApprovalTables";
 import { useMutation, useQuery } from "@tanstack/react-query";
 import { useParams, useSearchParams } from "next/navigation";
@@ -33,38 +33,40 @@ const Page = () => {
   const [stockAllocationId, setStockAllocationId] = useState<string>("");
 
   return (
-    <div className="container">
-      <div className="py-8">
-        <div>
-          <h1 className="text-xl">Approvals</h1>
-          {isLoading ? (
-            <Loader2 className="animate-spin my-4" />
-          ) : (
-            <ApprovalTables
-              // stockAllocationId={setStockAllocationId}
-              // setStockAllocationId={setStockAllocationId}
-              selected={stockAllocationId}
-              onClick={setStockAllocationId}
-              data={data?.approvals}
-            />
-          )}
+    <Suspense fallback={<h1>Loading...</h1>}>
+      <div className="container">
+        <div className="py-8">
+          <div>
+            <h1 className="text-xl">Approvals</h1>
+            {isLoading ? (
+              <Loader2 className="animate-spin my-4" />
+            ) : (
+              <ApprovalTables
+                // stockAllocationId={setStockAllocationId}
+                // setStockAllocationId={setStockAllocationId}
+                selected={stockAllocationId}
+                onClick={setStockAllocationId}
+                data={data?.approvals}
+              />
+            )}
+          </div>
         </div>
-      </div>
-      <Dialog
-        open={!!stockAllocationId}
-        onOpenChange={(open) => {
-          setStockAllocationId((prev) => (open ? prev : ""));
-        }}
-      >
-        <DialogContent>
-          <DialogHeader>
-            <DialogTitle>Approval Details</DialogTitle>
-          </DialogHeader>
+        <Dialog
+          open={!!stockAllocationId}
+          onOpenChange={(open) => {
+            setStockAllocationId((prev) => (open ? prev : ""));
+          }}
+        >
+          <DialogContent>
+            <DialogHeader>
+              <DialogTitle>Approval Details</DialogTitle>
+            </DialogHeader>
 
-          <ApprovalDetails refetch={refetch} selected={stockAllocationId} />
-        </DialogContent>
-      </Dialog>
-    </div>
+            <ApprovalDetails refetch={refetch} selected={stockAllocationId} />
+          </DialogContent>
+        </Dialog>
+      </div>
+    </Suspense>
   );
 };
 

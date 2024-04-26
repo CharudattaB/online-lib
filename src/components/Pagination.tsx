@@ -1,5 +1,5 @@
 "use client";
-import { FC } from "react";
+import { FC, Suspense } from "react";
 import { Button } from "./ui/button";
 import { ChevronLeft, ChevronRight } from "tabler-icons-react";
 import {
@@ -33,27 +33,29 @@ export const Paginate: FC<PaginationProps> = ({ data }) => {
   const params = useSearchParams();
   const page = parseInt(params.get("page") || "1", 10);
   return (
-    <div className="flex gap-2 justify-center">
-      <Button
-        variant="secondary"
-        disabled={!hasPrevious}
-        onClick={() =>
-          router.push(location + getPaginationUrl(page - 1, params))
-        }
-      >
-        <ChevronLeft className="mr-2 opacity-50" size={18} />
-        Previous
-      </Button>
-      <Button
-        variant="secondary"
-        disabled={!hasNext}
-        onClick={() =>
-          router.push(location + getPaginationUrl(page + 1, params))
-        }
-      >
-        Next
-        <ChevronRight className="mr-2 opacity-50" size={18} />
-      </Button>
-    </div>
+    <Suspense fallback={<h1>Loading..</h1>}>
+      <div className="flex gap-2 justify-center">
+        <Button
+          variant="secondary"
+          disabled={!hasPrevious}
+          onClick={() =>
+            router.push(location + getPaginationUrl(page - 1, params))
+          }
+        >
+          <ChevronLeft className="mr-2 opacity-50" size={18} />
+          Previous
+        </Button>
+        <Button
+          variant="secondary"
+          disabled={!hasNext}
+          onClick={() =>
+            router.push(location + getPaginationUrl(page + 1, params))
+          }
+        >
+          Next
+          <ChevronRight className="mr-2 opacity-50" size={18} />
+        </Button>
+      </div>
+    </Suspense>
   );
 };
