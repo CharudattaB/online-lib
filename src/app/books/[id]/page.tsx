@@ -48,7 +48,7 @@ const Page = () => {
   const { data, isLoading, refetch } = useQuery({
     queryKey: ["books", id],
     queryFn: async () => {
-      const res = await fetch("/api/resources/" + id);
+      const res = await fetch("/api/resources/" + id, { cache: "no-store" });
       return res.json() as Promise<{
         resource: Resource & {
           stockHistory: Array<StockAllocation>;

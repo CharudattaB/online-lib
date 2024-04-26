@@ -25,7 +25,9 @@ const Page = () => {
   const { data, isLoading, refetch } = useQuery({
     queryKey: ["approvals", query.toString()],
     queryFn: async () => {
-      const res = await fetch("/api/approvals?" + query.toString());
+      const res = await fetch("/api/approvals?" + query.toString(), {
+        cache: "no-store",
+      });
       return res.json();
     },
   });

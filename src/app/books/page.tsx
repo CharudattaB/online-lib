@@ -38,7 +38,9 @@ const Page = () => {
   const { data, isLoading } = useQuery({
     queryKey: ["books", query.toString()],
     queryFn: async () => {
-      const res = await fetch("/api/resources?" + query.toString());
+      const res = await fetch("/api/resources?" + query.toString(), {
+        cache: "no-store",
+      });
       return res.json();
     },
   });

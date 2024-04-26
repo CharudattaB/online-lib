@@ -23,7 +23,7 @@ export default function Home() {
   const { data: trendingBooks, isLoading: isBooksLoading } = useQuery({
     queryKey: ["trendingBooks"],
     queryFn: async () => {
-      const res = await fetch("/api/resources/trending");
+      const res = await fetch("/api/resources/trending", { cache: "no-store" });
       return res.json();
     },
   });
@@ -31,7 +31,7 @@ export default function Home() {
   const { data: genres, isLoading: isGenresLoading } = useQuery({
     queryKey: ["genre"],
     queryFn: async () => {
-      const res = await fetch("/api/resources/genre");
+      const res = await fetch("/api/resources/genre", { cache: "no-store" });
       return res.json();
     },
   });
